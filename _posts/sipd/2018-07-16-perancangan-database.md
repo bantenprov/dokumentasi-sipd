@@ -108,3 +108,22 @@ Jenis data atau lebih sering disebut dengan istilah "variabel" adalah tabel yang
 
 - Menggunakan referensi pada tabel : jabatan
 - Digunakan sebagai referensi pada tabel : jenis_data
+
+## jenis_element
+
+Jenis element digunakan untuk mengklasifikasikan elemen pada rancangan sistem yang akan dibuat. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan jenis element. Berikut adalah field yang terdapat pada tabel jenis element.
+
+### Struktur tabel jenis_element
+
+Struktur tabel jenis elemen terdiri dari:
+
+| Name     | Type         | Unsigned | Null     | Keterangan                                                     |
+|----------|--------------|----------|----------|----------------------------------------------------------------|
+| id       | int(10)      | UNSIGNED | NOT NULL | Merupakan ID dari data jenis elemen                           |
+| uuid     | varchar(128) |          | NOT NULL | Merupakan Universal Unique ID dari data jenis elemen          |
+| langcode | varchar(12)  |          | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam jenis elemen     |
+| user_id  | int(10)      |          | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah jenis elemen |
+| name     | varchar(50)  |          | NOT NULL | Merupakan nama dari jenis elemen                              |
+| status   | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya jenis elemen                  |
+| created  | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jenis elemen                   |
+| changed  | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jenis elemen        
