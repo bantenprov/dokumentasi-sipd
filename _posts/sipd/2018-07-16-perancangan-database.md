@@ -76,3 +76,8 @@ Opd adalah singkatan dari Organisasi Perangkat Daerah, yang merupakan satuan ker
 | status       | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya opd                                                    |
 | created      | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya opd                                                     |
 | changed      | int(11)      |          | NULL     | Merupakan waktu saat diubahnya opd                                                     |
+
+### Referensi
+
+- Menggunakan referensi pada tabel : jabatan
+- Digunakan sebagai referensi pada tabel : jenis_data
