@@ -53,3 +53,26 @@ Jabatan data adalah tabel yang menampung jabatan yang ada di lingkungan Pemerint
 
 - Menggunakan referensi pada tabel :
 - Digunakan sebagai referensi pada tabel : opd
+
+## Opd
+
+Opd adalah singkatan dari Organisasi Perangkat Daerah, yang merupakan satuan kerja yang ada di lingkungan Pemerintah Provinsi Banten. opd disini adalah tabel yang menampung data opd yang ada di lingkungan Pemerintah Provinsi Banten, didalam tabel opd ini terdapat beberapa field yang terkait dengan opd. Berikut adalah field yang ada dalam tabel opd.
+
+### Struktur tabel opd
+
+| Name         | Type         | Unsigned | Null     | Keterangan                                                                             |
+|--------------|--------------|----------|----------|----------------------------------------------------------------------------------------|
+| id           | int(10)      | UNSIGNED | NOT NULL | Merupakan ID dari data opd                                                             |
+| uuid         | varchar(128) |          | NOT NULL | Merupakan Universal Unique ID dari data opd                                            |
+| langcode     | varchar(12)  |          | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam opd                                       |
+| user_id      | int(10)      |          | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah opd                                   |
+| kode         | varchar(128) |          | NOT NULL | Merupakan kode opd dari kelompok data, saatini digunakan kode opd dari aplikasi simpeg |
+| name         | varchar(50)  |          | NOT NULL | Merupakan nama dari opd                                                                |
+| induk        | int(10)      | UNSIGNED | NOT NULL | Merupakan ID autoincrement dari tabel opd                                              |
+| induk_uuid   | varchar(128) |          | NOT NULL | Merupakan UUID induk opda dari tabel opd                                               |
+| pejabat      | varchar(191) |          | NULL     | Perupakan Pejabat yang terkait dengan jabatan pada opd                                 |
+| jabatan      | int(10)      | UNSIGNED | NOT NULL | Merupakan jabatan ID yang ada pada opd                                                 |
+| jabatan_uuid | varchar(128) |          | NOT NULL | Merupak UUID dari kolom opd                                                            |
+| status       | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya opd                                                    |
+| created      | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya opd                                                     |
+| changed      | int(11)      |          | NULL     | Merupakan waktu saat diubahnya opd                                                     |
