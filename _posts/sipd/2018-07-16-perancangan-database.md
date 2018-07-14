@@ -127,3 +127,27 @@ Struktur tabel jenis elemen terdiri dari:
 | status   | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya jenis elemen                  |
 | created  | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jenis elemen                   |
 | changed  | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jenis elemen        
+
+## element
+
+Element adalah bagian penting yang perancangan sistem ini, digunakan sebagai komponen komponen yang dipakai dalam mencatat suatu nilai atau pengukuran. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan element. Berikut adalah field yang terdapat pada tabel element.
+
+### Struktur tabel jenis_element
+
+Struktur tabel jenis elemen terdiri dari:
+
+| Name         | Type         | Unsigned | Null     | Keterangan                                           |
+|--------------|--------------|----------|----------|------------------------------------------------------|
+| id           | int(10)      | UNSIGNED | NOT NULL | Merupakan ID dari data elemen                           |
+| uuid         | varchar(128) |          | NOT NULL | Merupakan Universal Unique ID dari data elemen          |
+| langcode     | varchar(12)  |          | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam elemen     |
+| user_id      | int(10)      |          | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah elemen |
+| kode         | varchar(128) |          | NOT NULL | Merupakan kode elemen dari kelompok data                |
+| name         | varchar(50)  |          | NOT NULL | Merupakan nama dari elemen                              |
+| induk        | int(10)      | UNSIGNED | NOT NULL | Merupakan ID autoincrement dari tabel elemen            |
+| induk_uuid   | varchar(128) |          | NOT NULL | Merupakan UUID induk elemena dari tabel elemen             |
+| jenis_data   | int(10)      | UNSIGNED | NOT NULL | Merupakan jenis_data ID yang ada pada elemen            |
+| jenis_elemen | int(10)      | UNSIGNED | NOT NULL | Merupak jenis_elemen ID dari kolom elemen               |
+| status       | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya elemen                  |
+| created      | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya elemen                   |
+| changed      | int(11)      |          | NULL     | Merupakan waktu saat diubahnya elemen                   |
