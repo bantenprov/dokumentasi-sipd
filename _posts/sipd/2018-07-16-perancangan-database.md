@@ -81,3 +81,30 @@ Opd adalah singkatan dari Organisasi Perangkat Daerah, yang merupakan satuan ker
 
 - Menggunakan referensi pada tabel : jabatan
 - Digunakan sebagai referensi pada tabel : jenis_data
+
+## jenis_data
+
+Jenis data atau lebih sering disebut dengan istilah "variabel" adalah tabel yang menampung data dari jenis data atau variabel tersebut. Jenis data adalah tabel yang menampung jenis data atau variabel  yang ada di lingkungan Pemerintah Provinsi Banten. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan jenis data. Berikut adalah field yang terdapat pada tabel jenis data.
+
+### Struktur table jenis data
+
+| Name               | Type         | Unsigned | Null     | Keterangan                                               |
+|--------------------|--------------|----------|----------|----------------------------------------------------------|
+| id                 | int(10)      | UNSIGNED | NOT NULL | Merupakan ID dari data jabatan                           |
+| uuid               | varchar(128) |          | NOT NULL | Merupakan Universal Unique ID dari data jabatan          |
+| langcode           | varchar(12)  |          | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam jabatan     |
+| user_id            | int(10)      |          | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah jabatan |
+| kelompok_data      | int(10)      | UNSIGNED | NOT NULL | Merupakan ID autoincrement dari kelompok data            |
+| kelompok_data_uuid | varchar(128) |          | NOT NULL | Merupakan UUID dari kelompok data                        |
+| name               | varchar(50)  |          | NOT NULL | Merupakan nama dari jabatan                              |
+| opd                | int(10)      | UNSIGNED | NOT NULL | Merupakan ID autoincrement dari tabel opd                |
+| opd_uuid           | varchar(128) |          | NOT NULL | Merupakan UUID dari tabel opd                            |
+| status             | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya jabatan                  |
+| created            | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jabatan                   |
+| changed            | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jabatan                   |
+
+
+### Referensi
+
+- Menggunakan referensi pada tabel : jabatan
+- Digunakan sebagai referensi pada tabel : jenis_data
