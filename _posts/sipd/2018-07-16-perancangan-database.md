@@ -30,3 +30,26 @@ Struktur tabel kelompok data terdiri dari:
 
 - Menggunakan referensi pada tabel :
 - Digunakan sebagai referensi pada tabel : jenis_data
+
+## Jabatan
+
+Jabatan data adalah tabel yang menampung jabatan yang ada di lingkungan Pemerintah Provinsi Banten. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan data jabatan. Berikut adalah field yang terdapat pada tabel jabatan.
+
+### Struktur table jabatan
+
+| Name     | Type         | Unsigned | Null     | Keterangan                                               |
+|----------|--------------|----------|----------|----------------------------------------------------------|
+| id       | int(10)      | UNSIGNED | NOT NULL | Merupakan ID dari data jabatan                           |
+| uuid     | varchar(128) |          | NOT NULL | Merupakan Universal Unique ID dari data jabatan          |
+| langcode | varchar(12)  |          | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam jabatan     |
+| user_id  | int(10)      |          | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah jabatan |
+| name     | varchar(50)  |          | NOT NULL | Merupakan nama dari jabatan                              |
+| eselon   | varchar(255) |          | NOT NULL | Merupakan tingkat eselon dari jabatan terkait            |
+| status   | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya jabatan                  |
+| created  | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jabatan                   |
+| changed  | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jabatan                   |
+
+### Referensi
+
+- Menggunakan referensi pada tabel :
+- Digunakan sebagai referensi pada tabel : opd
