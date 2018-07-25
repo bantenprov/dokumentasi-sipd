@@ -134,6 +134,46 @@ Struktur tabel kelompok data terdiri dari:
 - Menggunakan referensi pada tabel :
 - Digunakan sebagai referensi pada tabel : jenis_data
 
+~~~sql
+--
+-- Table structure for table `kelompok_data`
+--
+
+CREATE TABLE `kelompok_data` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `name` varchar(50) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL,
+  `kode` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for kelompok_data entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `kelompok_data`
+--
+ALTER TABLE `kelompok_data`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `kelompok_data_field__uuid__value` (`uuid`),
+  ADD KEY `kelompok_data_field__user_id__target_id` (`user_id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `kelompok_data`
+--
+ALTER TABLE `kelompok_data`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~sql
+
 #### 3.5.2.2.2 Jabatan
 
 Jabatan data adalah tabel yang menampung jabatan yang ada di lingkungan Pemerintah Provinsi Banten. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan data jabatan. Berikut adalah field yang terdapat pada tabel jabatan.
@@ -156,6 +196,47 @@ Jabatan data adalah tabel yang menampung jabatan yang ada di lingkungan Pemerint
 
 - Menggunakan referensi pada tabel :
 - Digunakan sebagai referensi pada tabel : opd
+
+~~~sql
+--
+-- Table structure for table `jabatan`
+--
+
+CREATE TABLE `jabatan` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `name` varchar(50) DEFAULT NULL,
+  `eselon` varchar(255) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for jabatan entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `jabatan`
+--
+ALTER TABLE `jabatan`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `jabatan_field__uuid__value` (`uuid`),
+  ADD KEY `jabatan_field__user_id__target_id` (`user_id`),
+  ADD KEY `jabatan_field__eselon__value` (`eselon`(191));
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `jabatan`
+--
+ALTER TABLE `jabatan`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
 
 #### 3.5.2.2.3 Opd
 
@@ -185,6 +266,53 @@ Opd adalah singkatan dari Organisasi Perangkat Daerah, yang merupakan satuan ker
 - Menggunakan referensi pada tabel : jabatan
 - Digunakan sebagai referensi pada tabel : jenis_data
 
+~~~sql
+--
+-- Table structure for table `opd`
+--
+
+CREATE TABLE `opd` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `kode` varchar(128) DEFAULT NULL,
+  `name` varchar(191) DEFAULT NULL,
+  `induk` varchar(128) DEFAULT NULL,
+  `pejabat` varchar(191) DEFAULT NULL,
+  `jabatan` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `jabatan_uuid` varchar(255) DEFAULT NULL,
+  `level` varchar(255) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for opd entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `opd`
+--
+ALTER TABLE `opd`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `opd_field__uuid__value` (`uuid`),
+  ADD KEY `opd_field__user_id__target_id` (`user_id`),
+  ADD KEY `opd_field__jabatan__target_id` (`jabatan`),
+  ADD KEY `opd_field__level__value` (`level`(191));
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `opd`
+--
+ALTER TABLE `opd`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
+
 #### 3.5.2.2.3 jenis_data
 
 Jenis data atau lebih sering disebut dengan istilah "variabel" adalah tabel yang menampung data dari jenis data atau variabel tersebut. Jenis data adalah tabel yang menampung jenis data atau variabel  yang ada di lingkungan Pemerintah Provinsi Banten. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan jenis data. Berikut adalah field yang terdapat pada tabel jenis data.
@@ -206,11 +334,56 @@ Jenis data atau lebih sering disebut dengan istilah "variabel" adalah tabel yang
 | created            | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jabatan                   |
 | changed            | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jabatan                   |
 
-
 **Referensi**
 
 - Menggunakan referensi pada tabel : jabatan
 - Digunakan sebagai referensi pada tabel : jenis_data
+
+~~~sql
+--
+-- Table structure for table `jenis_data`
+--
+
+CREATE TABLE `jenis_data` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `kode` int(11) DEFAULT NULL,
+  `kelompok_data` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `kelompok_data_uuid` varchar(128) DEFAULT NULL,
+  `name` varchar(191) DEFAULT NULL,
+  `opd` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `opd_uuid` varchar(128) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for jenis_data entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `jenis_data`
+--
+ALTER TABLE `jenis_data`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `jenis_data_field__uuid__value` (`uuid`),
+  ADD KEY `jenis_data_field__user_id__target_id` (`user_id`),
+  ADD KEY `jenis_data_field__kelompok_data__target_id` (`kelompok_data`),
+  ADD KEY `jenis_data_field__opd__target_id` (`opd`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `jenis_data`
+--
+ALTER TABLE `jenis_data`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
 
 #### 3.5.2.2.5 jenis_element
 
@@ -231,6 +404,50 @@ Struktur tabel jenis elemen terdiri dari:
 | created  | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya jenis elemen                   |
 | changed  | int(11)      |          | NULL     | Merupakan waktu saat diubahnya jenis elemen        
 
+**Referensi**
+
+- Menggunakan referensi pada tabel : 
+- Digunakan sebagai referensi pada tabel : element
+
+~~~sql
+--
+-- Table structure for table `jenis_element`
+--
+
+CREATE TABLE `jenis_element` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `name` varchar(50) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for jenis_element entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `jenis_element`
+--
+ALTER TABLE `jenis_element`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `jenis_element_field__uuid__value` (`uuid`),
+  ADD KEY `jenis_element_field__user_id__target_id` (`user_id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `jenis_element`
+--
+ALTER TABLE `jenis_element`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
+
 #### 3.5.2.2.5 element
 
 Element adalah bagian penting yang perancangan sistem ini, digunakan sebagai komponen komponen yang dipakai dalam mencatat suatu nilai atau pengukuran. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan element. Berikut adalah field yang terdapat pada tabel element.
@@ -250,14 +467,159 @@ Struktur tabel jenis elemen terdiri dari:
 | induk        | int(10)      | UNSIGNED | NOT NULL | Merupakan ID autoincrement dari tabel elemen            |
 | induk_uuid   | varchar(128) |          | NOT NULL | Merupakan UUID induk elemena dari tabel elemen             |
 | jenis_data   | int(10)      | UNSIGNED | NOT NULL | Merupakan jenis_data ID yang ada pada elemen            |
-| jenis_elemen | int(10)      | UNSIGNED | NOT NULL | Merupak jenis_elemen ID dari kolom elemen               |
+| jenis_elemen | int(10)      | UNSIGNED | NOT NULL | Merupakan jenis_elemen ID dari kolom elemen               |
 | status       | tinyint(4)   |          | NOT NULL | Merupakan status aktif tidaknya elemen                  |
 | created      | int(11)      |          | NULL     | Merupakan waktu saat dibuatnya elemen                   |
 | changed      | int(11)      |          | NULL     | Merupakan waktu saat diubahnya elemen                   |
 
+**Referensi**
 
-#### 3.5.2.2.5 Hasil Restrukturisasi Data per Urusan
+- Menggunakan referensi pada tabel : jenis_element
+- Digunakan sebagai referensi pada tabel : sipd
 
+~~~sql
+--
+-- Table structure for table `element`
+--
+
+CREATE TABLE `element` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `name` varchar(50) DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL,
+  `jenis_data` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `jenis_element` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `induk` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `induk_uuid` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for element entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `element`
+--
+ALTER TABLE `element`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `element_field__uuid__value` (`uuid`),
+  ADD KEY `element_field__user_id__target_id` (`user_id`),
+  ADD KEY `element_field__jenis_data__target_id` (`jenis_data`),
+  ADD KEY `element_field__jenis_elemen__target_id` (`jenis_element`),
+  ADD KEY `element_field__induk__target_id` (`induk`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `element`
+--
+ALTER TABLE `element`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
+
+#### 3.5.2.2.5 sipd
+
+sipd adalah bagian utama yang perancangan sistem ini, digunakan sebagai komponen komponen yang dipakai dalam menampilkan nilai atau pengukuran pada tabel element. Di dalam tabel ini terdapat beberapa field yang berhubungan dengan element. Berikut adalah field yang terdapat pada tabel sipd.
+
+| Name | Type | UNSIGNED | NULL | Comment |
+| --- | --- | --- | --- | --- |
+| id | int(10) | UNSIGNED | NOT NULL | Merupakan ID dari data sipd |
+| uuid | varchar(128) | CHARACTER SET ascii | NOT NULL | Merupakan Universal Unique ID dari sipd |
+| langcode | varchar(12) | CHARACTER SET ascii | NOT NULL | Merupakan pengenal bahasa yang dipakai dalam sipd |
+| user_id | int(10) | UNSIGNED | NOT NULL | Merupakan ID dari pengguna yang membuat/mengubah sipd |
+| element | int(10) | UNSIGNED | NULL | Merupakan ID dari element pada sipd |
+| wilayah_banten | int(10) | UNSIGNED | NULL | Merupakan ID dari wilayah kabupaten kota  pada sipd |
+| name | varchar(191) | DEFAULT | NULL | Merupakan nama dari wilayah kabupaten kota  pada sipd |
+| kode_provinsi | varchar(191) | DEFAULT | NULL | Merupakan kode provinsi dari sipd |
+| kode_kab_kota | varchar(191) | DEFAULT | NULL | Merupakan kode kabupaten / kota dari sipd |
+| kode_kecamatan | varchar(191) | DEFAULT | NULL | Merupakan kode kecamatan dari sipd |
+| kode_urusan | varchar(191) | DEFAULT | NULL | Merupakan kode urusan dari sipd |
+| id_table | varchar(191) | DEFAULT | NULL | Merupakan id_table dari sipd |
+| header | varchar(191) | DEFAULT | NULL | Merupakan header dari sipd |
+| variable | varchar(191) | DEFAULT | NULL | Merupakan nama variabel dari sipd |
+| elemen | varchar(191) | DEFAULT | NULL | Merupakan nama element dari sipd |
+| s_elemen | varchar(191) | DEFAULT | NULL | Merupakan nama sub element dari sipd |
+| s1_elemen | varchar(191) | DEFAULT | NULL | Merupakan nama sub sub element dari sipd |
+| s2_elemen | varchar(191) | DEFAULT | NULL | Merupakan nama sub sub sub element dari sipd |
+| jenis_data | varchar(191) | DEFAULT | NULL | Merupakan nama dari jenis data |
+| kelompok_data | varchar(191) | DEFAULT | NULL | Merupakan nama dari kelompok data |
+| pemda | varchar(191) | DEFAULT | NULL | Merupakan Nama Pemerintah Daerah dari sipd |
+| opd_uuid | varchar(191) | DEFAULT | NULL | Merupakan Universal Unique ID dari Perangkat Daerah |
+| opd_nama | varchar(191) | DEFAULT | NULL | Merupakan nama  dari Perangkat Daerah |
+| tahun | int(11) | DEFAULT | NULL | Merupakan tahun dicatatnya sipd |
+| nilai | float | DEFAULT | NULL | Merupakan nilai yang dicatat dalam sipd |
+| status | tinyint(4) | |  NOT NULL | Merupakan status aktif tidaknya sipd |
+| created | int(11) | DEFAULT | NULL | Merupakan waktu saat dibuatnya sipd |
+| changed | int(11) | DEFAULT | NULL | Merupakan waktu saat diubahnya sipd |
+
+~~~sql
+--
+-- Table structure for table `sipd`
+--
+
+CREATE TABLE `sipd` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `uuid` varchar(128) CHARACTER SET ascii NOT NULL,
+  `langcode` varchar(12) CHARACTER SET ascii NOT NULL,
+  `user_id` int(10) UNSIGNED NOT NULL COMMENT 'The ID of the target entity.',
+  `element` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `wilayah_banten` int(10) UNSIGNED DEFAULT NULL COMMENT 'The ID of the target entity.',
+  `name` varchar(191) DEFAULT NULL,
+  `kode_provinsi` varchar(191) DEFAULT NULL,
+  `kode_kab_kota` varchar(191) DEFAULT NULL,
+  `kode_kecamatan` varchar(191) DEFAULT NULL,
+  `kode_urusan` varchar(191) DEFAULT NULL,
+  `id_table` varchar(191) DEFAULT NULL,
+  `header` varchar(191) DEFAULT NULL,
+  `variable` varchar(191) DEFAULT NULL,
+  `elemen` varchar(191) DEFAULT NULL,
+  `s_elemen` varchar(191) DEFAULT NULL,
+  `s1_elemen` varchar(191) DEFAULT NULL,
+  `s2_elemen` varchar(191) DEFAULT NULL,
+  `jenis_data` varchar(191) DEFAULT NULL,
+  `kelompok_data` varchar(191) DEFAULT NULL,
+  `pemda` varchar(191) DEFAULT NULL,
+  `opd_uuid` varchar(191) DEFAULT NULL,
+  `opd_nama` varchar(191) DEFAULT NULL,
+  `tahun` int(11) DEFAULT NULL,
+  `nilai` float DEFAULT NULL,
+  `status` tinyint(4) NOT NULL,
+  `created` int(11) DEFAULT NULL,
+  `changed` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='The base table for sipd entities.';
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `sipd`
+--
+ALTER TABLE `sipd`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `sipd_field__uuid__value` (`uuid`),
+  ADD KEY `sipd_field__user_id__target_id` (`user_id`),
+  ADD KEY `sipd_field__element__target_id` (`element`),
+  ADD KEY `sipd_field__wilayah_banten__target_id` (`wilayah_banten`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `sipd`
+--
+ALTER TABLE `sipd`
+  MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
+~~~
+
+#### 3.5.2.2.6 Hasil Restrukturisasi Data per Urusan
 
 | NO | URUSAN                                                        | KELOMPOK DATA | JENIS DATA | HEADER | VARIABEL DATA | ELEMEN DATA | SUB ELEMEN DATA | SUB SUB ELEMEN DATA | TOTAL |
 |----|---------------------------------------------------------------|---------------|------------|--------|---------------|-------------|-----------------|---------------------|-------|
@@ -345,6 +707,7 @@ Pemetaan ke dalam model data DBMS dengan tidak mempertimbangkan karakteristik at
 Mengatur skema yang dihasilkan pada langkah 1 untuk disesuaikan pada implementasi yang khusus di masa yang akan datang dari suatu model data yang digunakan pada DBMS yang dipilih.Hasil dari tahap ini memakai perintah-perintah DDL (Data Definition Language) dalam bahasa DBMS yang dipilih yang menentukan tingkat skema konseptual dan eksternal dari sistem database. Tetapi 10 dalam beberapa hal, perintah-perintah DDL memasukkan parameter-parameter rancangan fisik sehingga DDL yang lengkap harus menunggu sampai tahap perancangan databasesecara fisik telah lengkap.Tahap ini dapat dimulai setelah pemilihan sebuah implementasi model data sambil menunggu DBMS yang spesifik yang akan dipilih. Contoh: jika memutuskan untuk menggunakan beberapa relational DBMS tetapi belum memutuskan suatu relasi yang utama. Rancangan dari skema eksternal untuk aplikasi-aplikasi yang spesifik seringkali sudah selesai selama proses ini.
 
 #### 3.5.2.5 Perancangan basisdata secara fisik
+
 Perancangan database secara fisik merupakan proses pemilihan struktur-struktur penyimpanan dan jalur-jalur akses pada file-file databaseuntuk mencapai penampilan yang terbaik pada bermacam-macam aplikasi.Selama fase ini, dirancang spesifikasi-spesifikasi untuk database yang disimpan yang berhubungan dengan struktur-struktur penyimpanan fisik, penempatan record dan jalur akses. Berhubungan dengan internal schema(pada istilah 3 level arsitektur DBMS).Beberapa petunjuk dalam pemilihan perancangan databasesecara fisik :
 
 1. Response time
