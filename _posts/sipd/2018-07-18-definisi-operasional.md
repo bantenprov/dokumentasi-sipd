@@ -1036,8 +1036,8 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 
 #### 4.1.2.III.5.1. Jumlah Tenaga Sanitasi Lingkungan / Sanitarian
 - Satuan : Orang
-- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan Peraturan
-- Sumber : Pemerintah No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
+- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan.
+- Sumber : Peraturan Pemerintah No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
 
 #### 4.1.2.III.5.2. Jumlah Entomolog Kesehatan
 - Satuan : Orang
@@ -1756,3 +1756,12 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Kasus
 - Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang laiinnya.
 - Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+
+#### 4.1.5.II.2. Korban Unjuk Rasa*			
+#### 4.1.5.II.2.1. Korban Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat unjuk rasa.	Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
+#### 4.1.5.II.2.2. Korban Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita / luka-luka akibat unjuk rasa.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
