@@ -1942,3 +1942,37 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Unit
 - Definisi :
 - Sumber :
+
+#### 4.1.5.II.2. Kawasan Rawan Bencana*
+- Satuan :
+- Definisi : Kawasan dengan kondisi atau karakteristik geologis, biologis, hidrologis, klimatologis, geografis, sosial, budaya, politik, ekonomi, dan teknologi pada suatu wilayah untuk jangka waktu tertentu yang mengurangi kemampuan mencegah, meredam, mencapai kesiapan, dan mengurangi kemampuan untuk menanggapi dampak buruk bahaya  tertentu.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
+
+#### 4.1.5.II.2.1. Jumlah Kawasan Rawan Bencana Banjir**
+- Satuan : 
+- Definisi : Kawasan	Jumlah Kawasan yang potensial untuk dilanda banjir yang diindikasikan dengan frekuensi terjadinya banjir (pernah atau berulangkali).
+- Sumber : Pedoman Pengendalian Pemanfaatan Ruang di Kawasan Rawan Bencana Banjir (Ditjen Penataan Ruang Dept. PU 2015)
+
+#### 4.1.5.II.2.2. Jumlah Kawasan Rawan Bencana Gunung Meletus**
+- Satuan : 
+- Definisi : Kawasan	Jumlah kawasan yang pernah terlanda atau diidentifikasi berpotensi terancam bahaya erupsi gunungapi baik secara langsung maupun tidak langsung.
+- Sumber : Peraturan Menteri Energi dan Sumber Daya Mineral RI Nomor 11 Tahun 2016 (Pasal 1)
+
+#### 4.1.5.II.2.3. Jumlah Kawasan Rawan Bencana Longsor**
+- Satuan : Kawasan
+- Definisi : Jumlah kawasan lindung atau kawasan budi daya yang meliputi zona-zona berpotensi longsor.
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 22 /Prt/M/2007 Tentang Pedoman Penataan Ruang Kawasan Rawan Bencana Longsor
+
+#### 4.1.5.II.2.4. Jumlah Kawasan Rawan Bencana Gempa Bumi**
+- Satuan : Kawasan
+- Definisi : Jumlah daerah yang memiliki potensi terhadap ancaman bahaya gempa bumi.
+- Sumber : Peraturan Menteri Energi dan Sumber Daya Mineral RI Nomor 11 Tahun 2016 (Pasal 1)
+
+#### 4.1.5.II.2.5. Jumlah Kawasan Rawan Bencana Tsunami**
+- Satuan : Kawasan
+- Definisi : Jumlah daerah yang memiliki potensi terhadap ancaman bahaya tsunami
+- Sumber : Peraturan Menteri Energi dan Sumber Daya Mineral RI Nomor 11 Tahun 2016 (Pasal 1) 
+
+#### 4.1.5.II.2.6. Jumlah Kawasan Rawan Bencana Kebakaran**
+- Satuan : Kawasan
+- Definisi : Jumlah daerah yang memiliki potensi terhadap bahaya kebakaran	
