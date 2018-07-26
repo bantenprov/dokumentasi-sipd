@@ -1797,7 +1797,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6. Sarana dan Prasarana Keamanan dan Ketertiban Umum*			
+#### 4.1.5.II.6. Sarana dan Prasarana Keamanan dan Ketertiban Umum*
 #### 4.1.5.II.6.1. Jumlah Aparat Keamanan dan Ketertiban Umum**
 - Satuan : Orang
 - Definisi : Total jumlah aparat pamong praja, patroli satpol PP, dan petugas perlindungan masyarakat
@@ -1844,6 +1844,57 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.6.2.3.2. Jumlah Kendaraan Operasional Roda 4
 - Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II. Bencana Alam*			
+#### 4.1.5.II.1. Sistem Peringatan Dini*
+- Satuan :
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepadamasyarakat tentang kemungkinan terjadinya bencana pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).
+
+#### 4.1.5.II.1.1. Jumlah Sistem Peringatan Dini Banjir**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana banjir pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.1.1. Jumlah Sistem Elektronik
+- Satuan : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana banjir pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.1.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.1.2. Jumlah Sistem Peringatan Dini Gunung Meletus**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam gunung meletus pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.1. Jumlah Sistem Elektronik
+- Satuan : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana gunung meletus pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.1.2.3. Jumlah Sistem Peringatan Dini Longsor**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor  pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.3.1. Jumlah Sistem Elektronik
+- Satuan : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor pada suatu tempat oleh lembaga yang berwenang.
+- Definisi : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.3.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
 - Definisi :
 - Sumber :
 
