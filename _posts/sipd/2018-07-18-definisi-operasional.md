@@ -1074,3 +1074,7 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Satuan : Orang
 - Definisi : Tenaga kesehatan tradisional ketrampilan terdiri dari pengobat tradisional pijat urut, patah tulang, sunat, dukun bayi, refleksi, akupresuris, akupunkturis, chiropractor dan pengobat tradisional lainnya yang metodenya sejenis.
 - Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
+
+## 4.1.3. Pekerjaan Umum dan Penataan Ruang
+### 4.1.1.I. I. Jalan dan Jembatan*
+
