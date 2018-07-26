@@ -2420,3 +2420,15 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Rumah Tangga
 - Definisi : Sumber air yang tidak terlindung dari air bekas pakai, bekas mandi, mencuci, atau lainnya
 - Sumber : Badan Pusat Statistik (diolah)
+
+#### 4.1.6.I.4.7. Jumlah Masyarakat Penerima Jamkesmas**
+- Satuan : Orang
+- Definsi : Masyarakat miskin dan tidak mampu penerima program bantuan sosial untuk pelayanan kesehatan
+- Sumber : Lampiran Keputusan Menteri Kesehatan No.125/Menkes/SK/II/2008 (diolah)
+
+#### 4.1.6.I.4.8. Jumlah Masyarakat Penerima Jamkesda**
+- Satuan : Orang
+- Definisi : Jumlah masyarakat miskin dan atau tidak mampu yang menerima program jaminan pelayanan kesehatan yang menjadi tanggung jawab dan dilaksanakan oleh Pemda Kota/kabupaten.
+- Sumber :
+
+
