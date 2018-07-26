@@ -1677,4 +1677,11 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011, Petunjuk Teknis Standar Pelayanan Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). (diolah)
 
 ## 4.1.5. Ketenteraman dan Ketertiban Umum Serta Perlindungan Masyarakat
+## 4.1.5.I. Keamanan dan Ketertiban Umum *	
+## 4.1.5.I.1. Pelanggaran K3 (Ketertiban, Ketentraman, Keindahan)*	
+## 4.1.5.I.1.1. Jumlah Pelanggaran K3
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
 
