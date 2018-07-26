@@ -588,7 +588,7 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 - Definisi : Total Jumlah penderita penyakit menular
 - Sumber :
 
-#### 4.1.2.I.1.1. Jumlah Penderita Wabah Muntaber *--> diusulkan dihilangkan*
+#### 4.1.2.I.1.1. Jumlah Penderita Wabah Muntaber*--> diusulkan dihilangkan*
 - Satuan : Orang
 - Definisi : Jumlah orang yang menderita suatu gangguan kesehatan, dimana penderita mengalami muntah-muntah dan diare tak hanya sekali atau dua kali dengan selang waktu yang tidak lama. Penderita bisa lemas karena banyak kehilangan cairan, jika tidak segera ditangani dengan cepat dan tepat dapat mengakibatkan kematian.
 - Sumber : Majalah Ilmiah Globë, Volume 17 No. 2 Dsember 2015: 145-153
@@ -836,34 +836,34 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Definisi : Institusi pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan secara paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat.
 - Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Pasal 1)
 
-#### 4.1.2.II.1.1. Rumah Sakit Umum **
+#### 4.1.2.II.1.1. Rumah Sakit Umum**
 - Satuan : Unit
 - Definisi : Rumah sakit yang memberikan pelayanan kesehatan pada semua bidang dan jenis penyakit.
 - Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 (pasal 1)
 
-#### 4.1.2.II.1.1.1. Jumlah Rumah Sakit Umum  Tipe A
+#### 4.1.2.II.1.1.1. Jumlah Rumah Sakit Umum Tipe A
 - Satuan : Unit
 - Definisi : Rumah sakit yang mampu memberikan pelayanan kedokteran spesialis dan subspesialis luas oleh pemerintah, rumah sakit ini telah ditetapkan sebagai tempat pelayanan rujukan tertinggi (top referral hospital) atau disebut juga rumah sakit pusat. rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar, 5 (lima) spesialis penunjang medik, 12 (dua belas) spesialis lain dan 13 (tiga belas) subspesialis Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
 
 #### 4.1.2.II.1.1.2. Jumlah Rumah Sakit Umum Tipe B
 - Satuan : Unit
-- Definisi : Rumah sakit yang mampu memberikan pelayanan kedokteran medik spesialis luas dan subspesialis terbatas. Direncanakan rumah sakit tipe B didirikan di setiap ibukota propinsi (provincial hospital) yang menampung pelayanan rujukan dari rumah sakit kabupaten. Rumah sakit pendidikan yang tidak termasuk tipe A juga diklasifikasikan sebagai rumah sakit tipe B.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar, 4 (empat) spesialis penunjang medik, 8 (delapan) spesialis lain dan 2 (dua) subspesialis dasar.
+- Definisi : Rumah sakit yang mampu memberikan pelayanan kedokteran medik spesialis luas dan subspesialis terbatas. Direncanakan rumah sakit tipe B didirikan di setiap ibukota propinsi (provincial hospital) yang menampung pelayanan rujukan dari rumah sakit kabupaten. Rumah sakit pendidikan yang tidak termasuk tipe A juga diklasifikasikan sebagai rumah sakit tipe B. rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar, 4 (empat) spesialis penunjang medik, 8 (delapan) spesialis lain dan 2 (dua) subspesialis dasar.
 - Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
 
 #### 4.1.2.II.1.1.3. Jumlah Rumah Sakit Umum Tipe C
 - Satuan : Unit
-- Definisi : Rumah Sakit kelas C adalah rumah sakit yang mampu memberikan pelayanan kedokteran subspesialis terbatas. Terdapat empat macam pelayanan spesialis disediakan yakni pelayanan penyakit dalam, pelayanan bedah, pelayanan kesehatan anak, serta pelayanan kebidanan dan kandungan. Direncanakan rumah sakit tipe C ini akan didirikan di setiap kabupaten/kota (regency hospital) yang menampung pelayanan rujukan dari puskesmas.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar dan 4 (empat) spesialis penunjang medik
+- Definisi : Rumah Sakit kelas C adalah rumah sakit yang mampu memberikan pelayanan kedokteran subspesialis terbatas. Terdapat empat macam pelayanan spesialis disediakan yakni pelayanan penyakit dalam, pelayanan bedah, pelayanan kesehatan anak, serta pelayanan kebidanan dan kandungan. Direncanakan rumah sakit tipe C ini akan didirikan di setiap kabupaten/kota (regency hospital) yang menampung pelayanan rujukan dari puskesmas. rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar dan 4 (empat) spesialis penunjang medik
 - Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
 
 #### 4.1.2.II.1.1.4. Jumlah Rumah Sakit Umum Tipe D
 - Satuan : Unit
-- Sumber : Rumah Sakit ini bersifat transisi karena pada suatu saat akan ditingkatkan menjadi rumah sakit kelas C. Pada saat ini kemampuan rumah sakit tipe D hanyalah memberikan pelayanan kedokteran umum dan kedokteran gigi. Sama halnya dengan rumah sakit tipe C, rumah sakit tipe D juga menampung pelayanan yang berasal dari puskesmas.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 2 (dua) spesialis dasar.
+- Sumber : Rumah Sakit ini bersifat transisi karena pada suatu saat akan ditingkatkan menjadi rumah sakit kelas C. Pada saat ini kemampuan rumah sakit tipe D hanyalah memberikan pelayanan kedokteran umum dan kedokteran gigi. Sama halnya dengan rumah sakit tipe C, rumah sakit tipe D juga menampung pelayanan yang berasal dari puskesmas. rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 2 (dua) spesialis dasar.
 - Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
 
 #### 4.1.2.II.1.1.5. Rumah Sakit Umum Tipe E**
 - Satuan : Unit
 - Definisi : Rumah sakit ini merupakan rumah sakit khusus (special hospital) yang menyelenggarakan hanya satu macam pelayanan kedokteran saja. Pada saat ini banyak tipe E yang didirikan pemerintah, misalnya rumah sakit jiwa, rumah sakit kusta, rumah sakit paru, rumah sakit jantung, dan rumah sakit ibu dan anak.
-- Sumber  : Permenkes RI Nomor 986/Menkes/Per/11/1992
+- Sumber : Permenkes RI Nomor 986/Menkes/Per/11/1992
 
 #### 4.1.2.II.1.1.5.1 Jumlah Rumah Sakit Bersalin
 - Satuan : Unit
@@ -872,22 +872,22 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 
 #### 4.1.2.II.1.1.5.2 Jumlah Rumah Sakit Jiwa
 - Satuan : Unit
-- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam  rumah sakit yang khusus untuk perawatan gangguan mental serius.
+- Definisi : Rumah Sakit Khusus masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam rumah sakit yang khusus untuk perawatan gangguan mental serius.
 - Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
 
 #### 4.1.2.II.1.1.5.3 Jumlah Rumah Sakit Mata
 - Satuan : Unit
-- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam  rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit mata.
+- Definisi : Rumah Sakit Khusus masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit mata.
 - Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
 
 #### 4.1.2.II.1.1.5.4 Jumlah Rumah Sakit Kusta
 - Sumber : Unit
-- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam  rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit kusta.
-- Sumber  : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
+- Definisi : Rumah Sakit Khusus masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit kusta.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
 
 #### 4.1.2.II.1.1.5.5 Jumlah Rumah Sakit Ketergantungan Obat
 - Sumber : Unit
-- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam  rumah sakit yang khusus  memberikan layanan kesehatan dibidang gangguan penyalahgunaan napza
+- Definisi : Rumah Sakit Khusus masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam rumah sakit yang khusus memberikan layanan kesehatan dibidang gangguan penyalahgunaan napza
 - Sumber :Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
 
 #### 4.1.2.II.1.2. Jumlah Rumah Sakit Swasta
@@ -908,11 +908,11 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 #### 4.1.2.II.2.1. Jumlah Puskesmas Non Rawat Inap
 - Satuan : Unit
 - Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja yang tidak menyediakan fasilitas rawat inap.
-- Sumber  : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
+- Sumber : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
 
 #### 4.1.2.II.2.2. Jumlah Puskesmas Rawat Inap
 - Satuan : Unit
-- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja  dengan fasilitas rawat inap.
+- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja dengan fasilitas rawat inap.
 - Sumber : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
 
 #### 4.1.2.II.2.3. Jumlah Puskesmas Pembantu
@@ -928,7 +928,7 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 #### 4.1.2.II.2.5. Jumlah Posyandu
 - Satuan : Unit
 - Definisi : Jumlah wadah peran serta masyarakat yang dikelola dan diselenggarakan dari, oleh, untuk dan bersama masyarakat guna memperoleh pelayanan kesehatan dasar dan memantau pertumbuhan balita dalam rangka meningkatkan kualitas sumber daya manusia secara dini.
-- Sumber : Peraturan Menteri Dalam Negeri Nomor 19 Tahun  2011 Tentang Pedoman Pengintegrasian Layanan Sosial Dasar Di Pos Pelayanan Terpadu
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 19 Tahun 2011 Tentang Pedoman Pengintegrasian Layanan Sosial Dasar Di Pos Pelayanan Terpadu
 
 #### 4.1.2.II.2.6. Jumlah Posyandu Pratama
 - Satuan : Unit
@@ -1007,7 +1007,7 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 
 #### 4.1.2.III.4. Tenaga Kesehatan Masyarakat*
 
-#### 4.1.2.III.4.1. Jumlah Epidemiolog  Kesehatan
+#### 4.1.2.III.4.1. Jumlah Epidemiolog Kesehatan
 - Satuan : Orang
 - Definisi : Jumlah tenaga kesehatan yang mempelajari sebaran dan penyebab keadaan sehat atau sakit pada populasi, penerapannya dalam pencegahan dan penaggulangan masalah kesehatan dan penyakit.
 - Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
@@ -1017,12 +1017,12 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Definisi : Jumlah orang atau tenaga kesehatan yang melakukan upaya untuk meningkatkan kemampuan masyarakat melalui pembelajaran dari oleh, untuk dan bersama masyarakat, agar mereka dapat menolong diri sendiri, serta mengembangkan kegiatan yang bersumber daya masyarakat, sesuai sosial budaya setempat dan didukung kebijakan publik yang berwawasan kesehatan
 - Sumber : Keputusan Menteri Kesehatan Nomor 1114 /MENKES/SK/VII/2005 tentang Pedoman Pelaksanaan Promosi Kesehatan di Daerah, (diolah)
 
-#### 4.1.2.III.4.3. Jumlah Pembimbing  Kesehatan Kerja
+#### 4.1.2.III.4.3. Jumlah Pembimbing Kesehatan Kerja
 - Satuan : Orang
 - Definisi : jabatan yang mempunyai ruang ringkup tugas, tanggung jawab, dan wewenang untuk melakukan kegiatan upaya kesehatan kerja
 - Sumber : Peraturan Bersama Menteri Kesehatan Dan Kepala Badan Kepegawaian Negara Nomor 22 Tahun 2014 dan Nomor 15 Tahun 2014
 
-#### 4.1.2.III.4.4. Jumlah Tenaga  Administrasi Dan Kebijakan  Kesehatan
+#### 4.1.2.III.4.4. Jumlah Tenaga Administrasi Dan Kebijakan Kesehatan
 - Satuan : Orang
 - Definisi :
 - Sumber :
@@ -1036,8 +1036,8 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 
 #### 4.1.2.III.5.1. Jumlah Tenaga Sanitasi Lingkungan / Sanitarian
 - Satuan : Orang
-- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan  tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan   Peraturan
-- Sumber : Pemerintah  No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
+- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan  Peraturan
+- Sumber : Pemerintah No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
 
 #### 4.1.2.III.5.2. Jumlah Entomolog Kesehatan
 - Satuan : Orang
@@ -1047,7 +1047,7 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 #### 4.1.2.III.5.3. Jumlah Mikrobiolog Kesehatan
 - Satuan : Orang
 - Definisi : Jumlah tenaga kesehatan mikrobiolog kesehatan ilmu kedokteran yang mempelajari diagnosis, penyebaran, dan pengobatan penyakit yang disebabkan oleh mikroorganisme patogen
-- Sumber  :
+- Sumber :
 
 #### 4.1.2.III.6. Tenaga Gizi
 - Satuan : Orang
@@ -1065,12 +1065,12 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
 
 #### 4.1.2.III.7. Tenaga Kesehatan Tradisional*
-#### 4.1.2.III.7.1. Jumlah  Tenaga Kesehatan Tradisional Ramuan
+#### 4.1.2.III.7.1. Jumlah Tenaga Kesehatan Tradisional Ramuan
 - Satuan : Orang
 - Definisi : Pengobat tradisional ramuan Indonesia (Jamu), gurah, tabib, shinshe, homoeopathy, aromatherapist dan pengobat tradisional lainnya yang metodenya sejenis.
 - Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
 
-#### 4.1.2.III.7.2. Jumlah  Tenaga Kesehatan Tradisional Ketrampilan
+#### 4.1.2.III.7.2. Jumlah Tenaga Kesehatan Tradisional Ketrampilan
 - Satuan : Orang
 - Definisi : Tenaga kesehatan tradisional ketrampilan terdiri dari pengobat tradisional pijat urut, patah tulang, sunat, dukun bayi, refleksi, akupresuris, akupunkturis, chiropractor dan pengobat tradisional lainnya yang metodenya sejenis.
 - Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
@@ -1203,7 +1203,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 #### 4.1.3.I.1.4.5.1. Kondisi Baik
 - Satuan : Km
 - Definisi : Jenis Permukaan :Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
-Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata."  Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata." Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
 
 #### 4.1.3.I.1.4.5.2. Kondisi Sedang
 - Satuan : Km
@@ -1248,7 +1248,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 #### 4.1.3.I.2.1.5. Tidak Terinci
 - Satuan : Km
 - Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan tidak terinci.
-- Sumber  : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2. Panjang Jalan Propinsi**
 - Satuan : Km
@@ -1267,11 +1267,11 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.3.I.2.2.3. Kerikil
 - Satuan : Km
-- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan kerikil.  Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan kerikil. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2.4. Tanah
 - Satuan : Km
-- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tanah.  Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tanah. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2.5. Tidak Terinci
 - Satuan : Km
@@ -1306,8 +1306,8 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Satuan : Km
 - Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan tidak terinci. Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
 
-#### 4.1.3.I.3. Jembatan dan Kondisi Berdasarkan Administrasi Pemerintahan *
-#### 4.1.3.I.3.1. Jumlah Jembatan  Nasional**
+#### 4.1.3.I.3. Jembatan dan Kondisi Berdasarkan Administrasi Pemerintahan*
+#### 4.1.3.I.3.1. Jumlah Jembatan Nasional**
 - Satuan : Unit
 - Definisi :
 - Sumber :
@@ -1360,7 +1360,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 #### 4.1.3.I.3.3. Jumlah Jembatan Kabupaten/Kota**
 - Satuan : Unit
 - Definisi : Jembatan pada ruas jalan kabupaten dan kota
-- Sumber : Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Nomor 47/PRT/M/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus  Bidang Infrastruktur
+- Sumber : Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Nomor 47/PRT/M/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Bidang Infrastruktur
 
 #### 4.1.3.I.3.3.1. Jumlah Jembatan Dengan Kondisi Baik
 - Satuan : Unit
@@ -1409,4 +1409,270 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 ## 4.1.4. Perumahan dan Kawasan Permukiman
 ### 4.1.4.I. Perumahan*
+#### 4.1.4.I.1. Jumlah Rumah Berdasarkan Kondisi*			
+#### 4.1.4.I.1.1. Jumlah Rumah Layak Huni
+- Satuan : Unit
+- Definisi : Rumah yang memenuhi persyaratan keselamatan bangunan dan kecukupan minimum luas bangunan serta kesehatan penghuninya.
+- Sumber : Sirusa (Badan Pusat Statistik)
+
+#### 4.1.4.I.1.2. Jumlah Rumah Tidak Layak Huni
+- Satuan : Unit
+- Definisi : Jumlah rumah yang tidak memenuhi persyaratan keselamatan, bangunan dan kecukupan minimum luas bangunan serta kesehatan penghuninya
+- Sumber : Sirusa (Badan Pusat Statistik)
+
+#### 4.1.4.I.2. Rumah untuk MBR**
+- Satuan : Unit
+- Definisi : Rumah yang disediakan untuk masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapat dukungan pemerintah untuk memperoleh sarusun umum.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2011 tentang Rumah Susun (pasal 1) diolah
+
+#### 4.1.4.I.2.1. Rumah Susun Hunian Milik 			
+#### 4.1.4.I.2.1.1. Jumlah Rusunami
+- Satuan : Unit
+- Definisi : Jumlah bangunan gedung bertingkat yang biasanya pemerintah memberikan subsidi kepada pembeli yang memenuhi syarat tertentu.pengguna tangan pertama membeli dari pengembang. Beberapa pengembang sering menggunakan istilah apartemen bersubsidi untuk merujuk pada rusunami. 	
+- Sumber : 
+
+#### 4.1.4.I.2.1.2. Daya tampung
+- Satuan : Orang
+- Definisi : Jumlah orang yang dapat ditampung rusunami (kapasitas rusunami untuk satuan orang)
+- Sumber :
+
+#### 4.1.4.I.2.2. Jumlah Rumah Susun Hunian Sewa 			
+#### 4.1.4.I.2.2.1. Jumlah Rusunawa
+- Satuan : Unit
+- Definisi : Jumlah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horisontal maupun vertikal dan merupakan satuan-satuan yang masing-masing digunakan secara terpisah, status penguasaannya sewa serta dibangun dengan menggunakan dana Anggaran Pendapatan dan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Daerah dengan fungsi utamanya sebagai hunian.
+- Sumber : Peraturan Menteri Negara Perumahan Rakyat Nomor : 18 /Permen/M/2007 tentang Petunjuk Pelaksanaan Perhitungan Tarif Sewa Rumah Susun Sederhana yang Dibiayai Apbn Dan Apbd (pasal 1)
+
+#### 4.1.4.I.2.2.2. Daya tampung
+- Satuan : Orang
+- Definisi : Jumlah orang yang dapat ditampung rusunawa (kapasitas Rusunawa untuk satuan orang)
+- Sumber :
+
+#### 4.1.4.I.2.2.3. Jumlah Kebutuhan Rumah MBR
+- Satuan : Unit
+- Definisi : Jumlah unit rumah yang dibutuhkan untuk mencukupi masyarakat yang mempunyai keterbatasan daya beli rumah sehingga perlu mendapat dukungan pemerintah untuk memperoleh sarusun umum.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2011 tentang Rumah Susun (pasal 1) diolah.
+
+#### 4.1.4.II. Persampahan*			
+#### 4.1.4.II.1. Volume Sampah Rumah Tangga**
+- Satuan : m3
+- Definisi : volume sampah yang berasal dari kegiatan sehari-hari dalam rumah tangga yang sebagian besar terdiri dari sampah organik, tidak termasuk tinja dan sampah spesifik.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah
+
+#### 4.1.4.II.1.1. Sampah yang dihasilkan Rumah Tangga
+- Satuan : m3
+- Definisi : sampah yang berasal dari kegiatan sehari-hari dalam rumah tangga yang sebagian besar terdiri dari sampah organik, tidak termasuk tinja dan sampah spesifik.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah
+
+#### 4.1.4.II.1.2. Sampah Sejenis Sampah Rumah Tangga
+- Satuan : m3
+- Definisi : Sampah yang tidak berasal dari rumah tangga dan berasal dari kawasan permukiman, kawasan komersial, kawasan industri, kawasan khusus, fasilitas umum, fasilitas sosial, dan/atau fasilitas lainnya.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah
+
+#### 4.1.4.II.2. Volume Sampah Rumah Tangga yang Terolah
+- Satuan : m3
+- Definisi : volume sampah terolah yang berasal dari kegiatan sehari-hari dalam rumah tangga yang sebagian besar terdiri dari sampah organik, tidak termasuk tinja dan sampah spesifik.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah (diolah)
+
+#### 4.1.4.II.3. Volume Sampah yang Mengandung Bahan Berbahaya dan Beracun
+- Satuan : m3
+- Definisi : Volume sampah yang mengandung zat, energi, dan/atau komponen lain yang karena sifat, konsentrasi, dan/atau jumlahnya, baik secara langsung maupun tidak langsung, dapat mencemarkan dan/atau merusak lingkungan hidup, dan/atau membahayakan lingkungan hidup, kesehatan, serta kelangsungan hidup manusia dan makhluk hidup lain.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun.
+
+#### 4.1.4.II.4. Volume Sampah yang Mengandung Bahan Berbahaya dan Beracun yang Terolah
+- Satuan : m3
+- Definisi : Volume sampah yang mengandung zat, energi, dan/atau komponen lain yang karena sifat, konsentrasi, dan/atau jumlahnya, baik secara langsung maupun tidak langsung, dapat mencemarkan dan/atau merusak lingkungan hidup, dan/atau membahayakan lingkungan hidup, kesehatan, serta kelangsungan hidup manusia dan makhluk hidup lain yang terolah.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun (diolah)
+
+#### 4.1.4.II.5. Volume Sampah yang Mengandung Limbah Bahan Berbahaya dan Beracun
+- Satuan : m3
+- Definisi : Volume sampah dari sisa suatu usaha dan/atau kegiatan yang mengandung bahan berbahaya dan beracun.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun.
+
+#### 4.1.4.II.6. Volume Sampah yang Mengandung Limbah Bahan Berbahaya dan Beracun yang Terolah
+- Satuan : m3
+- Volume sampah dari sisa suatu usaha dan/atau kegiatan yang mengandung bahan berbahaya dan beracun yang terolah.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 tentang Pengelolaan Limbah Bahan Berbahaya Dan Beracun. (diolah)
+
+#### 4.1.4.II.7. Alat Angkut sampah**
+- Satuan : Unit
+- Definisi : Jumlah alat yang digunakan untuk proses pengangkutan sampah	
+- Sumber :
+
+#### 4.1.4.II.7.1. Jumlah Truk Pengangkut Sampah
+- Satuan : Unit
+- Definisi : Jumlah truk yang digunakan untuk pengangkut sampah
+- Sumber : 
+
+#### 4.1.4.II.7.2. Jumlah Gerobak Pengangkut Sampah
+- Satuan : Unit
+- Definisi : Jumlah gerobak yang digunakan untuk mengangkut sampah	
+- Sumber :
+
+#### 4.1.4.II.7.3. Jumlah Motor Pengangkut Sampah
+- Satuan : Unit
+- Definisi : Jumlah motor yang digunakan untuk mengangkut sampah
+- Sumber :
+
+#### 4.1.4.II.7.4. Jumlah Pickup Pengangkut Sampah
+- Satuan : Unit
+- Definisi : Jumlah mobil kecil (pick up) yang digunakan untuk mengangkut sampah
+- Sumber :
+
+#### 4.1.4.II.7.5. Jumlah Beco
+- Satuan : Unit
+- Definisi : Jumlah alat berat yang digunakan untuk melakukan pekerjaan penggalian yang letaknya di bawah kedudukan backhoe itu sendiri. Fungsi backhoe sama seperti dragline dan clamshell, namun backhoe dapat menggali dengan kedalaman yang jauh lebih teliti, juga bisa digunakan sebagai alat pemuat yang digunakan untuk mengangkut sampah. Pada bagian belakang backhoe terdapat sebuah komponen bernama loader
+- Sumber : 
+
+#### 4.1.4.II.7.6. Jumlah Buldozer
+- Satuan : Unit
+- Definisi : Jumlah jenis peralatan konstruksi (biasa disebut alat berat atau construction equipment) bertipe traktor menggunakan Track/ rantai serta dilengkapi dengan pisau (dikenal dengan blade) yang terletak di depan dan digunakan untuk mengangkut sampah. Bulldozer diaplikasikan untuk pekerjaan menggali, mendorong dan menarik material (tanah, pasir, dsb).
+- Sumber :
+
+#### 4.1.4.II.8. Jumlah Tempat Pengolahan Sampah**
+- Satuan : Unit
+- Definisi : Disingkat TPS 3R merupakan tempat dilaksanakannya kegiatan pengumpulan, pemilahan, penggunaan ulang, dan pendauran ulang skala kawasan.
+- Sumber : Peraturan Menteri Pekerjaan Umum Republik Indonesia Nomor 03/Prt/M/2013 Tentang Penyelenggaraan Prasarana Dan Sarana Persampahan Dalam Penanganan Sampah Rumah Tangga Dan Sampah Sejenis Sampah Rumah Tangga (pasal 1)
+- Sumber :
+
+#### 4.1.4.II.8.1. Jumlah TPS
+- Satuan : Unit
+- Definisi : Jumlah tempat sebelum sampah diangkut ke tempat pendauran ulang, pengolahan, dan/atau tempat pengolahan sampah terpadu.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah
+
+#### 4.1.4.II.8.2. Jumlah TPST
+- Satuan : Unit
+- Definisi : Tempat dilaksanakannya kegiatan penggunaan ulang, pendauran ulang, pemilahan, pengumpulan, pengolahan, dan pemrosesan akhir sampah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah.
+- Sumber :
+
+#### 4.1.4.II.8.3. Jumlah TPA
+- Satuan : Unit
+- Definisi : Tempat untuk memproses dan mengembalikan sampah ke media lingkungan secara aman bagi manusia dan lingkungan
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 33 Tahun 2010 Tentang Pedoman Pengelolaan Sampah
+- Sumber :
+
+#### 4.1.4.II.9. Persentase Penanganan Sampah
+- Satuan : %
+- Definisi : Persentase total volume sampah yang mendapat penanganan per total produksi sampah.
+- Sumber : Seminar Nasional Pembangunan Lingkungan Perkotaan FALTL- Universitas Trisaksi, Jakarta 26-27 Juli 2015 (Diolah)
+
+#### 4.1.4.III. Sistem Pengolahan Air Limbah Domestik*			
+#### 4.1.4.III.1. Jumlah Pengolahan Air Limbah Individual
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga yang memiliki sarana dan prasarana pengelolaan air limbah secara individual
+- Sumber : Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Nomor 27/Prt/M/2016 Tentang Penyelenggaraan Sistem Penyediaan Air Minum (diolah)
+- Sumber :
+
+#### 4.1.4.III.2. Jumlah Pengolahan Air Limbah Komunal
+- Satuan : Unit
+- Definisi : Sistem Instalasi Pengolahan Air Limbah secara komunal atau terkordinir atau terpusat disatu lokasi atau titik pengumpul.
+- Sumber :
+
+#### 4.1.4.IV. Rumah Tangga Memiliki Air Bersih			
+#### 4.1.4.IV.1. Jumlah Rumah Tangga yang Terlayani Melalui Sistem Perpipaan
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga yang terlayani prasarana dan sarana air minum yang unit distribusinya melalui perpipaan
+- Sumber : Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). Diolah
+
+#### 4.1.4.IV.2. Jumlah Rumah Tangga yang Memanfaatkan Air Bawah Tanah
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga yang memanfaatkan semua air yang terdapat dalam lapisan pengandung air di bawah permukaan tanah, termasuk mata air yang muncul secara alamiah di atas permukaan tanah, seperti sumur dll.
+- Sumber : Keputusan Menteri Energi Dan Sumberdaya Mineral Nomor : 1451 K/10/Mem/2000 Tentang Pedoman Teknis Penyelenggaraan Tugas Pemerintahan Di Bidang Pengeloiaan Air Bawah Tanah.
+
+#### 4.1.4.IV.3. Persentase Rumah Tangga Terlayani Sistem Perpipaan
+- Satuan : %
+- Definisi : Persentase jumlah rumah tangga yang terlayani prasarana dan sarana air minum yang unit distribusinya melalui perpipaan terhadap seluruh rumah tangga pada suatu wilayah.	 Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). Diolah
+
+#### 4.1.4.V. Jumlah dan Luas Tempat Pemakaman Umum*
+#### 4.1.4.V.1. Jumlah Pemakaman Umum**
+- Satuan : Unit
+- Definisi : Jumlah Pemakaman umum yang dikelola Pemerintah dan yang dikelola swasta/masyarakat.
+
+#### 4.1.4.V.1.1. Jumlah Pemakaman Umum dikelola Pemerintah
+- Satuan : Unit
+- Definisi : Jumlah areal tanah yang disediakan untuk keperluan pemakaman jenazah bagi setiap orang tanpa membedakan agama dan golongan, yang pengelolaannya dilakukan oleh Pemerintah Daerah Tingkat II atau Pemerintah Desa.	Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
+- Sumber : 
+
+#### 4.1.4.V.1.2. Jumlah Pemakaman Umum dikelola Swasta/Masyarakat
+- Satuan : Unit
+- Definisi : Jumlah areal tanah yang disediakan untuk keperluan pemakaman jenazah yang pengelolaannya dilakukan oleh badan sosial/ swasta dan/atau badan keagamaan masyarakat
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
+
+#### 4.1.4.V.2. Luas Pemakaman Umum**
+- Satuan : Ha
+- Definisi : Total luas pemakaman umum yang dikelola Pemerintah dan dikelola swasta/masyarakat
+- Sumber : 
+
+#### 4.1.4.V.2.1. Luas Pemakaman Umum dikelola Pemerintah
+- Satuan : Ha
+- Definisi : Luas areal tanah yang disediakan untuk keperluan pemakaman jenazah bagi setiap orang tanpa membedakan agama dan golongan, yang pengelolaannya dilakukan oleh Pemerintah Daerah Tingkat II atau Pemerintah Desa.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1) diolah.
+- Sumber :
+
+#### 4.1.4.V.2.2. Luas Pemakaman Umum dikelola Swasta/Masyarakat
+- Satuan : Ha
+- Definisi : Luas areal tanah yang disediakan untuk keperluan pemakaman jenazah yang pengelolaannya dilakukan oleh badan sosial swasta dan/atau badan keagamaan masyarakat
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
+
+#### 4.1.4,VI. Jumlah dan Luas Ruang Terbuka Hijau**
+#### 4.1.4,VI.1. Jumlah Ruang Terbuka Hijau**
+- Satuan : Unit
+- Definisi : 
+- Sumber :
+
+#### 4.1.4,VI.1.1. Jumlah Ruang Terbuka Hijau dikelola Pemerintah
+- Satuan : Unit
+- Definisi : 
+- Sumber :
+
+#### 4.1.4,VI.1.2. Jumlah Ruang Terbuka Hijau dikelola Swasta/Masyarakat
+- Satuan : Unit
+- Definisi : 
+- Sumber :
+
+#### 4.1.4,VI.1.2.1. Luas Ruang Terbuka Hijau**
+- Satuan : Ha
+- Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
+
+#### 4.1.4,VI.1.2.1.1. Luas Ruang Terbuka Hijau dikelola Pemerintah
+- Satuan : Ha
+- Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika yang pengelolaannya dilakukan oleh Pemerintah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
+
+#### 4.1.4,VI.1.2.1.2. Luas Ruang Terbuka Hijau dikelola Swasta/Masyarakat
+- Satuan : Ha
+- Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika yang pengelolaannya dilakukan oleh swasta/masyarakat.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
+
+#### 4.1.4,VI.1.2.2. Rasio Ruang Terbuka Hijau Per Satuan Luas Wilayah
+- Satuan %
+- Definisi : Persentase luas ruang dalam kawasan perkotaan baik dalam bentuk area maupun dalam bentuk area memanjang/jalur yang penggunaannya lebih bersifat terbuka dan diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika terhadap seluruh luas wilayah perkotaan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
+
+#### 4.1.4,VII. Kawasan Permukiman Kumuh**		
+#### 4.1.4,VII.1. Jumlah Kawasan Permukiman Kumuh
+- Satuan : 
+Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
+
+#### 4.1.4,VII.2. Luas Kawasan Permukiman Kumuh
+- Satuan : Ha
+- Definisi Luas permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
+
+#### 4.1.4,VII.3. Jumlah Rumah Tangga yang Tinggal di Kawasan Pemukiman Kumuh
+- Satuan : RT
+- Definisi : Jumlah seseorang atau sekelompok orang yang mendiami sebagian atau seluruh bangunan fisik atau sensus, dan biasanya tinggal bersama serta makan dari satu dapur yang tinggal dikawasan permukiman kumuh.
+- Sumber : Badan Pusat Statistik (diolah)
+
+#### 4.1.4,VII.4. Jumlah Bangunan Rumah
+- Satuan : Unit
+- Definisi : Jumlah bangunan gedung yang berfungsi sebagai tempat tinggal yang layak huni, sarana pembinaan keluarga, cerminan harkat dan martabat penghuninya, serta aset bagi pemiliknya.
+- Satuan : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
+
+#### 4.1.4,VII.5. Persentase Lingkungan Pemukiman Kumuh
+- Satuan %
+- Definisi : Persentase luas permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat terhadap seluruh luas wilayah.
+- Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011, Petunjuk Teknis Standar Pelayanan Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). (diolah)
 
