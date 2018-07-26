@@ -2108,3 +2108,221 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Orang
 - Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana kebakaran.
 - Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.5. Jumlah Lokasi Pengungsian
+- Satuan : Lokasi
+- Definisi : Lokasi yang diperuntukan bagi orang atau kelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya untuk jangka waktu yang belum pasti sebagai akibat dampak buruk bencana
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 21 Tahun 2008 Tentang Penyelenggaraan Penanggulangan Bencana (diolah)
+
+#### 4.1.5.II.6. Jumlah Kerugian Akibat Bencana**
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana	
+
+#### 4.1.5.II.6.1. Jumlah Kerugian Akibat Bencana Banjir
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana banjir	
+
+#### 4.1.5.II.6.2. Jumlah Kerugian Akibat Bencana Gunung Meletus
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana gunung meletus
+- Sumber :
+
+#### 4.1.5.II.6.3. Jumlah Kerugian Akibat Bencana Longsor
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana longsor
+- Sumber :
+
+#### 4.1.5.II.6.4. Jumlah Kerugian Akibat Bencana Gempa Bumi
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana banjir
+- Sumber :
+
+#### 4.1.5.II.6.5. Jumlah Kerugian Akibat Bencana Tsunami
+- Satuan : Rp Juta
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana tsunami
+- Sumber :
+
+#### 4.1.5.II.6.6. Jumlah Kerugian Akibat Bencana Kebakaran
+- Satuan : Rp Juta
+- Definisi Total jumlah kerugian dalam rupiah yang didapat akibat bencana kebakaran
+- Sumber : 
+
+#### 4.1.5.II.7.  Prasarana dan Sarana Tanggap Bencana*			
+#### 4.1.5.II.7.1. Transportasi*			
+#### 4.1.5.II.7.1.1. Jenis Angkutan Darat**
+- Satuan : Unit
+- Definisi : Jumlah jenis angkutan darat yang digunakan sebagai transportasi tanggap bencana
+
+#### 4.1.5.II.7.1.1.1. Kendaraan Roda 2
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.1.2. Kendaraan Roda 4
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.1.3. Kendaraan Roda > 4
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.2. Jenis Angkutan Laut**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.2.1. Kapal Penyelamat
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.2.2. Speedboat
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.1.3. Jenis Angkutan Udara/Helikopter
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.2. Jumlah Peralatan Komunikasi**
+- Satuan : Unit
+- Definisi : Jumlah peralatan komunikasi berupa handly talky, telepon satelit, radio pemancar dan peralatan komunikasi lainnya
+- Sumber :
+
+#### 4.1.5.II.7.2.1. Handy Talky
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.2.2. Telpon Satelit
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.2.3. Radio Pemancar
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.2.4. Peralatan Komunikasi Lainnya
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.3. Peralatan Kesehatan**
+- Satuan : Unit
+- Definisi : Total jumlah peralatan kesehatan berupa mobil ambulance, tandu, tabung oksigen dan peralatan kesehatan lainnya
+- Sumber :
+
+#### 4.1.5.II.7.3.1. Mobil Ambulance
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.3.2. Tandu
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.3.3. Tabung Oksigen
+- Satuan : Unit
+- Definisi :
+- Sumber :
+	
+#### 4.1.5.II.7.3.4. Peralatan Kesehatan Lainnya
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.4. Peralatan Air Bersih**
+- Satuan : Unit
+- Definisi : Total peralatan air bersih berupa mobil tangki air, tangki air dan peralatan air bersih lainnya
+- Sumber :
+
+#### 4.1.5.II.7.4.1. Mobil Tangki Air
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.4.2. Tangki Air
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.4.3. Peralatan Air Bersih Lainnya
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.5. Mck Mobile
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.6.  Alat Berat**
+- Satuan : Unit
+- Definisi : Jumlah alat berat berupa neko, buldozer dan peralatan alat berat lainnya
+- Sumber :
+
+#### 4.1.5.II.7.6.1. Beko
+- Satuan : Unit
+- Definisi : Jumlah alat berat yang digunakan untuk melakukan pekerjaan penggalian yang letaknya di bawah kedudukan backhoe itu sendiri. Fungsi backhoe sama seperti dragline dan clamshell, namun backhoe dapat menggali dengan kedalaman yang jauh lebih teliti, juga bisa digunakan sebagai alat pemuat.  Pada bagian belakang backhoe terdapat sebuah komponen bernama loader
+- Sumber :
+
+#### 4.1.5.II.7.6.2. Buldozer
+- Satuan : Unit
+- Definisi : Jumlah jenis peralatan konstruksi (biasa disebut alat berat atau construction equipment) bertipe traktor menggunakan Track/ rantai serta dilengkapi dengan pisau (dikenal dengan blade) yang terletak di depan. Bulldozer diaplikasikan untuk pekerjaan menggali, mendorong dan menarik material (tanah, pasir, dsb).
+- Sumber :
+
+#### 4.1.5.II.7.6.3. Peralatan Alat Berat Lainnya
+- Satuan : Unit
+- Definisi : Jumlah peralatan berat lainnya selain beko dan buldozer
+- Sumber :
+
+#### 4.1.5.II.7.7. Peralatan Hunian Sementara**
+- Satuan : Unit
+- Definisi : Jumlah peralatan huan sementara berupa tenda, dapur umum, generator dan peralatan hunian sementara lainnya
+- Sumber :
+
+#### 4.1.5.II.7.7.1. Tenda
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.7.2. Dapur Umum
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.7.3. Generator
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.7.7.4. Peralatan Hunian Sementara Lainnya
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.8. Kebakaran**
+- Satuan : Unit
+- Definisi : Jumlah mobil pemadam kebakaran dan pos pemadam kebakaran
+- Sumber :
+
+#### 4.1.5.II.8.1. Mobil Pemadam Kebakaran
+- Satuan : Unit
+- Definisi : Salah satu sarana pemadam kebakaran yang digunakan oleh Satgas Damkar, Satlakar, Balakar atau sebutan lainnya untuk memenuhi waktu tanggap darurat  kebakaran yang cepat dan tepat dalam pengurangan resiko kebakaran.
+- Sumber : Peraturan Menteri Dalam Negeri Republik Indonesia Nomor  69   Tahun 2012  Tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 62 Tahun 2008 Tentang Standar Pelayanan Minimal Bidang Pemerintahan Dalam Negeri Di Kabupaten/Kota (Lampiran II).
+
+#### 4.1.5.II.8.1.2. Pos Pemadam Kebakaran
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.9. Jumlah Kejadian Kebakaran
+- Satuan : Kasus
+- Definisi : Situasi dimana bangunan pada suatu tempat seperti rumah/pemukiman, pabrik, pasar, gedung dan lain-lain dilanda api yang menimbulkan korban dan/atau kerugian.	Undang-undang Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
