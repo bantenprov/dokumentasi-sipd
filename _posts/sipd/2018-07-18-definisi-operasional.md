@@ -1650,28 +1650,28 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Persentase luas ruang dalam kawasan perkotaan baik dalam bentuk area maupun dalam bentuk area memanjang/jalur yang penggunaannya lebih bersifat terbuka dan diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika terhadap seluruh luas wilayah perkotaan.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
 
-#### 4.1.4,VII. Kawasan Permukiman Kumuh** 
-#### 4.1.4,VII.1. Jumlah Kawasan Permukiman Kumuh
+#### 4.1.4.VII. Kawasan Permukiman Kumuh** 
+#### 4.1.4.VII.1. Jumlah Kawasan Permukiman Kumuh
 - Satuan : 
 Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
 
-#### 4.1.4,VII.2. Luas Kawasan Permukiman Kumuh
+#### 4.1.4.VII.2. Luas Kawasan Permukiman Kumuh
 - Satuan : Ha
 - Definisi Luas permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
 
-#### 4.1.4,VII.3. Jumlah Rumah Tangga yang Tinggal di Kawasan Pemukiman Kumuh
+#### 4.1.4.VII.3. Jumlah Rumah Tangga yang Tinggal di Kawasan Pemukiman Kumuh
 - Satuan : RT
 - Definisi : Jumlah seseorang atau sekelompok orang yang mendiami sebagian atau seluruh bangunan fisik atau sensus, dan biasanya tinggal bersama serta makan dari satu dapur yang tinggal dikawasan permukiman kumuh.
 - Sumber : Badan Pusat Statistik (diolah)
 
-#### 4.1.4,VII.4. Jumlah Bangunan Rumah
+#### 4.1.4.VII.4. Jumlah Bangunan Rumah
 - Satuan : Unit
 - Definisi : Jumlah bangunan gedung yang berfungsi sebagai tempat tinggal yang layak huni, sarana pembinaan keluarga, cerminan harkat dan martabat penghuninya, serta aset bagi pemiliknya.
 - Satuan : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
 
-#### 4.1.4,VII.5. Persentase Lingkungan Pemukiman Kumuh
+#### 4.1.4.VII.5. Persentase Lingkungan Pemukiman Kumuh
 - Satuan %
 - Definisi : Persentase luas permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat terhadap seluruh luas wilayah.
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011, Petunjuk Teknis Standar Pelayanan Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). (diolah)
