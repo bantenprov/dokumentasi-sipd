@@ -1944,9 +1944,9 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber :
 
 #### 4.1.5.II.2. Kawasan Rawan Bencana*
-- Satuan :
-- Definisi : Kawasan dengan kondisi atau karakteristik geologis, biologis, hidrologis, klimatologis, geografis, sosial, budaya, politik, ekonomi, dan teknologi pada suatu wilayah untuk jangka waktu tertentu yang mengurangi kemampuan mencegah, meredam, mencapai kesiapan, dan mengurangi kemampuan untuk menanggapi dampak buruk bahaya  tertentu.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
+- Satuan : Kawasan
+- Definisi : Dengan kondisi atau karakteristik geologis, biologis, hidrologis, klimatologis, geografis, sosial, budaya, politik, ekonomi, dan teknologi pada suatu wilayah untuk jangka waktu tertentu yang mengurangi kemampuan mencegah, meredam, mencapai kesiapan, dan mengurangi kemampuan untuk menanggapi dampak buruk bahaya tertentu.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
 
 #### 4.1.5.II.2.1. Jumlah Kawasan Rawan Bencana Banjir**
 - Satuan : 
@@ -1954,8 +1954,8 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber : Pedoman Pengendalian Pemanfaatan Ruang di Kawasan Rawan Bencana Banjir (Ditjen Penataan Ruang Dept. PU 2015)
 
 #### 4.1.5.II.2.2. Jumlah Kawasan Rawan Bencana Gunung Meletus**
-- Satuan : 
-- Definisi : Kawasan	Jumlah kawasan yang pernah terlanda atau diidentifikasi berpotensi terancam bahaya erupsi gunungapi baik secara langsung maupun tidak langsung.
+- Satuan : Kawasan
+- Definisi : Jumlah kawasan yang pernah terlanda atau diidentifikasi berpotensi terancam bahaya erupsi gunungapi baik secara langsung maupun tidak langsung.
 - Sumber : Peraturan Menteri Energi dan Sumber Daya Mineral RI Nomor 11 Tahun 2016 (Pasal 1)
 
 #### 4.1.5.II.2.3. Jumlah Kawasan Rawan Bencana Longsor**
@@ -1976,3 +1976,99 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.5.II.2.6. Jumlah Kawasan Rawan Bencana Kebakaran**
 - Satuan : Kawasan
 - Definisi : Jumlah daerah yang memiliki potensi terhadap bahaya kebakaran	
+- Sumber :
+
+#### 4.1.5.II.3. Jumlah Korban Bencana**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1)
+
+#### 4.1.5.II.3.1. Korban Bencana  Banjir**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana banjir.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.1.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana banjir.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.1.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana banjir.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.2. Korban Bencana  Gunung Meletus**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana gunung meletus.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.2.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana gunung meletus.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.2.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana gunung meletus.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.3. Korban Bencana Longsor**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana longsor.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.3.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana longsor.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3.3.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana longsor.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
+
+#### 4.1.5.II.4. Korban Bencana  Gempa Bumi**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana gempa bumi.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.4.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana gempa bumi.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.4.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana gempa bumi.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.5. Korban Bencana  Tsunami**
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana tsunami.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.5.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana tsunami.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.5.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana tsunami.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.6. Korban Bencana  Kebakaran**
+- Satuan : Orang
+- Definisi: Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana kebakaran.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.6.1. Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana kebakaran.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.6.2. Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana kebakaran.
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
