@@ -1771,78 +1771,78 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya unjuk rasa.
 - Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
 
-#### 4.1.5.II.4. Kerugian Material Akibat Unjuk Rasa
+#### 4.1.5.II.3.4. Kerugian Material Akibat Unjuk Rasa
 - Satuan : Rp
 - Definisi : Jumlah kerugian material dalam rupiah akibat kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum.
 - Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
 
-#### 4.1.5.II.5. Sengketa Pengusaha dan Pekerja*			
-#### 4.1.5.II.5.1. Jumlah Sengketa Pengusaha dan Pekerja**
+#### 4.1.5.II.3.5. Sengketa Pengusaha dan Pekerja*			
+#### 4.1.5.II.3.5.1. Jumlah Sengketa Pengusaha dan Pekerja**
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.5.1.1. Jumlah Sengketa Terselesaikan
+#### 4.1.5.II.3.5.1.1. Jumlah Sengketa Terselesaikan
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.5.1.2. Jumlah Sengketa Belum Terselesaikan
+#### 4.1.5.II.3.5.1.2. Jumlah Sengketa Belum Terselesaikan
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.5.2. Kasus Pemogokan Kerja
+#### 4.1.5.II.3.5.2. Kasus Pemogokan Kerja
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6. Sarana dan Prasarana Keamanan dan Ketertiban Umum*
-#### 4.1.5.II.6.1. Jumlah Aparat Keamanan dan Ketertiban Umum**
+#### 4.1.5.II.3.6. Sarana dan Prasarana Keamanan dan Ketertiban Umum*
+#### 4.1.5.II.3.6.1. Jumlah Aparat Keamanan dan Ketertiban Umum**
 - Satuan : Orang
 - Definisi : Total jumlah aparat pamong praja, patroli satpol PP, dan petugas perlindungan masyarakat
 - Sumber :
 
-#### 4.1.5.II.6.1.1. Jumlah Aparat Pamong Praja
+#### 4.1.5.II.3.6.1.1. Jumlah Aparat Pamong Praja
 - Satuan : Orang
 - Definisi : Anggota satpol PP sebagai aparat pemerintah daerah dalam penegakan Perda dan penyelenggaraan ketertiban umum dan ketenteraman masyarakat.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
 
-#### 4.1.5.II.6.1.2. Jumlah Petugas Patroli Satpol PP
+#### 4.1.5.II.3.6.1.2. Jumlah Petugas Patroli Satpol PP
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6.1.3. Jumlah Petugas Perlindungan Masyarakat
+#### 4.1.5.II.3.6.1.3. Jumlah Petugas Perlindungan Masyarakat
 - Satuan : Orang
 - Definisi : Satuan yang memiliki tugas umum pemeliharaan ketentraman dan ketertiban masyarakat.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
 
-#### 4.1.5.II.6.2. Jumlah Sarana Keamanan dan Ketertiban Umum**
+#### 4.1.5.II.3.6.2. Jumlah Sarana Keamanan dan Ketertiban Umum**
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6.2.1. Jumlah Pos Keamanan
+#### 4.1.5.II.3.6.2.1. Jumlah Pos Keamanan
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6.2.2. Jumlah Pos Siskamling
+#### 4.1.5.II.3.6.2.2. Jumlah Pos Siskamling
 - Satuan : Unit
 - Definisi : Tempat atau bangunan sebagai salah satu sarana dalam penyelenggaraan siskamling, yang berfungsi sebagai pusat kegiatan dalam pelaksanaan siskamling, dan pembentukannya berdasarkan kesepakatan dalam musyawarah warga.
 - Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 23 Tahun 2007 Tentang Sistem Keamanan Lingkungan
 
-#### 4.1.5.II.6.2.3. Jumlah Kendaraan Operasional**
+#### 4.1.5.II.3.6.2.3. Jumlah Kendaraan Operasional**
 - Satuan : Unit
 - Definisi : Jumlah kendaraan operasional roda 2 dan roda 4 yang digunakan untuk keamanan dan ketertiban umum	
 
-#### 4.1.5.II.6.2.3.1. Jumlah Kendaraan Operasional Roda 2
+#### 4.1.5.II.3.6.2.3.1. Jumlah Kendaraan Operasional Roda 2
 - Satuan : Kasus
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6.2.3.2. Jumlah Kendaraan Operasional Roda 4
+#### 4.1.5.II.3.6.2.3.2. Jumlah Kendaraan Operasional Roda 4
 - Satuan : Kasus
 - Definisi :
 - Sumber :
@@ -1980,95 +1980,131 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.3. Jumlah Korban Bencana**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1)
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1)
 
-#### 4.1.5.II.3.1. Korban Bencana  Banjir**
+#### 4.1.5.II.3.1. Korban Bencana Banjir**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana banjir.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana banjir.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.1.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana banjir.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.1.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana banjir.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana banjir.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.3.2. Korban Bencana  Gunung Meletus**
+#### 4.1.5.II.3.2. Korban Bencana Gunung Meletus**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana gunung meletus.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana gunung meletus.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.2.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana gunung meletus.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.2.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana gunung meletus.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana gunung meletus.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.3. Korban Bencana Longsor**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana longsor.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana longsor.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.3.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana longsor.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.II.3.3.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana longsor.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana longsor.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
 
-#### 4.1.5.II.4. Korban Bencana  Gempa Bumi**
+#### 4.1.5.II.3.4. Korban Bencana Gempa Bumi**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana gempa bumi.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana gempa bumi.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.4.1. Meninggal
+#### 4.1.5.II.3.4.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana gempa bumi.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.4.2. Luka-Luka
+#### 4.1.5.II.3.4.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana gempa bumi.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana gempa bumi.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.5. Korban Bencana  Tsunami**
+#### 4.1.5.II.3.5. Korban Bencana Tsunami**
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana tsunami.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana tsunami.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.5.1. Meninggal
+#### 4.1.5.II.3.5.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana tsunami.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.5.2. Luka-Luka
+#### 4.1.5.II.3.5.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana tsunami.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana tsunami.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.6. Korban Bencana  Kebakaran**
+#### 4.1.5.II.3.6. Korban Bencana Kebakaran**
 - Satuan : Orang
-- Definisi: Jumlah orang atau sekelompok orang yang  menderita atau meninggal dunia akibat bencana kebakaran.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi: Jumlah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana kebakaran.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.6.1. Meninggal
+#### 4.1.5.II.3.6.1. Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat bencana kebakaran.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
-#### 4.1.5.II.6.2. Luka-Luka
+#### 4.1.5.II.3.6.2. Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat bencana kebakaran.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat bencana kebakaran.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+
+#### 4.1.5.II.4. Jumlah Pengungsi Akibat Bencana**
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana perang, bencana alam, bencana akibat ulah/perbuatan manusia, dan bencana lainnya.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah
+
+#### 4.1.5.II.4.1. Jumlah Pengungsi Akibat Bencana Banjir
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana banjir.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4.2. Jumlah Pengungsi Akibat Bencana Gunung Meletus
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana gunung meletus.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4.3. Jumlah Pengungsi Akibat Bencana Longsor
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana longsor.
+- Definisi : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4.4. Jumlah Pengungsi Akibat Bencana Gempa Bumi
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana gempa bumi.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4.5. Jumlah Pengungsi Akibat Bencana Tsunami
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana tsunami.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4.6. Jumlah Pengungsi Akibat Bencana Kebakaran
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya bencana kebakaran.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
