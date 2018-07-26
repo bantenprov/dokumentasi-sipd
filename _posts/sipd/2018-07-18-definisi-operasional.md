@@ -43,7 +43,8 @@ type: Document
 - Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007 (Lampiran)
 
 #### 4.1.1.II.3. Jumlah Tenaga Pendidik PAUD**
-- Satuan : Orang Jumlah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan pendidikan Anak Usia Dini.
+- Satuan : Orang
+- Definisi : Jumlah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan pendidikan Anak Usia Dini.
 - Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1)
 
 ### 4.1.1.III. Sekolah Taman Kanak-Kanak*
