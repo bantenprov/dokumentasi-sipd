@@ -2620,7 +2620,7 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya
 - Sumber :
 
-#### 4.1.6.V.1.2. Penderita Sakit Jiwa
+#### 4.1.6.V.2. Penderita Sakit Jiwa
 - Satuan : Orang
 - Definisi : Orang yang mengalami gangguan dalam pikiran, perilaku, dan perasaan yang termanifestasi dalam bentuk sekumpulan gejala dan/atau perubahan perilaku yang bermakna, serta dapat menimbulkan penderitaan dan hambatan dalam menjalankan fungsi orang sebagai manusia 
 - Sumber : Undang-Undang Republik Indonesia Nomor 18 Tahun 2014 Tentang Kesehatan Jiwa
@@ -2749,67 +2749,87 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Orang
 - Definisi : Jumlah korban dari lesbian, gay, biseksual, dan transgender 
 
-#### 4.1.6.V.1.2. Panti Asuhan*
-#### 4.1.6.V.1.2.1. Panti Sosial Asuhan Anak*
-#### 4.1.6.V.1.2.1.1. Jumlah Panti
+#### 4.1.6.V.2. Panti Asuhan*
+#### 4.1.6.V.2.1. Panti Sosial Asuhan Anak*
+#### 4.1.6.V.2.1.1. Jumlah Panti
 - Satuan : Unit
 - Definisi : Panti sosial yang mempunyai tugas memberikan bimbingan dan pelayanan bagi anak yatim, piatu, dan yatim piatu yang kurang mampu, terlantar agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar
 - Sumber : Kepmensos No.50/HUK/2004
 
-#### 4.1.6.V.1.2.1.2. Jumlah Penghuni
+#### 4.1.6.V.2.1.2. Jumlah Penghuni
 - Satuan : Orang
 - Definisi : Jumlah Penghuni Panti sosial yang mempunyai tugas memberikan bimbingan dan pelayanan bagi anak yatim, piatu, dan yatim piatu yang kurang mampu, terlantar agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar
 - Sumber : Kepmensos No.50/HUK/2004
 
-#### 4.1.6.V.1.2.1.3. Jumlah Pekerja Sosial Profesional
+#### 4.1.6.V.2.1.3. Jumlah Pekerja Sosial Profesional
 - Sumber : Orang
 - Definisi : Seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial asuhan anak.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
-#### 4.1.6.V.1.2.1.4. Jumlah Tenaga Kesejahteraan Sosial
+#### 4.1.6.V.2.1.4. Jumlah Tenaga Kesejahteraan Sosial
 - Satuan : Orang
 - Definisi : Seseorang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial asuhan anak.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
-#### 4.1.6.V.1.2.2. Panti Sosial Petirahan Anak*
-#### 4.1.6.V.1.2.2.1. Jumlah Panti
+#### 4.1.6.V.2.2. Panti Sosial Petirahan Anak*
+#### 4.1.6.V.2.2.1. Jumlah Panti
 - Satuan : Unit
 - Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan bagi anak yang mengalami hambatan belajar karena menyandang masalah sosial agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar.
 - Sumber : Kementerian Sosial Republik Indonesia
 
-#### 4.1.6.V.1.2.2.2. Jumlah Penghuni
+#### 4.1.6.V.2.2.2. Jumlah Penghuni
 - Satuan : Orang
 - Definisi : Jumlah penghuni dipanti sosial yang mempunyai tugas memberikan bimbingan, pelayanan bagi anak yang mengalami hambatan belajar karena menyandang masalah sosial agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar.
 - Sumber : Kementerian Sosial Republik Indonesia
 
-#### 4.1.6.V.1.2.2.3. Jumlah Pekerja Sosial Profesional
+#### 4.1.6.V.2.2.3. Jumlah Pekerja Sosial Profesional
 - Satuan : Orang
 - Definisi : Seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial petiharan anak.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
-#### 4.1.6.V.1.2.2.4. Jumlah Tenaga Kesejahteraan Sosial
+#### 4.1.6.V.2.2.4. Jumlah Tenaga Kesejahteraan Sosial
 - Satuan : Orang
 - Definisi : Seseorang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dipetiharan anak.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
-#### 4.1.6.V.1.2.3. Panti Sosial Bina Remaja* 
-#### 4.1.6.V.1.2.3.1. Jumlah Panti
+#### 4.1.6.V.2.3. Panti Sosial Bina Remaja* 
+#### 4.1.6.V.2.3.1. Jumlah Panti
 - Satuan : Unit
 - Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 21)
 
-#### 4.1.6.V.1.2.3.2. Jumlah Penghuni
+#### 4.1.6.V.2.3.2. Jumlah Penghuni
 - Satuan : Orang
 - Definisi : Jumlah penghuni panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 21) diolah
 
-#### 4.1.6.V.1.2.3.3. Jumlah Pekerja Sosial Profesional
+#### 4.1.6.V.2.3.3. Jumlah Pekerja Sosial Profesional
 - Satuan : Orang
 - Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
-#### 4.1.6.V.1.2.3.4. Jumlah Tenaga Kesejahteraan Sosial
+#### 4.1.6.V.2.3.4. Jumlah Tenaga Kesejahteraan Sosial
 - Satuan : Orang
 - Definisi Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial di panti sosial bina remaja.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
+#### 4.1.6.V.3. Panti Sosial Bina Remaja*			
+#### 4.1.6.V.3.1. Jumlah Panti
+- Satuan : Unit
+- Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi  anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan. 
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :  106 / HUK / 2009 (Pasal 21)
+
+#### 4.1.6.V.3.2. Jumlah Penghuni
+- Satuan : Orang
+- Definisi : Jumlah penghuni panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi  anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :  106 / HUK / 2009 (Pasal 21) diolah
+
+#### 4.1.6.V.3.3. Jumlah Pekerja Sosial Profesional
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang  memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.3.4. Jumlah Tenaga Kesejahteraan Sosial
+- Satuan : Orang
+- Definisi : Jumlah orang  yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial di panti sosial bina remaja.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
