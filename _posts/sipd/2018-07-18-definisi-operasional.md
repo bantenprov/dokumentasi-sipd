@@ -2500,5 +2500,111 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.III.5. Keluarga Sejahtera Tahap 3 Plus**
 - Satuan : KK
-- Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhannya, baik yang bersifat dasar, sosial psikologis maupun yang bersifat pengembangan serta telah dapat pula memberikan sumbangan yang nyata dan berkelanjutan bagi masyarakat 
+- Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhannya, baik yang bersifat dasar, sosial psikologis maupun yang bersifat pengembangan serta telah dapat pula memberikan sumbangan yang nyata dan berkelanjutan bagi masyarakat
 - Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+
+#### 4.1.6.IV. Jumlah Lembaga/Organisasi Kemasyarakatan*
+#### 4.1.6.IV.1. Jumlah Lembaga Swadaya Masyarakat**
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya
+- Sumber :	KEPMENSOS Nomor 78 Tahun 1993
+
+#### 4.1.6.IV.1.1. LSM Lokal Terdaftar
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. dalam hal ini LSM lokal yang telah terdatar dilengkapi dengan nomor surat keterangan terdaftar.
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.1.2. LSM Lokal Tidak Aktif
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. dalam hal ini LSM lokal yang tidak aktif
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.1.3. LSM Nasional Terdaftar
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM nasional yang terdaftar dilengkapi dengan nomor surat keterangan terdaftar
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.1.4. LSM Nasional Tidak Aktif
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM nasional yang tidak aktif
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.1.5. LSM Asing/Internasional Terdaftar
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM Internasional yang terdaftar dilengkapi dengan nomor surat keterangan terdaftar.
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.1.6. LSM Asing/Internasional Tidak Aktif
+- Satuan : LSM
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM internasional  yang tidak aktif
+- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+
+#### 4.1.6.IV.2. Jumlah Organisasi Masyarakat**
+- Satuan : Ormas
+- Definisi : Jumlah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1)
+
+#### 4.1.6.IV.2.1. Berlandaskan Agama
+- Satuan : Ormas
+- Definisi : Jumlah organisasi berlandaskan agama yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+
+#### 4.1.6.IV.2.2. Berlandaskan Budaya/Adat
+- Satuan : Ormas
+- Definisi : Jumlah organisasi berlandaskan budaya/adat  yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+
+#### 4.1.6.IV.2.3. Berlandaskan Nasionalis 
+- Satuan : Ormas
+- Definisi : Jumlah organisasi berlandaskan nasionalis  yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila. 	
+- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+
+#### 4.1.6.IV.3. Jumlah Organisasi Kemasyarakatan Pemuda (OKP)
+- Satuan : OKP
+- Definisi : Jumlah lembaga kepemudaan yang tumbuh dan eksis dalam masyarakat, dimana umur dari anggota-anggotanya dibatasi sampai dengan umur 35 tahun.
+- Sumber :	http://repository.usu.ac.id/bitstream/handle/123456789/44722/Chapter%20II.pdf?sequence=3
+
+#### 4.1.6.IV.4. Jumlah Yayasan**
+- Satuan : Yayasan
+- Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang sosial, keagamaan, dan kemanusiaan, yang tidak mempunyai anggota.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan
+
+#### 4.1.6.IV.4.1. Yayasan Sosial
+- Satuan : Yayasan
+- Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang sosial yang tidak mempunyai anggota.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+
+#### 4.1.6.IV.4.2. Yayasan Pendidikan
+- Satuan : Yayasan
+- Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang pendidikan yang tidak mempunyai anggota.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+
+#### 4.1.6.IV.4.3. Lainnya
+- Satuan : Yayasan
+- Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang lainnya yang tidak mempunyai anggota.
+- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+
+#### 4.1.6.IV.5. Jumlah Karang Taruna (KT)
+- Satuan : KT
+- Definisi : Jumlah Lembaga Kemasyarakatan yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial.
+- Sumber :	Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.6.IV.6. Jumlah Koordinator Kegiatan Kesejahteraan Sosial (KKKS)
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.6.IV.7. Jumlah Badan Koordinasi Kegiatan Kesejahteraan Sosial (BKKKS)
+- Satuan : Badan
+- Definisi : Jumlah organisasi yang mempunyai fungsi koordinasi terhadap organisasi-organisasi yang menyelenggarakan kesejahteraan sosial di tingkat provinsi.
+- Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.IV.8. Jumlah Lembaga Konsultan Kesejahteraan Keluarga LK3
+- Satuan : Lembaga
+- Definisi :Jumlah lembaga sebagai media konsultasi bagi individu dan keluarga yang mengalami masalah sosial psikologis dalam keluarganya, yang mengganggu pelaksanaan peran dan fungsinya sebagai pribadi, anggota keluarga, dan anggota kelompok sosial lainnya.	
+- Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.IV.9. Jumlah Lembaga Kesejahteraan Sosial
+- Satuan : LKS
+- Definisi : Lembaga Organisasi sosial atau perkumpulan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial yang dibentuk oleh masyarakat baik yang berbadan hukum maupun yang tidak berbadan hukum 
+- Sumber : UU No.11 tahun 2009 tentang Kesejahteraan Sosial
