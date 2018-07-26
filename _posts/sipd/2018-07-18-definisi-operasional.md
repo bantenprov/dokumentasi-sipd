@@ -2613,8 +2613,12 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.6.V.1. Jumlah Penyandang Masalah Kesejahteraan Sosial**
 - Satuan : Orang
 - Definisi : Total Jumlah penyandang masalah kesejahteraan sosial 
-#### 4.1.6.V.1.1. Anak Jalanan Orang Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya 
 - Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.V.1.1. Anak Jalanan
+- Satuan : Orang
+- Definisi : Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya
+- Sumber :
 
 #### 4.1.6.V.1.2. Penderita Sakit Jiwa
 - Satuan : Orang
@@ -2648,7 +2652,10 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Orang
 - Definisi : anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial 
 - Sumber : UU No. 23 Tahun 2002 tentang perlindungan anak
-#### 4.1.6.V.1.9. Anak Korban Kekerasan Lingkungan Rumah Tangga Orang Jumlah anak yang menjadi korban kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan rumah tangga 
+
+#### 4.1.6.V.1.9. Anak Korban Kekerasan Lingkungan Rumah Tangga
+- Satuan : Orang
+- Definisi : Jumlah anak yang menjadi korban kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan rumah tangga 
 - Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2011 Tentang Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
 
 #### 4.1.6.V.1.10. Anak Korban Kekerasan Lingkungan Sekolah
