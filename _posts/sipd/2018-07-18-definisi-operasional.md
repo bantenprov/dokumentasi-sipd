@@ -1730,3 +1730,29 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Rp/Juta		
 - Definisi :
 - Sumber :
+
+#### 4.1.5.II. Unjuk Rasa*
+#### 4.1.5.II.1. Jumlah Kasus Unjuk Rasa**
+- Satuan : Kasus
+- Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum.
+
+#### 4.1.5.II.1.1. Bidang Politik
+- Satuan : Kasus
+- Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang politik.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+
+#### 4.1.5.II.1.2. Bidang Ekonomi
+- Satuan : Kasus
+- Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang ekonomi.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+
+#### 4.1.5.II.1.3. Bidang Agama
+- Satuan : Kasus
+- Sumber : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang agama.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+
+#### 4.1.5.II.1.4. Lainnya
+- Satuan : Kasus
+- Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang laiinnya.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
