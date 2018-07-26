@@ -959,3 +959,118 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Satuan : Unit
 - Definisi : Jumlah upaya kesehatan bersumberdaya masyarakat yang dibentuk di desa dalam rangka mendekatkan/menyediakan pelayanan kesehatan dasar bagi masyarakat desa
 - Sumber : Petunjuk Teknis Pengembangan dan Penyelenggaraan Poskesdes, 2006
+
+#### 4.1.2.III. Sumber Daya Manusia (SDM) Kesehatan*
+#### 4.1.2.III.1. Tenaga Medis**
+- Satuan : Orang
+- Definisi : Jumlah Tenaga medis meliputi dokter, dokter gigi, dokter spesialis, dokter gigi spesialis baik lulusan dalam negeri maupun luar negeri yang diakui oleh pemerintah RI.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.III.1.1. Jumlah Dokter Umum
+- Satuan : Orang
+- Definisi : Jumlah dokter lulusan pendidikan kedokteran baik di dalam maupun di luar negeri yang diakui oleh Pemerintah Republik Indonesia sesuai dengan peraturan perundang-undangan Standar pendidikan profesi dokter indonesia, 2012
+
+#### 4.1.2.III.1.2. Jumlah Dokter Spesialis
+- Satuan : Orang
+- Definisi ; Dokter yang mengkhususkan diri dalam suatu bidang ilmu kedokteran tertentu. Seorang dokter harus menjalani pendidikan profesi dokter pasca sarjana(spesialisi) untuk dapat menjadi dokter spesialis.
+
+#### 4.1.2.III.1.3. Jumlah Dokter Gigi
+- Satuan : Orang
+- Definisi : Jumlah dokter, dokter spesialis, dokter gigi dan dokter gigi spesialis lulusan pendidikan kedokteran atau kedokteran gigi baik di dalam maupun di luar negeri yang diakui oleh Pemerintah Republik Indonesia sesuai dengan peraturan perundangundangan.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 53 Tahun 2013 Tentang Program Bantuan Pendidikan Dokter Spesialis/Pendidikan Dokter Gigi Spesialis
+
+#### 4.1.2.III.2. Tenaga Kebidanan/Keperawatan
+#### 4.1.2.III.2.1. Jumlah Bidan
+- Satuan : Orang
+- Definisi : Jumlah orang yang telah mengikuti program pendidikan bidan yang diakui di negaranya, telah lulus dari pendidikan tersebut, serta memenuhi kualifikasi ntuk didafta (register) dan atau memiliki izin yang sah (lisensi) untuk melakukan praktik bidan
+- Sumber : Kepmenkes No 369/Menkes/SK/III/2007
+
+#### 4.1.2.III.2.2. Jumlah Perawat
+- Satuan : Orang
+- Definisi : Jumlah orang yang telah lulus pendidikan perawat baik di dalam maupun di luar negeri sesuai dengan peraturan perundang-undangan
+- Sumber : Permenkes RI NomorHK.02.02/Menkes/148/I/2010 tentang izin dan penyelenggaraan praktik perawat
+
+#### 4.1.2.III.2.3. Jumlah Apoteker
+- Satuan : Orang
+- Definisi : (usul diubah: Jumlah tenaga kefarmasian; terdiri dari apoteker, asisten apoteker, sarjana farmasi, analis farmasi, farmasi (SMF)) Orang Jumlah sarjana farmasi yang telah lulus dan telah mengucapkan sumpah jabatan apoteker, mereka berdasarkan peraturan perundangan yang berlaku berhak melakukan pekerjaan kefarmasian diIndonesia sebagai apoteker.)
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI
+
+#### 4.1.2.III.2.4. Sarjana Teknis Kefarmasian --> dihilangkan
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.2.III.3. Jumlah Tenaga Psikologi Klinis
+- Satuan : Orang
+- Definisi : Setiap orang yang telah lulus pendidikan psikologi klinis sesuai dengan ketentuan peraturan perundang-undangan
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 45 Tahun 2017 Tentang Izin Dan Penyelenggaraan Praktik Psikolog Klinis
+
+#### 4.1.2.III.4. Tenaga Kesehatan Masyarakat*
+
+#### 4.1.2.III.4.1. Jumlah Epidemiolog  Kesehatan
+- Satuan : Orang
+- Definisi : Jumlah tenaga kesehatan yang mempelajari sebaran dan penyebab keadaan sehat atau sakit pada populasi, penerapannya dalam pencegahan dan penaggulangan masalah kesehatan dan penyakit.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.III.4.2. Jumlah Tenaga Promosi Kesehatan Dan Ilmu Prilaku
+- Satuan Orang
+- Definisi : Jumlah orang atau tenaga kesehatan yang melakukan upaya untuk meningkatkan kemampuan masyarakat melalui pembelajaran dari oleh, untuk dan bersama masyarakat, agar mereka dapat menolong diri sendiri, serta mengembangkan kegiatan yang bersumber daya masyarakat, sesuai sosial budaya setempat dan didukung kebijakan publik yang berwawasan kesehatan
+- Sumber : Keputusan Menteri Kesehatan Nomor 1114 /MENKES/SK/VII/2005 tentang Pedoman Pelaksanaan Promosi Kesehatan di Daerah, (diolah)
+
+#### 4.1.2.III.4.3. Jumlah Pembimbing  Kesehatan Kerja
+- Satuan : Orang
+- Definisi : jabatan yang mempunyai ruang ringkup tugas, tanggung jawab, dan wewenang untuk melakukan kegiatan upaya kesehatan kerja
+- Sumber : Peraturan Bersama Menteri Kesehatan Dan Kepala Badan Kepegawaian Negara Nomor 22 Tahun 2014 dan Nomor 15 Tahun 2014
+
+#### 4.1.2.III.4.4. Jumlah Tenaga  Administrasi Dan Kebijakan  Kesehatan
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.2.III.4.5. Jumlah Tenaga Kesehatan Reproduksi Dan Keluarga
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.2.III.5. Tenaga Kesehatan Lingkungan*
+
+#### 4.1.2.III.5.1. Jumlah Tenaga Sanitasi Lingkungan / Sanitarian
+- Satuan : Orang
+- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan  tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan   Peraturan
+- Sumber : Pemerintah  No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
+
+#### 4.1.2.III.5.2. Jumlah Entomolog Kesehatan
+- Satuan : Orang
+- Definisi : Pegawai Negeri Sipil yang diberi tugas, tanggung jawab, wewenang dan hak secara penuh oleh pejabat yang berwenang untuk melakukan kegiatan teknis fungsional pengamatan, penyelidikan, pemberantasan dan pengendalian terhadap vektor penyakit/serangga pengganggu.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 19 Tahun 2015 Tentang Standar Kompetensi Manajerial Jabatan Fungsional Entomolog Kesehatan
+
+#### 4.1.2.III.5.3. Jumlah Mikrobiolog Kesehatan
+- Satuan : Orang
+- Definisi : Jumlah tenaga kesehatan mikrobiolog kesehatan ilmu kedokteran yang mempelajari diagnosis, penyebaran, dan pengobatan penyakit yang disebabkan oleh mikroorganisme patogen
+- Sumber  :
+
+#### 4.1.2.III.6. Tenaga Gizi
+- Satuan : Orang
+- Definisi : Jumlah tenaga gizi, yaitu pekerjaan di bidang gizi yang dilaksanakan berdasarkan suatu keilmuan, memiliki kompetensi yang diperoleh melalui pendidikan yang berjenjang, memiliki kode etik, dan bersifat melayani masyarakat.
+- Sumber : Kepmenkes No 374/Menkes/SK/III/2007 tentang Standar Profesi Gizi
+
+#### 4.1.2.III.6.1. Jumlah Nutrisionis
+- Satuan : Orang
+- Definisi : Jumlah orang yang diberi tugas, tanggung jawab dan wewenang secara penuh oleh pejabat berwenang untuk melakukan kegiatan teknis fungsional dibidang pelayanan gizi, makanan dan dietetik baik dimasyarakat maupun rumah sakit dan unit pelaksana kesehatan lainnya, berpendidikan dasar D3 gizi.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.III.6.2. Jumlah Dietisien
+- Satuan : Orang
+- Definisi : Jumlah orang nustrisionis yang telah mendalami pengetahuan dan keterampilan dietetik baik melalui lembaga pendidikan formal maupun pengalaman bekerja dengan masa kerja minimal 1 tahun atau yang mendapat sertifikasi dari Persatuan Ahli Gizi ( PERSAGI) yang bekerja diunit pelayanan yang menyelenggarakan terapi dietetik.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.III.7. Tenaga Kesehatan Tradisional*
+#### 4.1.2.III.7.1. Jumlah  Tenaga Kesehatan Tradisional Ramuan
+- Satuan : Orang
+- Definisi : Pengobat tradisional ramuan Indonesia (Jamu), gurah, tabib, shinshe, homoeopathy, aromatherapist dan pengobat tradisional lainnya yang metodenya sejenis.
+- Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
+
+#### 4.1.2.III.7.2. Jumlah  Tenaga Kesehatan Tradisional Ketrampilan
+- Satuan : Orang
+- Definisi : Tenaga kesehatan tradisional ketrampilan terdiri dari pengobat tradisional pijat urut, patah tulang, sunat, dukun bayi, refleksi, akupresuris, akupunkturis, chiropractor dan pengobat tradisional lainnya yang metodenya sejenis.
+- Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
