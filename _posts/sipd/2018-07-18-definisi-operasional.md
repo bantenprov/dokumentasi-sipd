@@ -2608,3 +2608,138 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : LKS
 - Definisi : Lembaga Organisasi sosial atau perkumpulan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial yang dibentuk oleh masyarakat baik yang berbadan hukum maupun yang tidak berbadan hukum 
 - Sumber : UU No.11 tahun 2009 tentang Kesejahteraan Sosial
+
+#### 4.1.6.V. Penyandang Masalah Kesejahteraan Sosial*			
+#### 4.1.6.V.1. Jumlah Penyandang Masalah Kesejahteraan Sosial**
+- Satuan : Orang
+- Definisi : Total Jumlah penyandang masalah kesejahteraan sosial	
+#### 4.1.6.V.1.1. Anak Jalanan 	Orang	Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya 
+- Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.V.1.2. Penderita Sakit Jiwa
+- Satuan : Orang
+- Definisi : Orang yang mengalami gangguan dalam pikiran, perilaku, dan perasaan yang termanifestasi dalam bentuk sekumpulan gejala dan/atau perubahan perilaku yang bermakna, serta dapat menimbulkan penderitaan dan hambatan dalam menjalankan fungsi orang sebagai manusia 
+- Sumber : Undang-Undang Republik Indonesia Nomor 18 Tahun 2014 Tentang Kesehatan Jiwa
+
+#### 4.1.6.V.1.3. Gepeng (Gelandangan Dan Pengemis)
+- Satuan : Orang
+- Definisi : gelandangan adalah orang-orang yang hidup dalam keadaan tidak sesuai dengan norma-norma kehidupan yang layak dalam masyarakat setempat serta tidak mempunyai tempat tinggal dan pekerjaan yang tetap di wilayah tertentu dan hidup mengembara di tempat umum, sedangkan orang-orang yang mendapat penghasilan dari meminta-minta di muka umum dengan berbagai alasan untuk mengharapkan belas kasihan dari orang. 
+- Sumber : Departemen Sosial R.I (1992)
+
+#### 4.1.6.V.1.4. Penderita HIV/AIDS
+- Satuan : Orang
+- Definisi : orang yeng mengalami kondisi medis yang menunjukkan lemahnya kekebalan tubuh, sering berwujud infeksi ikutan (infeksi oportunistik) dan kanker, yang hingga saat ini belum bisa disembuhkan yang disebabkan oleh virus HIV 
+- Sumber : Pedoman bersama ILO/WHO tentang  Pelayanan Kesehatan dan HIV/AIDS (2005)
+
+#### 4.1.6.V.1.5. Pecandu Narkoba
+- Satuan : Orang
+- Definisi : Orang yang menggunakan/ menyalahgunakan narkoba dan dalam keadaan ketergantungan pada narkoba baik secara fisik maupun psikis	UU No.22 tahun 1997 tentang Narkotika 
+- Sumber : 
+#### 4.1.6.V.1.6. Fakir Miskin
+- Satuan : Orang
+- Definisi : Orang yang sama sekali tidak mempunyai sumber mata pencaharian dan tidak mempunyai kemampuan memenuhi kebutuhan pokok yang layak bagi kemanusiaan atau orang yang mempunyai sumber mata pencaharian tetapi tidak dapat memenuhi kebutuhan pokok yang layak bagi kemanusiaan. 
+- Sumber : Kepmensos RI No. 23/HUK/1996
+
+#### 4.1.6.V.1.7. Bayi Terlantar
+- Satuan : Orang
+- Definisi : 		
+
+#### 4.1.6.V.1.8. Anak Terlantar
+- Satuan : Orang
+- Definisi : anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial 
+- Sumber : UU No. 23 Tahun 2002 tentang perlindungan anak
+#### 4.1.6.V.1.9. Anak Korban Kekerasan Lingkungan Rumah Tangga 	Orang	Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan rumah tangga 
+- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+
+#### 4.1.6.V.1.10. Anak Korban Kekerasan Lingkungan Sekolah
+- Satuan : Orang
+- Definisi : Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan sekolah 
+- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+
+#### 4.1.6.V.1.11. Anak Korban Kekerasan Lingkungan Masyarakat
+- Satuan : Orang
+- Definisi : Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan masyarakat 
+- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+
+#### 4.1.6.V.1.12. Anak Korban Kekerasan Seksual
+- Satuan : Orang
+- Definisi : Korban dari setiap perbuatan yang berupa pemaksaan hubungan seksual , pemaksaan hubungan seksual dengan cara tidak wajar, dan/atau tidak sesuai, pemaksaan hubungan seksual dengan orang lain untyk komersial dan/atau dengan tujuan tertentu 
+- Sumber : UU No. 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga
+
+#### 4.1.6.V.1.13. Lanjut Usia Terlantar
+- Satuan : Orang
+- Definisi : seseorang yang berusia 60 tahun atau lebih karena faktor-faktor tertentutidak dapat memenuhi kebutuhan dasarnya baik secara jasmani, rohani, maupun sosialnya 
+- Sumber : 
+
+#### 4.1.6.V.1.14. Komunitas Adat Terpencil
+- Satuan : Orang
+- Definisi : Komunitas sosial budaya yang bersifat lokal dan terpencar serta kurang atau belum terlibat dalam jaringan dan pelayanan baik sosial, ekonomi maupun politik	Glosarium Kementerian Sosial RI 
+- Sumber : 
+
+#### 4.1.6.V.1.15. Penyandang Tuna Netra
+- Satuan : Orang
+- Definisi : seseorang yang mengalami gangguan atau hambatan dalam indra penglihatannya 
+- Sumber : 
+
+#### 4.1.6.V.1.16. Penyandang Tuna Rungu
+- Satuan : Orang
+- Definisi : Individu yang memiliki hambatan dalam pendengaran baik permanen maupun tidak permanen. 
+- Sumber : 
+
+#### 4.1.6.V.1.17. Penyandang Tuna Wicara
+- Satuan : Orang
+- Definisi : Seseorang yang mengalami kesulitan dalam mengungkapkan pikiran melalui bahasa verbal, sehingga sulit bahkan tidak dapat dimengerti oleh orang lain. 
+- Sumber : 
+
+#### 4.1.6.V.1.18. Penyandang Tuna Wicara-Rungu
+- Satuan : Orang
+- Definisi : seseorang yang mengalami gangguan dalam hubungan yang spesifik antara kemampuan mendengar dengan kemampuan berbicara. 
+- Sumber : 
+
+#### 4.1.6.V.1.19. Penyandang Tuna Daksa
+- Satuan : Orang
+- Definisi : Seseorang yang mengalami kelainan atau kecacatan pada sistem otot, tulang, dan persendian karena kecelakaan, kongenital, dan atau kerusakan otak yang dapat mengakibatkan gangguan gerak, kecerdasan, komunikasi, persepsi, koordinasi, perilaku, dan adaptasi, sehingga mereka memerlukan layanan pendidikan khusus	 
+- Sumber : 
+
+#### 4.1.6.V.1.20. Penyandang Tuna Grahita
+- Satuan : Orang
+- Definisi : individu yang secara signifikan memiliki intelegensi dibawah intelegensi normal	E-Journal Graduate Unpar Part D Vol. 1, No. 2 (2014)   ISSN: 2355-4274 (Relasi Karakteristik Anak Tunagrahita Dengan Pola Tata Ruang Belajar Di Sekolah Luar Biasa) 
+- Sumber : 
+
+#### 4.1.6.V.1.21. Penyandang Buta Aksara
+- Satuan : Orang
+- Definisi : Jumlah orang yang tidak mampu membaca dan menulis 
+- Sumber : 
+
+#### 4.1.6.V.1.22. Penyandang Cacat Fisik
+- Satuan : Orang
+- Definisi : Kecacatan yang mengakibatkan gangguan pada fungsi tubuh, antara lain gerak tubuh, penglihatan, pendengaran dan kemampuan bicara	UU Nomor 4 Tahun 1997 tentang Penyandang Cacat
+- Satuan : Orang
+- Definisi : 
+
+#### 4.1.6.V.1.23. Tuna Susila
+- Satuan : Orang
+- Definisi : Seseorang yang melakukan hubungan seksual dengan sesama atau lawan jenisnya secara berulang-ulang dan bergantian di luar perkawinan yang sah dengan tujuan mendapatkan imbalan uang materi atau jasa
+- Satuan : Orang
+- Definisi : Glosarium Kementerian Sosial RI
+
+#### 4.1.6.V.1.24. Bekas Narapidana
+- Satuan : Orang
+- Definisi : Seseorang yang telah selesai menjalani masa hukuman yang dijatuhkan kepadanya berdasarkan keputusan pengadilan yang telah mempunyai kekuatan hukum yang tetap	Glosarium Kementerian Sosial RI
+- Sumber :
+
+#### 4.1.6.V.1.25. Korban Penyalahgunaan NAPZA
+- Satuan : Orang
+- Definisi : Seseorang yang menderita ketergantungan yang disebabkan oleh penyalahgunaan Napza baik atas kemauan sendiri ataupun karena dorongan atau paksaan orang lain
+- Satuan : Orang
+- Definisi : Glosarium Kementerian Sosial RI
+
+#### 4.1.6.V.1.26. Penyandang LGBT
+- Satuan : Orang
+- Definisi : Jumlah lesbian, gay, biseksual, dan transgender
+- Satuan : Orang
+- Definisi : 
+
+#### 4.1.6.V.1.27. Korban LGBT
+- Satuan : Orang
+- Definisi : Jumlah korban dari lesbian, gay, biseksual, dan transgender	
