@@ -1684,7 +1684,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.I.2. Pertikaian Antar Warga*	
+#### 4.1.5.I.2. Pertikaian Antar Warga*
 #### 4.1.5.I.2.1. Jumlah Pertikaian Antar Etnis
 - Satuan : Kasus
 - Definisi :
@@ -1709,3 +1709,14 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Kasus
 - Definisi :
 - Sumber :
+
+#### 4.1.5.I.3. Korban Pertikaian Antar Warga*			
+#### 4.1.5.I.3.1. Korban Meninggal
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat pertikaian antar warga
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.I.3.2. Korban Luka-Luka
+- Satuan : Orang
+- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat pertikaian antar warga
+- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
