@@ -1409,7 +1409,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 ## 4.1.4. Perumahan dan Kawasan Permukiman
 ### 4.1.4.I. Perumahan*
-#### 4.1.4.I.1. Jumlah Rumah Berdasarkan Kondisi*			
+#### 4.1.4.I.1. Jumlah Rumah Berdasarkan Kondisi* 
 #### 4.1.4.I.1.1. Jumlah Rumah Layak Huni
 - Satuan : Unit
 - Definisi : Rumah yang memenuhi persyaratan keselamatan bangunan dan kecukupan minimum luas bangunan serta kesehatan penghuninya.
@@ -1425,7 +1425,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Rumah yang disediakan untuk masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapat dukungan pemerintah untuk memperoleh sarusun umum.
 - Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2011 tentang Rumah Susun (pasal 1) diolah
 
-#### 4.1.4.I.2.1. Rumah Susun Hunian Milik 		
+#### 4.1.4.I.2.1. Rumah Susun Hunian Milik 
 #### 4.1.4.I.2.1.1. Jumlah Rusunami
 - Satuan : Unit
 - Definisi : Jumlah bangunan gedung bertingkat yang biasanya pemerintah memberikan subsidi kepada pembeli yang memenuhi syarat tertentu.pengguna tangan pertama membeli dari pengembang. Beberapa pengembang sering menggunakan istilah apartemen bersubsidi untuk merujuk pada rusunami. 
@@ -1436,7 +1436,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Jumlah orang yang dapat ditampung rusunami (kapasitas rusunami untuk satuan orang)
 - Sumber :
 
-#### 4.1.4.I.2.2. Jumlah Rumah Susun Hunian Sewa 		
+#### 4.1.4.I.2.2. Jumlah Rumah Susun Hunian Sewa 
 #### 4.1.4.I.2.2.1. Jumlah Rusunawa
 - Satuan : Unit
 - Definisi : Jumlah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horisontal maupun vertikal dan merupakan satuan-satuan yang masing-masing digunakan secara terpisah, status penguasaannya sewa serta dibangun dengan menggunakan dana Anggaran Pendapatan dan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Daerah dengan fungsi utamanya sebagai hunian.
@@ -1452,7 +1452,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Jumlah unit rumah yang dibutuhkan untuk mencukupi masyarakat yang mempunyai keterbatasan daya beli rumah sehingga perlu mendapat dukungan pemerintah untuk memperoleh sarusun umum.
 - Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2011 tentang Rumah Susun (pasal 1) diolah.
 
-#### 4.1.4.II. Persampahan*			
+#### 4.1.4.II. Persampahan* 
 #### 4.1.4.II.1. Volume Sampah Rumah Tangga**
 - Satuan : m3
 - Definisi : volume sampah yang berasal dari kegiatan sehari-hari dalam rumah tangga yang sebagian besar terdiri dari sampah organik, tidak termasuk tinja dan sampah spesifik.
@@ -1495,7 +1495,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.4.II.7. Alat Angkut sampah**
 - Satuan : Unit
-- Definisi : Jumlah alat yang digunakan untuk proses pengangkutan sampah	
+- Definisi : Jumlah alat yang digunakan untuk proses pengangkutan sampah 
 - Sumber :
 
 #### 4.1.4.II.7.1. Jumlah Truk Pengangkut Sampah
@@ -1505,7 +1505,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.4.II.7.2. Jumlah Gerobak Pengangkut Sampah
 - Satuan : Unit
-- Definisi : Jumlah gerobak yang digunakan untuk mengangkut sampah	
+- Definisi : Jumlah gerobak yang digunakan untuk mengangkut sampah 
 - Sumber :
 
 #### 4.1.4.II.7.3. Jumlah Motor Pengangkut Sampah
@@ -1556,7 +1556,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Persentase total volume sampah yang mendapat penanganan per total produksi sampah.
 - Sumber : Seminar Nasional Pembangunan Lingkungan Perkotaan FALTL- Universitas Trisaksi, Jakarta 26-27 Juli 2015 (Diolah)
 
-#### 4.1.4.III. Sistem Pengolahan Air Limbah Domestik*			
+#### 4.1.4.III. Sistem Pengolahan Air Limbah Domestik* 
 #### 4.1.4.III.1. Jumlah Pengolahan Air Limbah Individual
 - Satuan : Rumah Tangga
 - Definisi : Jumlah rumah tangga yang memiliki sarana dan prasarana pengelolaan air limbah secara individual
@@ -1568,7 +1568,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Sistem Instalasi Pengolahan Air Limbah secara komunal atau terkordinir atau terpusat disatu lokasi atau titik pengumpul.
 - Sumber :
 
-#### 4.1.4.IV. Rumah Tangga Memiliki Air Bersih			
+#### 4.1.4.IV. Rumah Tangga Memiliki Air Bersih 
 #### 4.1.4.IV.1. Jumlah Rumah Tangga yang Terlayani Melalui Sistem Perpipaan
 - Satuan : Rumah Tangga
 - Definisi : Jumlah rumah tangga yang terlayani prasarana dan sarana air minum yang unit distribusinya melalui perpipaan
@@ -1581,7 +1581,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.4.IV.3. Persentase Rumah Tangga Terlayani Sistem Perpipaan
 - Satuan : %
-- Definisi : Persentase jumlah rumah tangga yang terlayani prasarana dan sarana air minum yang unit distribusinya melalui perpipaan terhadap seluruh rumah tangga pada suatu wilayah.	 Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). Diolah
+- Definisi : Persentase jumlah rumah tangga yang terlayani prasarana dan sarana air minum yang unit distribusinya melalui perpipaan terhadap seluruh rumah tangga pada suatu wilayah. Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). Diolah
 
 #### 4.1.4.V. Jumlah dan Luas Tempat Pemakaman Umum*
 #### 4.1.4.V.1. Jumlah Pemakaman Umum**
@@ -1590,7 +1590,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.4.V.1.1. Jumlah Pemakaman Umum dikelola Pemerintah
 - Satuan : Unit
-- Definisi : Jumlah areal tanah yang disediakan untuk keperluan pemakaman jenazah bagi setiap orang tanpa membedakan agama dan golongan, yang pengelolaannya dilakukan oleh Pemerintah Daerah Tingkat II atau Pemerintah Desa.	Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
+- Definisi : Jumlah areal tanah yang disediakan untuk keperluan pemakaman jenazah bagi setiap orang tanpa membedakan agama dan golongan, yang pengelolaannya dilakukan oleh Pemerintah Daerah Tingkat II atau Pemerintah Desa. Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
 - Sumber : 
 
 #### 4.1.4.V.1.2. Jumlah Pemakaman Umum dikelola Swasta/Masyarakat
@@ -1650,10 +1650,10 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Persentase luas ruang dalam kawasan perkotaan baik dalam bentuk area maupun dalam bentuk area memanjang/jalur yang penggunaannya lebih bersifat terbuka dan diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika terhadap seluruh luas wilayah perkotaan.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
 
-#### 4.1.4,VII. Kawasan Permukiman Kumuh**		
+#### 4.1.4,VII. Kawasan Permukiman Kumuh** 
 #### 4.1.4,VII.1. Jumlah Kawasan Permukiman Kumuh
 - Satuan : 
-Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
+Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteraturan bangunan, tingkat kepadatan bangunan yang tinggi, dan kualitas bangunan serta sarana dan prasarana yang tidak memenuhi syarat.
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011 Tentang Perumahan dan Kawasan Permukiman (pasal 1)
 
 #### 4.1.4,VII.2. Luas Kawasan Permukiman Kumuh
@@ -1677,8 +1677,8 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011, Petunjuk Teknis Standar Pelayanan Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). (diolah)
 
 ## 4.1.5. Ketenteraman dan Ketertiban Umum Serta Perlindungan Masyarakat
-### 4.1.5.I. Keamanan dan Ketertiban Umum*	
-#### 4.1.5.I.1. Pelanggaran K3 (Ketertiban, Ketentraman, Keindahan)*	
+### 4.1.5.I. Keamanan dan Ketertiban Umum* 
+#### 4.1.5.I.1. Pelanggaran K3 (Ketertiban, Ketentraman, Keindahan)* 
 #### 4.1.5.I.1.1. Jumlah Pelanggaran K3
 - Satuan : Kasus
 - Definisi :
@@ -1727,7 +1727,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
 
 #### 4.1.5.I.5. Kerugian Material Akibat Pertikaian Antar Warga
-- Satuan : Rp/Juta		
+- Satuan : Rp/Juta 
 - Definisi :
 - Sumber :
 
@@ -1760,7 +1760,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.5.II.2. Korban Unjuk Rasa*
 #### 4.1.5.II.2.1. Korban Meninggal
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat unjuk rasa.	Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat unjuk rasa. Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
 #### 4.1.5.II.2.2. Korban Luka-Luka
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang menderita / luka-luka akibat unjuk rasa.
@@ -1776,7 +1776,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah kerugian material dalam rupiah akibat kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum.
 - Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
 
-#### 4.1.5.II.3.5. Sengketa Pengusaha dan Pekerja*			
+#### 4.1.5.II.3.5. Sengketa Pengusaha dan Pekerja* 
 #### 4.1.5.II.3.5.1. Jumlah Sengketa Pengusaha dan Pekerja**
 - Satuan : Kasus
 - Definisi :
@@ -1835,7 +1835,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.3.6.2.3. Jumlah Kendaraan Operasional**
 - Satuan : Unit
-- Definisi : Jumlah kendaraan operasional roda 2 dan roda 4 yang digunakan untuk keamanan dan ketertiban umum	
+- Definisi : Jumlah kendaraan operasional roda 2 dan roda 4 yang digunakan untuk keamanan dan ketertiban umum 
 
 #### 4.1.5.II.3.6.2.3.1. Jumlah Kendaraan Operasional Roda 2
 - Satuan : Kasus
@@ -1847,7 +1847,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II. Bencana Alam*			
+#### 4.1.5.II. Bencana Alam* 
 #### 4.1.5.II.1. Sistem Peringatan Dini*
 - Satuan :
 - Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepadamasyarakat tentang kemungkinan terjadinya bencana pada suatu tempat oleh lembaga yang berwenang.
@@ -1950,7 +1950,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.2.1. Jumlah Kawasan Rawan Bencana Banjir**
 - Satuan : 
-- Definisi : Kawasan	Jumlah Kawasan yang potensial untuk dilanda banjir yang diindikasikan dengan frekuensi terjadinya banjir (pernah atau berulangkali).
+- Definisi : Kawasan Jumlah Kawasan yang potensial untuk dilanda banjir yang diindikasikan dengan frekuensi terjadinya banjir (pernah atau berulangkali).
 - Sumber : Pedoman Pengendalian Pemanfaatan Ruang di Kawasan Rawan Bencana Banjir (Ditjen Penataan Ruang Dept. PU 2015)
 
 #### 4.1.5.II.2.2. Jumlah Kawasan Rawan Bencana Gunung Meletus**
@@ -1975,7 +1975,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.2.6. Jumlah Kawasan Rawan Bencana Kebakaran**
 - Satuan : Kawasan
-- Definisi : Jumlah daerah yang memiliki potensi terhadap bahaya kebakaran	
+- Definisi : Jumlah daerah yang memiliki potensi terhadap bahaya kebakaran 
 - Sumber :
 
 #### 4.1.5.II.3. Jumlah Korban Bencana**
@@ -2116,11 +2116,11 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.6. Jumlah Kerugian Akibat Bencana**
 - Satuan : Rp Juta
-- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana	
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana 
 
 #### 4.1.5.II.6.1. Jumlah Kerugian Akibat Bencana Banjir
 - Satuan : Rp Juta
-- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana banjir	
+- Definisi : Total jumlah kerugian dalam rupiah yang didapat akibat bencana banjir 
 
 #### 4.1.5.II.6.2. Jumlah Kerugian Akibat Bencana Gunung Meletus
 - Satuan : Rp Juta
@@ -2147,8 +2147,8 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi Total jumlah kerugian dalam rupiah yang didapat akibat bencana kebakaran
 - Sumber : 
 
-#### 4.1.5.II.7. Prasarana dan Sarana Tanggap Bencana*			
-#### 4.1.5.II.7.1. Transportasi*			
+#### 4.1.5.II.7. Prasarana dan Sarana Tanggap Bencana* 
+#### 4.1.5.II.7.1. Transportasi* 
 #### 4.1.5.II.7.1.1. Jenis Angkutan Darat**
 - Satuan : Unit
 - Definisi : Jumlah jenis angkutan darat yang digunakan sebagai transportasi tanggap bencana
@@ -2232,7 +2232,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Unit
 - Definisi :
 - Sumber :
-	
+ 
 #### 4.1.5.II.7.3.4. Peralatan Kesehatan Lainnya
 - Satuan : Unit
 - Definisi :
@@ -2325,7 +2325,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.9. Jumlah Kejadian Kebakaran
 - Satuan : Kasus
-- Definisi : Situasi dimana bangunan pada suatu tempat seperti rumah/pemukiman, pabrik, pasar, gedung dan lain-lain dilanda api yang menimbulkan korban dan/atau kerugian.	Undang-undang Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
+- Definisi : Situasi dimana bangunan pada suatu tempat seperti rumah/pemukiman, pabrik, pasar, gedung dan lain-lain dilanda api yang menimbulkan korban dan/atau kerugian. Undang-undang Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
 
 ## 4.1.6. Sosial
 ### 4.1.6.I. Penduduk Miskin*
@@ -2355,10 +2355,10 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.I.3. Jumlah Kepala Keluarga Miskin**
 - Satuan : KK
-- Definisi : Jumlah kepala Keluarga (KK) dari keluarga yang termasuk kategori miskin	
+- Definisi : Jumlah kepala Keluarga (KK) dari keluarga yang termasuk kategori miskin 
 - Sumber :
 
-#### 4.1.6.I.4. Jumlah Status Kepemilikan Rumah Keluarga Miskin* 		
+#### 4.1.6.I.4. Jumlah Status Kepemilikan Rumah Keluarga Miskin* 
 #### 4.1.6.I.4.1. Milik Sendiri**
 - Satuan : Rumah Tangga
 - Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus milik sendiri
@@ -2400,7 +2400,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus bebas sewa/kontrak
 - Sumber :
 
-#### 4.1.6.I.4.6. Rumah Tangga Miskin Mengkonsumsi Air Minum*			
+#### 4.1.6.I.4.6. Rumah Tangga Miskin Mengkonsumsi Air Minum* 
 #### 4.1.6.I.4.6.1. Air Kemasan**
 - Satuan : Rumah Tangga
 - Definisi : air yang diproduksi dan didistribusikan oleh suatu perusahaan dalam kemasan botol (500 ml, 600 ml, 1 liter, 12 liter, atau 19 liter) dan kemasan gelas; misalnya air kemasan merk Aqua, Moya, 2Tang, VIT
@@ -2431,7 +2431,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah masyarakat miskin dan atau tidak mampu yang menerima program jaminan pelayanan kesehatan yang menjadi tanggung jawab dan dilaksanakan oleh Pemda Kota/kabupaten.
 - Sumber :
 
-#### 4.1.6.II. Pendidikan Siswa Miskin* / anak miskin		
+#### 4.1.6.II. Pendidikan Siswa Miskin* / anak miskin 
 #### 4.1.6.II.1. Jumlah Siswa Miskin SD/MI/Sederajat** / anak miskin
 - Satuan : Orang
 - Definisi : Jumlah anak usia sekolah dasar yang bersekolah dan tidak bersekolah dari keluarga yang termasuk kategori miskin
@@ -2477,117 +2477,117 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah anak usia SMA/MA/Sederajat yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
 - Sumber :
 
-#### 4.1.6.III. Jumlah Keluarga Menurut Tingkat Kesejahteraan**			
+#### 4.1.6.III. Jumlah Keluarga Menurut Tingkat Kesejahteraan** 
 #### 4.1.6.III.1. Keluarga Prasejahtera**
 - Satuan : KK
 - Definisi : Keluarga yang dibentuk berdasarkan atas perkawinan yang sah, mampu memenuhi kebutuhan spiritual dan materi yang layak, bertakwa kepada Tuhan Yang Maha Esa, memiliki hubungan yang serasi, selaras dan seimbang antar anggota dan antar keluarga dengan masyarakat dan lingkungannnya. Keluarga Sejahtera ini dapat diklasifikasikan menurut kelompok sebagai berikut: 1. Keluarga Pra Sejahtera 2. Keluarga Sejahtera Tahap I 3. Keluarga Sejahtera Tahap II 4. Keluarga Sejahtera Tahap III 5. Keluarga Sejahtera Tahap III Plus 
-- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
 #### 4.1.6.III.2. Keluarga Sejahtera Tahap 1**
 - Satuan : KK
 - Definisi : Keluarga-keluarga yang telah dapat memenuhi kebutuhan dasarnya secara minimal tetapi belum dapat memenuhi keseluruhan kebutuhan sosial psikologisnya (socio psychological needs), seperti kebutuhan ibadah, makan protein hewani, pakaian, ruang untuk interaksi keluarga, dalam keadaan sehat, mempunyai penghasilan, bisa baca tulis latin dan keluarga berencana. 
-- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
 #### 4.1.6.III.3. Keluarga Sejahtera Tahap 2**
 - Satuan : KK
 - Definisi : Keluarga-keluarga yang disamping telah dapat memenuhi seluruh kebutuhan sosial psikologisnya, akan tetapi belum dapat memenuhi keseluruhan kebutuhan perkembangannya (development needs) seperti kebutuhan untuk peningkatan agama, menabung, berinteraksi dalam keluarga, ikut melaksanakan kegiatan dalam masyarakat dan mampu memperoleh informasi. 
-- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
 #### 4.1.6.III.4. Keluarga Sejahtera Tahap 3**
 - Satuan : KK
 - Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhan dasar, kebutuhan sosial psikologis dan kebutuhan pengembangannya, namun belum dapat memberikan sumbangan (kontribusi) yang maksimal terhadap masyarakat, seperti secara teratur (waktu tertentu) memberikan sumbangan dalam bentuk material dan keuangan untuk kepentingan sosial kemasyarakatan serta berperan serta secara aktif dengan menjadi pengurus lembaga kemasyarakatan atau yayasan sosial, keagamaan, kesenian, olahraga, pendidikan dan sebagainya 
-- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
 #### 4.1.6.III.5. Keluarga Sejahtera Tahap 3 Plus**
 - Satuan : KK
 - Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhannya, baik yang bersifat dasar, sosial psikologis maupun yang bersifat pengembangan serta telah dapat pula memberikan sumbangan yang nyata dan berkelanjutan bagi masyarakat
-- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
 #### 4.1.6.IV. Jumlah Lembaga/Organisasi Kemasyarakatan*
 #### 4.1.6.IV.1. Jumlah Lembaga Swadaya Masyarakat**
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya
-- Sumber :	KEPMENSOS Nomor 78 Tahun 1993
+- Sumber : KEPMENSOS Nomor 78 Tahun 1993
 
 #### 4.1.6.IV.1.1. LSM Lokal Terdaftar
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. dalam hal ini LSM lokal yang telah terdatar dilengkapi dengan nomor surat keterangan terdaftar.
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.1.2. LSM Lokal Tidak Aktif
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. dalam hal ini LSM lokal yang tidak aktif
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.1.3. LSM Nasional Terdaftar
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM nasional yang terdaftar dilengkapi dengan nomor surat keterangan terdaftar
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.1.4. LSM Nasional Tidak Aktif
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM nasional yang tidak aktif
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.1.5. LSM Asing/Internasional Terdaftar
 - Satuan : LSM
 - Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM Internasional yang terdaftar dilengkapi dengan nomor surat keterangan terdaftar.
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.1.6. LSM Asing/Internasional Tidak Aktif
 - Satuan : LSM
-- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM internasional  yang tidak aktif
-- Sumber :	Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya. Dalam hal ini LSM internasional yang tidak aktif
+- Sumber : Keputusan Menteri Sosial Nomor 78 Tahun 1993 (diolah)
 
 #### 4.1.6.IV.2. Jumlah Organisasi Masyarakat**
 - Satuan : Ormas
 - Definisi : Jumlah organisasi yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1)
 
 #### 4.1.6.IV.2.1. Berlandaskan Agama
 - Satuan : Ormas
 - Definisi : Jumlah organisasi berlandaskan agama yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
 
 #### 4.1.6.IV.2.2. Berlandaskan Budaya/Adat
 - Satuan : Ormas
-- Definisi : Jumlah organisasi berlandaskan budaya/adat  yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+- Definisi : Jumlah organisasi berlandaskan budaya/adat yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
+- Sumber : Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
 
 #### 4.1.6.IV.2.3. Berlandaskan Nasionalis 
 - Satuan : Ormas
-- Definisi : Jumlah organisasi berlandaskan nasionalis  yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila. 	
-- Sumber :	Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
+- Definisi : Jumlah organisasi berlandaskan nasionalis yang didirikan dan dibentuk oleh masyarakat secara sukarela berdasarkan kesamaan aspirasi, kehendak, kebutuhan, kepentingan, kegiatan, dan tujuan untuk berpartisipasi dalam pembangunan demi tercapainya tujuan Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila. 
+- Sumber : Undang-Undang Republik Indonesia Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan (pasal 1) diolah
 
 #### 4.1.6.IV.3. Jumlah Organisasi Kemasyarakatan Pemuda (OKP)
 - Satuan : OKP
 - Definisi : Jumlah lembaga kepemudaan yang tumbuh dan eksis dalam masyarakat, dimana umur dari anggota-anggotanya dibatasi sampai dengan umur 35 tahun.
-- Sumber :	http://repository.usu.ac.id/bitstream/handle/123456789/44722/Chapter%20II.pdf?sequence=3
+- Sumber : http://repository.usu.ac.id/bitstream/handle/123456789/44722/Chapter%20II.pdf?sequence=3
 
 #### 4.1.6.IV.4. Jumlah Yayasan**
 - Satuan : Yayasan
 - Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang sosial, keagamaan, dan kemanusiaan, yang tidak mempunyai anggota.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan
+- Sumber : Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang Yayasan
 
 #### 4.1.6.IV.4.1. Yayasan Sosial
 - Satuan : Yayasan
 - Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang sosial yang tidak mempunyai anggota.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+- Sumber : Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang Yayasan (diolah)
 
 #### 4.1.6.IV.4.2. Yayasan Pendidikan
 - Satuan : Yayasan
 - Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang pendidikan yang tidak mempunyai anggota.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+- Sumber : Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang Yayasan (diolah)
 
 #### 4.1.6.IV.4.3. Lainnya
 - Satuan : Yayasan
 - Definisi : Jumlah badan hukum yang terdiri atas kekayaan yang dipisahkan dan diperuntukkan untuk mencapai tujuan tertentu di bidang lainnya yang tidak mempunyai anggota.
-- Sumber :	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang  Yayasan (diolah)
+- Sumber : Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 Tentang Yayasan (diolah)
 
 #### 4.1.6.IV.5. Jumlah Karang Taruna (KT)
 - Satuan : KT
 - Definisi : Jumlah Lembaga Kemasyarakatan yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial.
-- Sumber :	Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
 
 #### 4.1.6.IV.6. Jumlah Koordinator Kegiatan Kesejahteraan Sosial (KKKS)
 - Satuan : Unit
@@ -2601,7 +2601,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.IV.8. Jumlah Lembaga Konsultan Kesejahteraan Keluarga LK3
 - Satuan : Lembaga
-- Definisi :Jumlah lembaga sebagai media konsultasi bagi individu dan keluarga yang mengalami masalah sosial psikologis dalam keluarganya, yang mengganggu pelaksanaan peran dan fungsinya sebagai pribadi, anggota keluarga, dan anggota kelompok sosial lainnya.	
+- Definisi :Jumlah lembaga sebagai media konsultasi bagi individu dan keluarga yang mengalami masalah sosial psikologis dalam keluarganya, yang mengganggu pelaksanaan peran dan fungsinya sebagai pribadi, anggota keluarga, dan anggota kelompok sosial lainnya. 
 - Sumber : Kementerian Sosial Republik Indonesia
 
 #### 4.1.6.IV.9. Jumlah Lembaga Kesejahteraan Sosial
@@ -2609,11 +2609,11 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Lembaga Organisasi sosial atau perkumpulan sosial yang melaksanakan penyelenggaraan kesejahteraan sosial yang dibentuk oleh masyarakat baik yang berbadan hukum maupun yang tidak berbadan hukum 
 - Sumber : UU No.11 tahun 2009 tentang Kesejahteraan Sosial
 
-#### 4.1.6.V. Penyandang Masalah Kesejahteraan Sosial*			
+#### 4.1.6.V. Penyandang Masalah Kesejahteraan Sosial*
 #### 4.1.6.V.1. Jumlah Penyandang Masalah Kesejahteraan Sosial**
 - Satuan : Orang
-- Definisi : Total Jumlah penyandang masalah kesejahteraan sosial	
-#### 4.1.6.V.1.1. Anak Jalanan 	Orang	Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya 
+- Definisi : Total Jumlah penyandang masalah kesejahteraan sosial 
+#### 4.1.6.V.1.1. Anak Jalanan Orang Anak yang melewatkan atau memanfaatkan sebagian besar waktunya untuk melakukan kegiatan sehari-hari di jalanan termasuk di lingkungan pasar, pertokoan dan pusat-pusat keramaian lainnya 
 - Sumber : Kementerian Sosial Republik Indonesia
 
 #### 4.1.6.V.1.2. Penderita Sakit Jiwa
@@ -2629,11 +2629,11 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.6.V.1.4. Penderita HIV/AIDS
 - Satuan : Orang
 - Definisi : orang yeng mengalami kondisi medis yang menunjukkan lemahnya kekebalan tubuh, sering berwujud infeksi ikutan (infeksi oportunistik) dan kanker, yang hingga saat ini belum bisa disembuhkan yang disebabkan oleh virus HIV 
-- Sumber : Pedoman bersama ILO/WHO tentang  Pelayanan Kesehatan dan HIV/AIDS (2005)
+- Sumber : Pedoman bersama ILO/WHO tentang Pelayanan Kesehatan dan HIV/AIDS (2005)
 
 #### 4.1.6.V.1.5. Pecandu Narkoba
 - Satuan : Orang
-- Definisi : Orang yang menggunakan/ menyalahgunakan narkoba dan dalam keadaan ketergantungan pada narkoba baik secara fisik maupun psikis	UU No.22 tahun 1997 tentang Narkotika 
+- Definisi : Orang yang menggunakan/ menyalahgunakan narkoba dan dalam keadaan ketergantungan pada narkoba baik secara fisik maupun psikis UU No.22 tahun 1997 tentang Narkotika 
 - Sumber : 
 #### 4.1.6.V.1.6. Fakir Miskin
 - Satuan : Orang
@@ -2642,24 +2642,24 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.1.7. Bayi Terlantar
 - Satuan : Orang
-- Definisi : 		
+- Definisi : 
 
 #### 4.1.6.V.1.8. Anak Terlantar
 - Satuan : Orang
 - Definisi : anak yang tidak terpenuhi kebutuhannya secara wajar, baik fisik, mental, spiritual, maupun sosial 
 - Sumber : UU No. 23 Tahun 2002 tentang perlindungan anak
-#### 4.1.6.V.1.9. Anak Korban Kekerasan Lingkungan Rumah Tangga 	Orang	Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan rumah tangga 
-- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+#### 4.1.6.V.1.9. Anak Korban Kekerasan Lingkungan Rumah Tangga Orang Jumlah anak yang menjadi korban kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan rumah tangga 
+- Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2011 Tentang Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
 
 #### 4.1.6.V.1.10. Anak Korban Kekerasan Lingkungan Sekolah
 - Satuan : Orang
-- Definisi : Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan sekolah 
-- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+- Definisi : Jumlah anak yang menjadi korban kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan sekolah 
+- Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2011 Tentang Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
 
 #### 4.1.6.V.1.11. Anak Korban Kekerasan Lingkungan Masyarakat
 - Satuan : Orang
-- Definisi : Jumlah anak yang menjadi korban  kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan masyarakat 
-- Sumber : Peraturan   Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia   Nomor 2 Tahun 2011 Tentang  Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
+- Definisi : Jumlah anak yang menjadi korban kekerasan termasuk kekerasan fisik, kekerasan psikis, kekerasan seksual, penelantaran, eksploitasi ekonomi dan kekerasan lainnya dilingkungan masyarakat 
+- Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor 2 Tahun 2011 Tentang Pedoman Penanganan Anak Korban Kekerasan (lampiran) diolah
 
 #### 4.1.6.V.1.12. Anak Korban Kekerasan Seksual
 - Satuan : Orang
@@ -2673,7 +2673,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.1.14. Komunitas Adat Terpencil
 - Satuan : Orang
-- Definisi : Komunitas sosial budaya yang bersifat lokal dan terpencar serta kurang atau belum terlibat dalam jaringan dan pelayanan baik sosial, ekonomi maupun politik	Glosarium Kementerian Sosial RI 
+- Definisi : Komunitas sosial budaya yang bersifat lokal dan terpencar serta kurang atau belum terlibat dalam jaringan dan pelayanan baik sosial, ekonomi maupun politik Glosarium Kementerian Sosial RI 
 - Sumber : 
 
 #### 4.1.6.V.1.15. Penyandang Tuna Netra
@@ -2698,12 +2698,12 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.1.19. Penyandang Tuna Daksa
 - Satuan : Orang
-- Definisi : Seseorang yang mengalami kelainan atau kecacatan pada sistem otot, tulang, dan persendian karena kecelakaan, kongenital, dan atau kerusakan otak yang dapat mengakibatkan gangguan gerak, kecerdasan, komunikasi, persepsi, koordinasi, perilaku, dan adaptasi, sehingga mereka memerlukan layanan pendidikan khusus	 
+- Definisi : Seseorang yang mengalami kelainan atau kecacatan pada sistem otot, tulang, dan persendian karena kecelakaan, kongenital, dan atau kerusakan otak yang dapat mengakibatkan gangguan gerak, kecerdasan, komunikasi, persepsi, koordinasi, perilaku, dan adaptasi, sehingga mereka memerlukan layanan pendidikan khusus 
 - Sumber : 
 
 #### 4.1.6.V.1.20. Penyandang Tuna Grahita
 - Satuan : Orang
-- Definisi : individu yang secara signifikan memiliki intelegensi dibawah intelegensi normal	E-Journal Graduate Unpar Part D Vol. 1, No. 2 (2014)   ISSN: 2355-4274 (Relasi Karakteristik Anak Tunagrahita Dengan Pola Tata Ruang Belajar Di Sekolah Luar Biasa) 
+- Definisi : individu yang secara signifikan memiliki intelegensi dibawah intelegensi normal E-Journal Graduate Unpar Part D Vol. 1, No. 2 (2014) ISSN: 2355-4274 (Relasi Karakteristik Anak Tunagrahita Dengan Pola Tata Ruang Belajar Di Sekolah Luar Biasa) 
 - Sumber : 
 
 #### 4.1.6.V.1.21. Penyandang Buta Aksara
@@ -2713,19 +2713,17 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.1.22. Penyandang Cacat Fisik
 - Satuan : Orang
-- Definisi : Kecacatan yang mengakibatkan gangguan pada fungsi tubuh, antara lain gerak tubuh, penglihatan, pendengaran dan kemampuan bicara	UU Nomor 4 Tahun 1997 tentang Penyandang Cacat
-- Satuan : Orang
-- Definisi : 
+- Definisi : Kecacatan yang mengakibatkan gangguan pada fungsi tubuh, antara lain gerak tubuh, penglihatan, pendengaran dan kemampuan bicara UU Nomor 4 Tahun 1997 tentang Penyandang Cacat
+- Sumber :
 
 #### 4.1.6.V.1.23. Tuna Susila
 - Satuan : Orang
 - Definisi : Seseorang yang melakukan hubungan seksual dengan sesama atau lawan jenisnya secara berulang-ulang dan bergantian di luar perkawinan yang sah dengan tujuan mendapatkan imbalan uang materi atau jasa
-- Satuan : Orang
-- Definisi : Glosarium Kementerian Sosial RI
+- Sumber : Glosarium Kementerian Sosial RI
 
 #### 4.1.6.V.1.24. Bekas Narapidana
 - Satuan : Orang
-- Definisi : Seseorang yang telah selesai menjalani masa hukuman yang dijatuhkan kepadanya berdasarkan keputusan pengadilan yang telah mempunyai kekuatan hukum yang tetap	Glosarium Kementerian Sosial RI
+- Definisi : Seseorang yang telah selesai menjalani masa hukuman yang dijatuhkan kepadanya berdasarkan keputusan pengadilan yang telah mempunyai kekuatan hukum yang tetap Glosarium Kementerian Sosial RI
 - Sumber :
 
 #### 4.1.6.V.1.25. Korban Penyalahgunaan NAPZA
@@ -2742,4 +2740,69 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.1.27. Korban LGBT
 - Satuan : Orang
-- Definisi : Jumlah korban dari lesbian, gay, biseksual, dan transgender	
+- Definisi : Jumlah korban dari lesbian, gay, biseksual, dan transgender 
+
+#### 4.1.6.V.1.2. Panti Asuhan*
+#### 4.1.6.V.1.2.1. Panti Sosial Asuhan Anak*
+#### 4.1.6.V.1.2.1.1. Jumlah Panti
+- Satuan : Unit
+- Definisi : Panti sosial yang mempunyai tugas memberikan bimbingan dan pelayanan bagi anak yatim, piatu, dan yatim piatu yang kurang mampu, terlantar agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar
+- Sumber : Kepmensos No.50/HUK/2004
+
+#### 4.1.6.V.1.2.1.2. Jumlah Penghuni
+- Satuan : Orang
+- Definisi : Jumlah Penghuni Panti sosial yang mempunyai tugas memberikan bimbingan dan pelayanan bagi anak yatim, piatu, dan yatim piatu yang kurang mampu, terlantar agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar
+- Sumber : Kepmensos No.50/HUK/2004
+
+#### 4.1.6.V.1.2.1.3. Jumlah Pekerja Sosial Profesional
+- Sumber : Orang
+- Definisi : Seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial asuhan anak.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.1.2.1.4. Jumlah Tenaga Kesejahteraan Sosial
+- Satuan : Orang
+- Definisi : Seseorang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial asuhan anak.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.1.2.2. Panti Sosial Petirahan Anak*
+#### 4.1.6.V.1.2.2.1. Jumlah Panti
+- Satuan : Unit
+- Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan bagi anak yang mengalami hambatan belajar karena menyandang masalah sosial agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar.
+- Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.V.1.2.2.2. Jumlah Penghuni
+- Satuan : Orang
+- Definisi : Jumlah penghuni dipanti sosial yang mempunyai tugas memberikan bimbingan, pelayanan bagi anak yang mengalami hambatan belajar karena menyandang masalah sosial agar potensi dan kapasitas belajarnya pulih kembali dan dapat berkembang secara wajar.
+- Sumber : Kementerian Sosial Republik Indonesia
+
+#### 4.1.6.V.1.2.2.3. Jumlah Pekerja Sosial Profesional
+- Satuan : Orang
+- Definisi : Seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial petiharan anak.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.1.2.2.4. Jumlah Tenaga Kesejahteraan Sosial
+- Satuan : Orang
+- Definisi : Seseorang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dipetiharan anak.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.1.2.3. Panti Sosial Bina Remaja* 
+#### 4.1.6.V.1.2.3.1. Jumlah Panti
+- Satuan : Unit
+- Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 21)
+
+#### 4.1.6.V.1.2.3.2. Jumlah Penghuni
+- Satuan : Orang
+- Definisi : Jumlah penghuni panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi anak terlantar, putus sekolah agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan dan rujukan.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 21) diolah
+
+#### 4.1.6.V.1.2.3.3. Jumlah Pekerja Sosial Profesional
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.1.2.3.4. Jumlah Tenaga Kesejahteraan Sosial
+- Satuan : Orang
+- Definisi Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial di panti sosial bina remaja.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
