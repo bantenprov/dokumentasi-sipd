@@ -1883,62 +1883,62 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.1.2.3. Jumlah Sistem Peringatan Dini Longsor**
+#### 4.1.5.II.1.3. Jumlah Sistem Peringatan Dini Longsor**
 - Satuan : Unit
 - Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.3.1. Jumlah Sistem Elektronik
+#### 4.1.5.II.1.3.1. Jumlah Sistem Elektronik
 - Satuan : Unit
 - Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor pada suatu tempat oleh lembaga yang berwenang.
 - Definisi : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.3.2. Jumlah Peringatan Dini Tradisional
+#### 4.1.5.II.1.3.2. Jumlah Peringatan Dini Tradisional
 - Satuan : Unit
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.1.2.4. Jumlah Sistem Peringatan Dini Gempa**
+#### 4.1.5.II.1.4. Jumlah Sistem Peringatan Dini Gempa**
 - Satuan : Unit
 - Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam gempa pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.4.1. Jumlah Sistem Elektronik
+#### 4.1.5.II.1.4.1. Jumlah Sistem Elektronik
 - Satuan : Unit
 - Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam gempa pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.4.2. Jumlah Peringatan Dini Tradisional
+#### 4.1.5.II.1.4.2. Jumlah Peringatan Dini Tradisional
 - Satuan : Unit
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.1.2.5. Jumlah Sistem Peringatan Dini Tsunami**
+#### 4.1.5.II.1.5. Jumlah Sistem Peringatan Dini Tsunami**
 - Satuan : Unit
 - Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam tsunami pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.5.1. Jumlah Sistem Elektronik
+#### 4.1.5.II.1.5.1. Jumlah Sistem Elektronik
 - Satuan : Unit
 - Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam tsunami pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.5.2. Jumlah Peringatan Dini Tradisional
+#### 4.1.5.II.1.5.2. Jumlah Peringatan Dini Tradisional
 - Satuan : Unit
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.1.2.6. Jumlah Sistem Peringatan Dini Lainnya**
+#### 4.1.5.II.1.6. Jumlah Sistem Peringatan Dini Lainnya**
 - Satuan : Unit
 - Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam lainnya pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.6.1. Jumlah Sistem Elektronik
+#### 4.1.5.II.1.6.1. Jumlah Sistem Elektronik
 - Sumber : Unit
 - Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam lainnya pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
-#### 4.1.5.II.1.2.6.2. Jumlah Peringatan Dini Tradisional
+#### 4.1.5.II.1.6.2. Jumlah Peringatan Dini Tradisional
 - Satuan : Unit
 - Definisi :
 - Sumber :
