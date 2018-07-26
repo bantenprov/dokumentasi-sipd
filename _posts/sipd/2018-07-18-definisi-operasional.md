@@ -1425,10 +1425,10 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Rumah yang disediakan untuk masyarakat yang mempunyai keterbatasan daya beli sehingga perlu mendapat dukungan pemerintah untuk memperoleh sarusun umum.
 - Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2011 tentang Rumah Susun (pasal 1) diolah
 
-#### 4.1.4.I.2.1. Rumah Susun Hunian Milik 			
+#### 4.1.4.I.2.1. Rumah Susun Hunian Milik 		
 #### 4.1.4.I.2.1.1. Jumlah Rusunami
 - Satuan : Unit
-- Definisi : Jumlah bangunan gedung bertingkat yang biasanya pemerintah memberikan subsidi kepada pembeli yang memenuhi syarat tertentu.pengguna tangan pertama membeli dari pengembang. Beberapa pengembang sering menggunakan istilah apartemen bersubsidi untuk merujuk pada rusunami. 	
+- Definisi : Jumlah bangunan gedung bertingkat yang biasanya pemerintah memberikan subsidi kepada pembeli yang memenuhi syarat tertentu.pengguna tangan pertama membeli dari pengembang. Beberapa pengembang sering menggunakan istilah apartemen bersubsidi untuk merujuk pada rusunami. 
 - Sumber : 
 
 #### 4.1.4.I.2.1.2. Daya tampung
@@ -1436,7 +1436,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Jumlah orang yang dapat ditampung rusunami (kapasitas rusunami untuk satuan orang)
 - Sumber :
 
-#### 4.1.4.I.2.2. Jumlah Rumah Susun Hunian Sewa 			
+#### 4.1.4.I.2.2. Jumlah Rumah Susun Hunian Sewa 		
 #### 4.1.4.I.2.2.1. Jumlah Rusunawa
 - Satuan : Unit
 - Definisi : Jumlah bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horisontal maupun vertikal dan merupakan satuan-satuan yang masing-masing digunakan secara terpisah, status penguasaannya sewa serta dibangun dengan menggunakan dana Anggaran Pendapatan dan Belanja Negara dan/atau Anggaran Pendapatan dan Belanja Daerah dengan fungsi utamanya sebagai hunian.
@@ -2147,7 +2147,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi Total jumlah kerugian dalam rupiah yang didapat akibat bencana kebakaran
 - Sumber : 
 
-#### 4.1.5.II.7.  Prasarana dan Sarana Tanggap Bencana*			
+#### 4.1.5.II.7. Prasarana dan Sarana Tanggap Bencana*			
 #### 4.1.5.II.7.1. Transportasi*			
 #### 4.1.5.II.7.1.1. Jenis Angkutan Darat**
 - Satuan : Unit
@@ -2263,14 +2263,14 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.7.6.  Alat Berat**
+#### 4.1.5.II.7.6. Alat Berat**
 - Satuan : Unit
 - Definisi : Jumlah alat berat berupa neko, buldozer dan peralatan alat berat lainnya
 - Sumber :
 
 #### 4.1.5.II.7.6.1. Beko
 - Satuan : Unit
-- Definisi : Jumlah alat berat yang digunakan untuk melakukan pekerjaan penggalian yang letaknya di bawah kedudukan backhoe itu sendiri. Fungsi backhoe sama seperti dragline dan clamshell, namun backhoe dapat menggali dengan kedalaman yang jauh lebih teliti, juga bisa digunakan sebagai alat pemuat.  Pada bagian belakang backhoe terdapat sebuah komponen bernama loader
+- Definisi : Jumlah alat berat yang digunakan untuk melakukan pekerjaan penggalian yang letaknya di bawah kedudukan backhoe itu sendiri. Fungsi backhoe sama seperti dragline dan clamshell, namun backhoe dapat menggali dengan kedalaman yang jauh lebih teliti, juga bisa digunakan sebagai alat pemuat. Pada bagian belakang backhoe terdapat sebuah komponen bernama loader
 - Sumber :
 
 #### 4.1.5.II.7.6.2. Buldozer
@@ -2315,8 +2315,8 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.8.1. Mobil Pemadam Kebakaran
 - Satuan : Unit
-- Definisi : Salah satu sarana pemadam kebakaran yang digunakan oleh Satgas Damkar, Satlakar, Balakar atau sebutan lainnya untuk memenuhi waktu tanggap darurat  kebakaran yang cepat dan tepat dalam pengurangan resiko kebakaran.
-- Sumber : Peraturan Menteri Dalam Negeri Republik Indonesia Nomor  69   Tahun 2012  Tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 62 Tahun 2008 Tentang Standar Pelayanan Minimal Bidang Pemerintahan Dalam Negeri Di Kabupaten/Kota (Lampiran II).
+- Definisi : Salah satu sarana pemadam kebakaran yang digunakan oleh Satgas Damkar, Satlakar, Balakar atau sebutan lainnya untuk memenuhi waktu tanggap darurat kebakaran yang cepat dan tepat dalam pengurangan resiko kebakaran.
+- Sumber : Peraturan Menteri Dalam Negeri Republik Indonesia Nomor 69 Tahun 2012 Tentang Perubahan Atas Peraturan Menteri Dalam Negeri Nomor 62 Tahun 2008 Tentang Standar Pelayanan Minimal Bidang Pemerintahan Dalam Negeri Di Kabupaten/Kota (Lampiran II).
 
 #### 4.1.5.II.8.1.2. Pos Pemadam Kebakaran
 - Satuan : Unit
@@ -2326,3 +2326,77 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.5.II.9. Jumlah Kejadian Kebakaran
 - Satuan : Kasus
 - Definisi : Situasi dimana bangunan pada suatu tempat seperti rumah/pemukiman, pabrik, pasar, gedung dan lain-lain dilanda api yang menimbulkan korban dan/atau kerugian.	Undang-undang Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana
+
+## 4.1.6. Sosial
+### 4.1.6.I. Penduduk Miskin*
+#### 4.1.6.I.1. Jumlah Penduduk Miskin**
+- Satuan : Orang
+- Definisi : Jumlah penduduk yang memiliki rata-rata pengeluaran perkapita perbulan dibawah garis kemiskinan.
+- Sumber : Badan Pusat Statistik (2016)
+
+#### 4.1.6.I.2. Jumlah Rumah Tangga Miskin**
+- Satuan : Rumah Tangga
+- Definisi : sebuah rumah tangga dikatakan miskin apabila: 
+ 1. luas lantai bangunan tempat tinggalnya kurang dari 8 m2 per orang;
+ 2. lantai bangunan tempat tinggalnya terbuat dari tanah/bambu/kayu murahan; 
+ 3. dinding bangunan tempat tinggalnya terbuat dari bambu/rumbia/kayu berkualitas rendah atau tembok tanpa diplester; 
+ 4. tidak memiliki fasilitas buang air besar/bersama-sama rumah tangga lain menggunakan satu jamban; 
+ 5. sumber penerangan rumah tangga tidak menggunakan listrik; 
+ 6. air minum berasal dari sumur/mata air yang tidak terlindung/sungai/air hujan; 
+ 7. bahan bakar untuk memasak sehari-hari adalah kayu bakar/arang/minyak tanah; 
+ 8. hanya mengonsumsi daging/susu/ayam satu kali dalam seminggu; 
+ 9. hanya membeli satu stel pakaian baru dalam setahun; 
+ 10. hanya mampu makan satu/dua kali dalam sehari; 
+ 11. tidak sanggup membayar biaya pengobatan di puskesmas/poliklinik; 
+ 12. sumber penghasilan kepala rumah tangga adalah: petani dengan luas lahan 0,5 ha, buruh tani, nelayan, buruh bangunan, buruh perkebunan, atau pekerjaan lainnya dengan pendapatan di bawah Rp600.000 per bulan; 
+ 13. pendidikan terakhir kepala rumah tangga: tidak sekolah/tidak tamat sekolah dasar (SD)/hanya SD; dan 
+ 14. tidak memiliki tabungan/barang yang mudah dijual dengan nilai minimal Rp500.000 seperti sepeda motor (kredit/nonkredit), emas, hewan ternak, kapal motor ataupun barang modal lainnya
+- Sumber : Badan Pusat Statistik ( berpedoman pada Instruksi Presiden Nomor 12 Tahun 2005)
+
+#### 4.1.6.I.3. Jumlah Kepala Keluarga Miskin**
+- Satuan : KK
+- Definisi : Jumlah kepala Keluarga (KK) dari keluarga yang termasuk kategori miskin	
+- Sumber :
+
+#### 4.1.6.I.4. Jumlah Status Kepemilikan Rumah Keluarga Miskin* 		
+#### 4.1.6.I.4.1. Milik Sendiri**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus milik sendiri
+- Sumber :
+
+#### 4.1.6.I.4.2. Sewa**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus sewa / pemakaian rumah dengan membayar uang. (biasanya bersifat membayar secara bulanan)
+- Sumber :
+
+#### 4.1.6.I.4.3. Kontrak**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus kontrak/ persetujuan dan perjanjian antara kedua pihak. (biasanya bersifat membayar secara tahunan)
+- Sumber :
+
+#### 4.1.6.I.4.4. Bebas Sewa/Kontrak**
+- Satuan : Rumah Tangga
+- Definisi : jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus bebas sewa/kontrak
+- Sumber :
+
+#### 4.1.6.I.4.5. Jumlah Status Kepemilikan Lahan Keluarga Miskin*
+#### 4.1.6.I.4.5.1. Milik Sendiri**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan lahannya berstatus milik sendiri
+- Sumber :
+
+#### 4.1.6.I.4.5.2. Sewa**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan lahannya berstatus sewa / pemakaian lahan dengan membayar uang.
+- Sumber :
+
+#### 4.1.6.I.4.5.3. Kontrak**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan lahannya berstatus kontrak/ persetujuan dan perjanjian antara kedua pihak.
+- Sumber :
+
+#### 4.1.6.I.4.5.4. Bebas Sewa/Kontrak**
+- Satuan : Rumah Tangga
+- Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus bebas sewa/kontrak
+- Sumber :
+
