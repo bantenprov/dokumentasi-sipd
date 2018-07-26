@@ -829,3 +829,133 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Satuan : Orang
 - Definisi : Jumlah tidak adanya secara permanen seluruh kehidupan pada saat mana pun setelah kelahiran hidup terjadi penduduk usia 0-4 tahun.
 - Sumber : Undang-Undang Republik Indonesia Nomor 23 Tahun 2006 tentang Administrasi Kependudukan (penjelasan) diolah
+
+### 4.1.2.II. Pusat Pelayanan Kesehatan*
+#### 4.1.2.II.1. Jumlah Rumah Sakit**
+- Satuan : Unit
+- Definisi : Institusi pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan secara paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Pasal 1)
+
+#### 4.1.2.II.1.1. Rumah Sakit Umum **
+- Satuan : Unit
+- Definisi : Rumah sakit yang memberikan pelayanan kesehatan pada semua bidang dan jenis penyakit.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 (pasal 1)
+
+#### 4.1.2.II.1.1.1. Jumlah Rumah Sakit Umum  Tipe A
+- Satuan : Unit
+- Definisi : Rumah sakit yang mampu memberikan pelayanan kedokteran spesialis dan subspesialis luas oleh pemerintah, rumah sakit ini telah ditetapkan sebagai tempat pelayanan rujukan tertinggi (top referral hospital) atau disebut juga rumah sakit pusat. rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar, 5 (lima) spesialis penunjang medik, 12 (dua belas) spesialis lain dan 13 (tiga belas) subspesialis Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
+
+#### 4.1.2.II.1.1.2. Jumlah Rumah Sakit Umum Tipe B
+- Satuan : Unit
+- Definisi : Rumah sakit yang mampu memberikan pelayanan kedokteran medik spesialis luas dan subspesialis terbatas. Direncanakan rumah sakit tipe B didirikan di setiap ibukota propinsi (provincial hospital) yang menampung pelayanan rujukan dari rumah sakit kabupaten. Rumah sakit pendidikan yang tidak termasuk tipe A juga diklasifikasikan sebagai rumah sakit tipe B.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar, 4 (empat) spesialis penunjang medik, 8 (delapan) spesialis lain dan 2 (dua) subspesialis dasar.
+- Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
+
+#### 4.1.2.II.1.1.3. Jumlah Rumah Sakit Umum Tipe C
+- Satuan : Unit
+- Definisi : Rumah Sakit kelas C adalah rumah sakit yang mampu memberikan pelayanan kedokteran subspesialis terbatas. Terdapat empat macam pelayanan spesialis disediakan yakni pelayanan penyakit dalam, pelayanan bedah, pelayanan kesehatan anak, serta pelayanan kebidanan dan kandungan. Direncanakan rumah sakit tipe C ini akan didirikan di setiap kabupaten/kota (regency hospital) yang menampung pelayanan rujukan dari puskesmas.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 4 (empat) spesialis dasar dan 4 (empat) spesialis penunjang medik
+- Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
+
+#### 4.1.2.II.1.1.4. Jumlah Rumah Sakit Umum Tipe D
+- Satuan : Unit
+- Sumber : Rumah Sakit ini bersifat transisi karena pada suatu saat akan ditingkatkan menjadi rumah sakit kelas C. Pada saat ini kemampuan rumah sakit tipe D hanyalah memberikan pelayanan kedokteran umum dan kedokteran gigi. Sama halnya dengan rumah sakit tipe C, rumah sakit tipe D juga menampung pelayanan yang berasal dari puskesmas.  rumah sakit umum yang mempunyai fasilitas dan kemampuan pelayanan medik paling sedikit 2 (dua) spesialis dasar.
+- Sumber : Undang-Undang Republik Indonesia Nomor 44 Tahun 2009 (Penjelasan ) & Permenkes RI Nomor 986/Menkes/Per/11/1992
+
+#### 4.1.2.II.1.1.5. Rumah Sakit Umum Tipe E**
+- Satuan : Unit
+- Definisi : Rumah sakit ini merupakan rumah sakit khusus (special hospital) yang menyelenggarakan hanya satu macam pelayanan kedokteran saja. Pada saat ini banyak tipe E yang didirikan pemerintah, misalnya rumah sakit jiwa, rumah sakit kusta, rumah sakit paru, rumah sakit jantung, dan rumah sakit ibu dan anak.
+- Sumber  : Permenkes RI Nomor 986/Menkes/Per/11/1992
+
+#### 4.1.2.II.1.1.5.1 Jumlah Rumah Sakit Bersalin
+- Satuan : Unit
+- Definisi : Rumah sakit yang dilengkapi dengan fasilitas untuk melahirkan pemeriksaan kehamilan, pemeriksaan ibu dan anak serta berada dibawah pengawasan dokter dan atau bidan senior.
+- sumber : https://www.pu.go.id/glossary/show/13/20
+
+#### 4.1.2.II.1.1.5.2 Jumlah Rumah Sakit Jiwa
+- Satuan : Unit
+- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam  rumah sakit yang khusus untuk perawatan gangguan mental serius.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
+
+#### 4.1.2.II.1.1.5.3 Jumlah Rumah Sakit Mata
+- Satuan : Unit
+- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut. Dalam hal ini dalam  rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit mata.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
+
+#### 4.1.2.II.1.1.5.4 Jumlah Rumah Sakit Kusta
+- Sumber : Unit
+- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam  rumah sakit yang khusus memberikan layanan, pengobatan, dan perawatan bagi penderita penyakit kusta.
+- Sumber  : Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
+
+#### 4.1.2.II.1.1.5.5 Jumlah Rumah Sakit Ketergantungan Obat
+- Sumber : Unit
+- Definisi : Rumah Sakit Khusus  masuk kedalam rumah sakit umum tipe E yang hanya dapat menyelenggarakan pelayanan kesehatan sesuai bidang kekhususannya dan bidang lain yang menunjang kekhususan tersebut.Dalam hal ini dalam  rumah sakit yang khusus  memberikan layanan kesehatan dibidang gangguan penyalahgunaan napza
+- Sumber :Peraturan Menteri Kesehatan Republik Indonesia Nomor 56 Tahun 2014 Tentang Klasifikasi Dan Perizinan Rumah Sakit (diolah)
+
+#### 4.1.2.II.1.2. Jumlah Rumah Sakit Swasta
+- Satuan : Unit
+- Definisi : Rumah sakit yang dijalankan oleh suatu yayasan atau swasta lain yang umumnya juga berdasarkan sosial serta tujuan ekonomi (mencari keuntungan).
+- Sumber : http://elib.unikom.ac.id/files/disk1/640/jbptunikompp-gdl-anitayunit-31967-8-unikom_a-i.pdf
+
+#### 4.1.2.II.1.3. Rumah Sakit Umum Pusat (RSUP)
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.2.II.2. Puskesmas/Pustu/Poliklinik/Posyandu/Pos Kesehatan Desa**
+- Satuan : Unit
+- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja.
+- Sumber : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
+
+#### 4.1.2.II.2.1. Jumlah Puskesmas Non Rawat Inap
+- Satuan : Unit
+- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja yang tidak menyediakan fasilitas rawat inap.
+- Sumber  : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
+
+#### 4.1.2.II.2.2. Jumlah Puskesmas Rawat Inap
+- Satuan : Unit
+- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan di suatu wilayah kerja  dengan fasilitas rawat inap.
+- Sumber : Kepmenkes RI Nomor 128/menkes/SK/II/2004 (Diolah)
+
+#### 4.1.2.II.2.3. Jumlah Puskesmas Pembantu
+- Satuan : Unit
+- Definisi : Jumlah unit pelayanan kesehatan yang sederhana dan berfungsi menunjang dan membantu memperluas jangkauan puskesmas dengan melaksanakan kegiatan-kegiatan yang dilakukan puskesmas dalam ruang lingkup wilayah yang lebih kecil serta jenis dan kompetensi pelayanan yang disesuaikan dengan kemampuan tenaga dan sarana yang tersedia.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.II.2.4. Jumlah Poliklinik
+- Satuan : Unit
+- Definisi : Satu unit pelayanan masyarakat yang bergerak pada bidang kesehatan dan merupakan balai pengobatan umum (tidak untuk perawatan atau pasien menginap)
+- Sumber : http://ejournal3.undip.ac.id/index.php/transient/article/view/1397
+
+#### 4.1.2.II.2.5. Jumlah Posyandu
+- Satuan : Unit
+- Definisi : Jumlah wadah peran serta masyarakat yang dikelola dan diselenggarakan dari, oleh, untuk dan bersama masyarakat guna memperoleh pelayanan kesehatan dasar dan memantau pertumbuhan balita dalam rangka meningkatkan kualitas sumber daya manusia secara dini.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 19 Tahun  2011 Tentang Pedoman Pengintegrasian Layanan Sosial Dasar Di Pos Pelayanan Terpadu
+
+#### 4.1.2.II.2.6. Jumlah Posyandu Pratama
+- Satuan : Unit
+- Definisi : Jumlah posyandu pratama, yaitu posyandu yang belum terlaksana secara rutin serta jumlah kader yang sangat terbatas yakni kurang dari 5 (lima) orang Pedoman Umum Pengelolaan Posyandu,
+- Sumber : Departemen Kesehatan, 2006
+
+#### 4.1.2.II.2.7. Jumlah Posyandu Madya
+- Satuan : Unit
+- Definisi : Jumlah posyandu madya, yaitu posyandu yang sudah melaksanakan kegiatan lebih dari 8 kali per tahun dengan rata-rata jumlah kader sebanyak lima orang atau lebih, tetapi cakupan kelima kegiatan utamanya masih rendah, yaitu kurang dari 50%
+- Sumber : Pedoman Umum Pengelolaan Posyandu, Departemen Kesehatan, 2006
+
+#### 4.1.2.II.2.8. Jumlah Posyandu Purnama
+- Satuan : Unit
+- Definisi : Jumlah posyandu purnama, yaitu posyandu yang sudah dapat melaksanakan kegiatan lebih dari 8 kali per tahun, dengan rata-rata jumlah kader sebanyak lima orang atau lebih, cakupan kelima kegiatan utmanya lebih dari 50%, mampu menyelenggarakan program tambahan, serta telah memperoleh sumber pembiayaan dari dana sehat yang dikelola oleh masyarakat yang pesertanya masih terbatas yakni kurang dari 50% KK di wilayah kerja posyandu
+- Sumber : Pedoman Umum Pengelolaan Posyandu, Departemen Kesehatan, 2006
+
+#### 4.1.2.II.2.9. Jumlah Posyandu Mandiri
+- Satuan : Unit
+- Definisi : Jumlah posyandu mandiri, yaitu posyandu yang sudah dapat melaksanakan kegiatan lebih dari 8 kali per tahun, dengan rata-rata jumlah kader sebanyak lima orang atau lebih, cakupan kelima kegiatan utamanya lebih dari 50%, mampu menyelenggarakan program tambahan, serta telah memperoleh sumber pembiayaan dari dana sehat yang dikelola oleh masyarakat yang pesertanya lebih dari 50% KK di wilayah kerja posyandu
+- Sumber : Pedoman Umum Pengelolaan Posyandu, Departemen Kesehatan, 2006
+
+#### 4.1.2.II.2.10. Jumlah Balai Kesehatan Masyarakat
+- Satuan : Unit
+- Definisi : Jumlah unit pelaksana teknis yang menyelenggarakan upaya kesehatan strata kedua, untuk mengatasi masalah kesehatan tertentu dimasyarakat, secara terintegrasi, menyeluruh dan terpadu disuatu wilayah kerjanya.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.2.II.2.11. Jumlah Pos Kesehatan Desa
+- Satuan : Unit
+- Definisi : Jumlah upaya kesehatan bersumberdaya masyarakat yang dibentuk di desa dalam rangka mendekatkan/menyediakan pelayanan kesehatan dasar bagi masyarakat desa
+- Sumber : Petunjuk Teknis Pengembangan dan Penyelenggaraan Poskesdes, 2006
