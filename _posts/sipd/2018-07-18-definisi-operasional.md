@@ -1614,38 +1614,38 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Definisi : Luas areal tanah yang disediakan untuk keperluan pemakaman jenazah yang pengelolaannya dilakukan oleh badan sosial swasta dan/atau badan keagamaan masyarakat
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 tentang Penyediaan Penggunaan Tanah untuk Keperluan Tempat Pemakaman (Pasal 1)
 
-#### 4.1.4,VI. Jumlah dan Luas Ruang Terbuka Hijau**
-#### 4.1.4,VI.1. Jumlah Ruang Terbuka Hijau**
+#### 4.1.4.VI. Jumlah dan Luas Ruang Terbuka Hijau**
+#### 4.1.4.VI.1. Jumlah Ruang Terbuka Hijau**
 - Satuan : Unit
 - Definisi : 
 - Sumber :
 
-#### 4.1.4,VI.1.1. Jumlah Ruang Terbuka Hijau dikelola Pemerintah
+#### 4.1.4.VI.1.1. Jumlah Ruang Terbuka Hijau dikelola Pemerintah
 - Satuan : Unit
 - Definisi : 
 - Sumber :
 
-#### 4.1.4,VI.1.2. Jumlah Ruang Terbuka Hijau dikelola Swasta/Masyarakat
+#### 4.1.4.VI.1.2. Jumlah Ruang Terbuka Hijau dikelola Swasta/Masyarakat
 - Satuan : Unit
 - Definisi : 
 - Sumber :
 
-#### 4.1.4,VI.1.2.1. Luas Ruang Terbuka Hijau**
+#### 4.1.4.VI.1.2.1. Luas Ruang Terbuka Hijau**
 - Satuan : Ha
 - Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
 
-#### 4.1.4,VI.1.2.1.1. Luas Ruang Terbuka Hijau dikelola Pemerintah
+#### 4.1.4.VI.1.2.1.1. Luas Ruang Terbuka Hijau dikelola Pemerintah
 - Satuan : Ha
 - Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika yang pengelolaannya dilakukan oleh Pemerintah.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
 
-#### 4.1.4,VI.1.2.1.2. Luas Ruang Terbuka Hijau dikelola Swasta/Masyarakat
+#### 4.1.4.VI.1.2.1.2. Luas Ruang Terbuka Hijau dikelola Swasta/Masyarakat
 - Satuan : Ha
 - Definisi : Luas bagian dari ruang terbuka suatu kawasan perkotaan yang diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika yang pengelolaannya dilakukan oleh swasta/masyarakat.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
 
-#### 4.1.4,VI.1.2.2. Rasio Ruang Terbuka Hijau Per Satuan Luas Wilayah
+#### 4.1.4.VI.1.2.2. Rasio Ruang Terbuka Hijau Per Satuan Luas Wilayah
 - Satuan %
 - Definisi : Persentase luas ruang dalam kawasan perkotaan baik dalam bentuk area maupun dalam bentuk area memanjang/jalur yang penggunaannya lebih bersifat terbuka dan diisi oleh tumbuhan dan tanaman guna mendukung manfaat ekologi, sosial, budaya, ekonomi dan estetika terhadap seluruh luas wilayah perkotaan.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2007
