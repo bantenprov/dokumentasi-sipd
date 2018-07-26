@@ -1076,5 +1076,333 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 - Sumber : Menteri Kesehatan Republik Indonesia Keputusan Menteri Kesehatan Republik Indonesia Nomor 1076/Menkes/SK/VII/2003 Tentang Penyelenggaraan Pengobatan Tradisional Menteri Kesehatan Republik Indonesia
 
 ## 4.1.3. Pekerjaan Umum dan Penataan Ruang
-### 4.1.1.I. I. Jalan dan Jembatan*
+#### 4.1.3.I. Jalan dan Jembatan*
+#### 4.1.3.I.1. Panjang Jalan dan Kondisi Berdasarkan Administrasi Pemerintahan*
+#### 4.1.3.I.1.1. Panjang Jalan Nasional**
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
+#### 4.1.3.I.1.1.1. Kondisi Baik
+- Satuan : Km
+- Definisi : Jenis Permukaan : Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.1.2. Kondisi Sedang
+- Satuan : Km
+- Definisi : Jenis Permukaan : Lapis Tipis Lama dari Hotmix, Latasbum Baru, Lasbutag Baru atau PM (Pemeliharaan Berkala) baru, Latasbum Baru, Lasbutag setelah pemakaian 2 tahun
+Kondisi Lapangan : baik atau cukup tidak ada atau sedikit sekali lubang, permukaan jalan agak tidak rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.1.3. Kondisi Rusak Ringan
+- Satuan : Km
+- Definisi : Jenis Permukaan :PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
+Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.1.4. Kondisi Rusak Berat
+- Satuan : Km
+- Definisi : Jenis Permukaan :
+Semua tipe perkerasan yang tidak diperhatikan sejak lama (4 – 5 tahun atau lebih atau Jalan tanah dengan drainase yang jelek, dan semua tipe permukaan yang tidak diperhatikan sama sekali.
+Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahkan tidak bisa dilalui
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.2. Panjang Jalan Tol**
+- Satuan : Km
+- Definisi : Panjang jalan umum yang merupakan bagian sistem jaringan jalan dan sebagai jalan nasional yang penggunanya diwajibkan membayar tol.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.1.2.1. Kondisi Baik
+- Satuan : Km
+- Definisi : Jenis Permukaan :Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.2.2. Kondisi Sedang
+- Satuan : Km
+- Definisi : Jenis Permukaan :Lapis Tipis Lama dari Hotmix, Latasbum Baru, Lasbutag Baru atau PM (Pemeliharaan Berkala) baru, Latasbum Baru, Lasbutag setelah pemakaian 2 tahun
+Kondisi Lapangan : baik atau cukup tidak ada atau sedikit sekali lubang, permukaan jalan agak tidak rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.2.3. Kondisi Rusak Ringan
+- Satuan : Km
+- Definisi : Jenis Permukaan :PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
+Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.2.4. Kondisi Rusak Berat
+- Satuan : Km
+- Definisi : Jenis Permukaan :
+Semua tipe perkerasan yang tidak diperhatikan sejak lama (4 – 5 tahun atau lebih atau Jalan tanah dengan drainase yang jelek, dan semua tipe permukaan yang tidak diperhatikan sama sekali.
+Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahkan tidak bisa dilalui
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.3. Panjang Jalan Propinsi**
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antar ibukota kabupaten/kota, dan jalan strategis provinsi.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (pasal 9)
+
+#### 4.1.3.I.1.3.1. Kondisi Baik
+- Satuan : Km
+- Definisi : Jenis Permukaan :Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+#### 4.1.3.I.1.3.2. Kondisi Sedang
+- Satuan : Km
+- Definisi : Jenis Permukaan :Lapis Tipis Lama dari Hotmix, Latasbum Baru, Lasbutag Baru atau PM (Pemeliharaan Berkala) baru, Latasbum Baru, Lasbutag setelah pemakaian 2 tahun
+Kondisi Lapangan : baik atau cukup tidak ada atau sedikit sekali lubang, permukaan jalan agak tidak rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.3.3. Kondisi Rusak Ringan
+- Satuan : Km
+- Definisi : Jenis Permukaan : PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
+Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.3.4. Kondisi Rusak Berat
+- Satuan : Km
+- Definisi : Jenis Permukaan :
+Semua tipe perkerasan yang tidak diperhatikan sejak lama (4 – 5 tahun atau lebih atau Jalan tanah dengan drainase yang jelek, dan semua tipe permukaan yang tidak diperhatikan sama sekali.
+Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahkan tidak bisa dilalui
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4. Panjang Jalan Kabupaten/Kota**
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang tidak termasuk pada ayat (2) dan ayat (3), yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (pasal 9)
+
+#### 4.1.3.I.1.4.1. Kondisi Baik
+- Satuan : Km
+- Jenis Permukaan : Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.2. Kondisi Sedang
+- Satuan : Km
+- Definisi : Jenis Permukaan :Lapis Tipis Lama dari Hotmix, Latasbum Baru, Lasbutag Baru atau PM (Pemeliharaan Berkala) baru, Latasbum Baru, Lasbutag setelah pemakaian 2 tahun
+Kondisi Lapangan : baik atau cukup tidak ada atau sedikit sekali lubang, permukaan jalan agak tidak rata.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.3. Kondisi Rusak Ringan
+- Satuan : Km
+- Definisi : Jenis Permukaan : PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
+Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.4. Kondisi Rusak Berat
+- Satuan : Km
+- Jenis Permukaan :
+Semua tipe perkerasan yang tidak diperhatikan sejak lama (4 – 5 tahun atau lebih atau Jalan tanah dengan drainase yang jelek, dan semua tipe permukaan yang tidak diperhatikan sama sekali.
+Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahkan tidak bisa dilalui" Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.5. Panjang Jalan Desa**
+- Satuan : Km
+- Definisi : Panjang jalan umum yang menghubungkan kawasan dan/atau antarpermukiman di dalam desa, serta jalan lingkungan. Undang-undang Nomor 38 Tahun 2004 tentang Jalan (pasal 9)
+
+#### 4.1.3.I.1.4.5.1. Kondisi Baik
+- Satuan : Km
+- Definisi : Jenis Permukaan :Hotmix Baru (Lataston, Laston), peningkatan dengan menggunakan lebih dari 1 lapis atau Hotmix setelah 2 tahun, Hotmix Tipis diatas PM (Pemeliharaan Berkala)
+Kondisi Lapangan : Sangat rata dan teratur atau sangat baik umumnya rata."  Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.5.2. Kondisi Sedang
+- Satuan : Km
+- Definisi : Jenis Permukaan :Lapis Tipis Lama dari Hotmix, Latasbum Baru, Lasbutag Baru atau PM (Pemeliharaan Berkala) baru, Latasbum Baru, Lasbutag setelah pemakaian 2 tahun
+Kondisi Lapangan : baik atau cukup tidak ada atau sedikit sekali lubang, permukaan jalan agak tidak rata.
+Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.1.4.5.3. Kondisi Rusak Ringan
+- Satuan : Km
+- Definisi : Jenis Permukaan :PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
+Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+#### 4.1.3.I.1.4.5.4. Kondisi Rusak Berat
+- Satuan : Km
+- Definisi : Jenis Permukaan :
+Semua tipe perkerasan yang tidak diperhatikan sejak lama (4 – 5 tahun atau lebih atau Jalan tanah dengan drainase yang jelek, dan semua tipe permukaan yang tidak diperhatikan sama sekali.
+Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahkan tidak bisa dilalui.
+- Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
+#### 4.1.3.I.2. Panjang Jalan Berdasarkan Jenis Permukaan*
+#### 4.1.3.I.2.1. Panjang Jalan Nasional**
+- Satuan : Km
+- Definisi : panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan.
+
+#### 4.1.3.I.2.1.1. Di Aspal
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan aspal. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.1.2. Di Beton
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan beton. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.1.3. Kerikil
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan kerikil. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.1.4. Tanah
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan tanah. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.1.5. Tidak Terinci
+- Satuan : Km
+- Definisi : Panjang jalan arteri dan jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan antaribukota provinsi, dan jalan strategis nasional, serta jalan tol dengan jenis permukaan/perkerasan tidak terinci.
+- Sumber  : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2. Panjang Jalan Propinsi**
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2.1. Di Aspal
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan aspal.
+- Definisi : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2.2. Di Beton
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan beton.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2.3. Kerikil
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan kerikil.  Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2.4. Tanah
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tanah.  Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.2.5. Tidak Terinci
+- Satuan : Km
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tidak terinci.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.3. Panjang Jalan Kabupaten/Kota
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+
+#### 4.1.3.I.2.3.1. Di Aspal
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan di aspal.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+
+#### 4.1.3.I.2.3.2. Di Beton
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan beton.
+- Definisi : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+
+#### 4.1.3.I.2.3.3. Kerikil
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan kerikil.
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+
+#### 4.1.3.I.2.3.4. Tanah
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan tanah. Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+
+#### 4.1.3.I.2.3.5. Tidak Terinci
+- Satuan : Km
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan tidak terinci. Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+
+#### 4.1.3.I.3. Jembatan dan Kondisi Berdasarkan Administrasi Pemerintahan *
+#### 4.1.3.I.3.1. Jumlah Jembatan  Nasional**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.1.1. Jumlah Jembatan Dengan Kondisi Baik
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.1.2. Jumlah Jembatan Dengan Kondisi Sedang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.1.3. Jumlah Jembatan Dengan Kondisi Rusak Ringan
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.1.4. Jumlah Jembatan Dengan Kondisi Rusak Berat
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.2. Jumlah Jembatan Propinsi**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.2.1. Jumlah Jembatan Dengan Kondisi Baik
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.2.2. Jumlah Jembatan Dengan Kondisi Sedang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.2.3. Jumlah Jembatan Dengan Kondisi Rusak Ringan
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.2.4. Jumlah Jembatan Dengan Kondisi Rusak Berat
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.3. Jumlah Jembatan Kabupaten/Kota**
+- Satuan : Unit
+- Definisi : Jembatan pada ruas jalan kabupaten dan kota
+- Sumber : Peraturan Menteri Pekerjaan Umum Dan Perumahan Rakyat Republik Indonesia Nomor 47/PRT/M/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus  Bidang Infrastruktur
+
+#### 4.1.3.I.3.3.1. Jumlah Jembatan Dengan Kondisi Baik
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.3.2. Jumlah Jembatan Dengan Kondisi Sedang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.3.3. Jumlah Jembatan Dengan Kondisi Rusak Ringan
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.3.4. Jumlah Jembatan Dengan Kondisi Rusak Berat
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.4. Jumlah Jembatan Desa**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.4.1. Jumlah Jembatan Dengan Kondisi Baik
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.4.2. Jumlah Jembatan Dengan Kondisi Sedang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.4.3. Jumlah Jembatan Dengan Kondisi Rusak Ringan
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.3.I.3.4.4. Jumlah Jembatan Dengan Kondisi Rusak Berat
+- Satuan : Unit
+- Definisi :
+- Sumber :
