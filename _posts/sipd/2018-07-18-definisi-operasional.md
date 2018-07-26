@@ -1796,3 +1796,54 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Kasus
 - Definisi :
 - Sumber :
+
+#### 4.1.5.II.6. Sarana dan Prasarana Keamanan dan Ketertiban Umum*			
+#### 4.1.5.II.6.1. Jumlah Aparat Keamanan dan Ketertiban Umum**
+- Satuan : Orang
+- Definisi : Total jumlah aparat pamong praja, patroli satpol PP, dan petugas perlindungan masyarakat
+- Sumber :
+
+#### 4.1.5.II.6.1.1. Jumlah Aparat Pamong Praja
+- Satuan : Orang
+- Definisi : Anggota satpol  PP sebagai aparat pemerintah daerah dalam penegakan Perda dan penyelenggaraan ketertiban umum dan ketenteraman masyarakat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
+
+#### 4.1.5.II.6.1.2. Jumlah Petugas Patroli Satpol PP
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.6.1.3.  Jumlah Petugas Perlindungan Masyarakat
+- Satuan : Orang
+- Definisi : Satuan yang memiliki tugas umum pemeliharaan ketentraman dan ketertiban masyarakat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
+
+#### 4.1.5.II.6.2. Jumlah Sarana Keamanan dan Ketertiban Umum**
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.6.2.1. Jumlah Pos Keamanan
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.6.2.2. Jumlah Pos Siskamling
+- Satuan : Unit
+- Definisi : Tempat atau bangunan sebagai salah satu sarana dalam penyelenggaraan siskamling, yang berfungsi sebagai pusat kegiatan dalam pelaksanaan siskamling, dan pembentukannya berdasarkan kesepakatan dalam musyawarah warga.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor  23  Tahun  2007 Tentang Sistem Keamanan Lingkungan
+
+#### 4.1.5.II.6.2.3. Jumlah Kendaraan Operasional**
+- Satuan : Unit
+- Definisi : Jumlah kendaraan operasional roda 2 dan roda 4 yang digunakan untuk keamanan dan ketertiban umum	
+
+#### 4.1.5.II.6.2.3.1. Jumlah Kendaraan Operasional Roda 2
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.6.2.3.2. Jumlah Kendaraan Operasional Roda 4
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
