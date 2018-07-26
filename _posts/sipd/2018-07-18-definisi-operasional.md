@@ -2431,4 +2431,50 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah masyarakat miskin dan atau tidak mampu yang menerima program jaminan pelayanan kesehatan yang menjadi tanggung jawab dan dilaksanakan oleh Pemda Kota/kabupaten.
 - Sumber :
 
+#### 4.1.6.II. Pendidikan Siswa Miskin* / anak miskin		
+#### 4.1.6.II.1. Jumlah Siswa Miskin SD/MI/Sederajat** / anak miskin
+- Satuan : Orang
+- Definisi : Jumlah anak usia sekolah dasar yang bersekolah dan tidak bersekolah dari keluarga yang termasuk kategori miskin
+- Sumber :
+
+#### 4.1.6.II.1.1. Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia sekolah dasar yang bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.1.2. Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia sekolah dasar yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.2. Jumlah Siswa Miskin SMP/Mts/Sederajat**  / anak miskin
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMP/Mts/Sederajat yang bersekolah dan tidak bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.1.1. Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMP/Mts/Sederajat yang bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.1.2. Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMP/Mts/Sederajat yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.3. Jumlah Siswa Miskin SMA/MA/Sederajat** / anak miskin
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMA/MA/Sederajat yang bersekolah dan tidak bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.1.1. Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMA/MA/Sederajat yang bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
+#### 4.1.6.II.1.2. Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah anak usia SMA/MA/Sederajat yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
+- Sumber :
+
 
