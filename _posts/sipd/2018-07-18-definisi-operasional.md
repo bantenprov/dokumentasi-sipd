@@ -1677,7 +1677,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Sumber : Undang-Undang Republik Indonesia Nomor 1 Tahun 2011, Petunjuk Teknis Standar Pelayanan Petunjuk Teknis Standar Pelayanan Minimal Bidang Pekerjaan Umum dan Penataan Ruang(lampiran 2). (diolah)
 
 ## 4.1.5. Ketenteraman dan Ketertiban Umum Serta Perlindungan Masyarakat
-### 4.1.5.I. Keamanan dan Ketertiban Umum *	
+### 4.1.5.I. Keamanan dan Ketertiban Umum*	
 #### 4.1.5.I.1. Pelanggaran K3 (Ketertiban, Ketentraman, Keindahan)*	
 #### 4.1.5.I.1.1. Jumlah Pelanggaran K3
 - Satuan : Kasus
@@ -2447,7 +2447,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah anak usia sekolah dasar yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
 - Sumber :
 
-#### 4.1.6.II.2. Jumlah Siswa Miskin SMP/Mts/Sederajat**  / anak miskin
+#### 4.1.6.II.2. Jumlah Siswa Miskin SMP/Mts/Sederajat** / anak miskin
 - Satuan : Orang
 - Definisi : Jumlah anak usia SMP/Mts/Sederajat yang bersekolah dan tidak bersekolah dari keluarga yang termasuk kategori miskin 
 - Sumber :
@@ -2477,4 +2477,28 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah anak usia SMA/MA/Sederajat yang tidak bersekolah dari keluarga yang termasuk kategori miskin 
 - Sumber :
 
+#### 4.1.6.III. Jumlah Keluarga Menurut Tingkat Kesejahteraan**			
+#### 4.1.6.III.1. Keluarga Prasejahtera**
+- Satuan : KK
+- Definisi : Keluarga yang dibentuk berdasarkan atas perkawinan yang sah, mampu memenuhi kebutuhan spiritual dan materi yang layak, bertakwa kepada Tuhan Yang Maha Esa, memiliki hubungan yang serasi, selaras dan seimbang antar anggota dan antar keluarga dengan masyarakat dan lingkungannnya. Keluarga Sejahtera ini dapat diklasifikasikan menurut kelompok sebagai berikut: 1. Keluarga Pra Sejahtera 2. Keluarga Sejahtera Tahap I 3. Keluarga Sejahtera Tahap II 4. Keluarga Sejahtera Tahap III 5. Keluarga Sejahtera Tahap III Plus 
+- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
 
+#### 4.1.6.III.2. Keluarga Sejahtera Tahap 1**
+- Satuan : KK
+- Definisi : Keluarga-keluarga yang telah dapat memenuhi kebutuhan dasarnya secara minimal tetapi belum dapat memenuhi keseluruhan kebutuhan sosial psikologisnya (socio psychological needs), seperti kebutuhan ibadah, makan protein hewani, pakaian, ruang untuk interaksi keluarga, dalam keadaan sehat, mempunyai penghasilan, bisa baca tulis latin dan keluarga berencana. 
+- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+
+#### 4.1.6.III.3. Keluarga Sejahtera Tahap 2**
+- Satuan : KK
+- Definisi : Keluarga-keluarga yang disamping telah dapat memenuhi seluruh kebutuhan sosial psikologisnya, akan tetapi belum dapat memenuhi keseluruhan kebutuhan perkembangannya (development needs) seperti kebutuhan untuk peningkatan agama, menabung, berinteraksi dalam keluarga, ikut melaksanakan kegiatan dalam masyarakat dan mampu memperoleh informasi. 
+- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+
+#### 4.1.6.III.4. Keluarga Sejahtera Tahap 3**
+- Satuan : KK
+- Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhan dasar, kebutuhan sosial psikologis dan kebutuhan pengembangannya, namun belum dapat memberikan sumbangan (kontribusi) yang maksimal terhadap masyarakat, seperti secara teratur (waktu tertentu) memberikan sumbangan dalam bentuk material dan keuangan untuk kepentingan sosial kemasyarakatan serta berperan serta secara aktif dengan menjadi pengurus lembaga kemasyarakatan atau yayasan sosial, keagamaan, kesenian, olahraga, pendidikan dan sebagainya 
+- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
+
+#### 4.1.6.III.5. Keluarga Sejahtera Tahap 3 Plus**
+- Satuan : KK
+- Definisi : Keluarga yang telah dapat memenuhi seluruh kebutuhannya, baik yang bersifat dasar, sosial psikologis maupun yang bersifat pengembangan serta telah dapat pula memberikan sumbangan yang nyata dan berkelanjutan bagi masyarakat 
+- Sumber :	Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan dan Keluarga Berencana Nasional, 2011)
