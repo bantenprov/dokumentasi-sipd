@@ -484,3 +484,98 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 - Satuan : Orang
 - Definisi : Jumlah pendidik profesional dan ilmuwan dengan tugas utama mentransformasikan, mengembangkan, dan menyebarluaskan Ilmu Pengetahuan dan Teknologi melalui Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat pada jenjang Pendidikan Tinggi yang didirikan dan / atau diselenggarakan oleh masyarakat.
 - Sumber : Undang-Undang RI No. 12 tahun 2012 (pasal 1) diolah
+
+### 4.1.1.VII. Pendidikan Non Formal*
+#### 4.1.1.VII.1. Pendidikan Ketrampilan Dan Pelatihan Kerja*
+- Satuan : Unit
+- Definisi : Jumlah keseluruhan kegiatan untuk memberi, memperoleh, meningkatkan, serta mengembangkan kompetensi kerja, produktivitas, disiplin, sikap, dan etos kerja pada tingkat keterampilan dan keahlian tertentu sesuai dengan jenjang dan kualifikasi jabatan atau pekerjaan.
+- Sumber : Keputusan Menteri Tenagakerja dan transmigrasi Republik Indonesia Nomor: KEP. 225 /MEN/2003 (pasal 1)
+
+#### 4.1.1.VII.1.1. Jumlah Lembaga Pendidikan Ketrampilan Dan Pelatihan Kerja
+- Satuan : Unit
+- Definisi : Jumlah instansi pemerintah, badan hukum atau perorangan yang memenuhi persyaratan untuk menyelenggarakan pelatihan kerja.
+- Sumber : Keputusan Menteri Tenagakerja dan transmigrasi Republik Indonesia Nomor: KEP. 225 /MEN/2003 (pasal 1)
+
+#### 4.1.1.VII.1.2. Jumlah Kelas Lembaga Pendidikan Ketrampilan Dan Pelatihan Kerja
+- Satuan : Ruang
+- Definisi : Jumlah ruang untuk pembelajaran teori dan praktek yang tidak memerlukan peralatan khusus atau praktek dengan alat khusus yang mudah dihadirkan untuk lembaga pendidikan ketrampilan dan pelatihan kerja.
+- Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 TAHUN 2007 (lampiran)
+
+#### 4.1.1.VII.1.3. Jumlah Siswa Lembaga Pendidikan Ketrampilan Dan Pelatihan Kerja
+- Satuan : Orang
+- Definisi : Jumlah orang dengan bentuk satuan pendidikan formal yang menyelenggarakan pendidikan umum pada jenjang pendidikan tertentu dalam hal ini pendidikan keterampilan dan pekatihan kerja.
+- Sumber : Peraturan Pemerintah RI 17 Tahun 2010 (Pasal 1)
+
+#### 4.1.1.VII.1.4. Jumlah Tenaga Pengajar Lembaga Pendidikan Ketrampilan Dan Pelatihan Kerja
+- Satuan : Orang
+- Definisi : Jumlah tenaga pendidik yang bertugas utama mengajar peserta didiK di lembaga ketrampilan dan pelatihan kerja
+- Sumber :
+
+#### 4.1.1.VII.2. Pendidikan Kesetaraan*
+- Satuan :
+- Definisi : Pendidikan kesetaraan adalah pendidikan yang berlangsung di luar sistem persekolahan, namun kompetensi lulusannya dianggap setara dengan kompetensi lulusan pendidikan formal (persekolahan) setelah melalui ujian kesetaraan.
+- Sumber : Jurnal  Ilmu Sosial & Pengelolaan Sumberdaya  Pembangunan Edisi XX(Januari - Februari 2016 ) Volume 2 Program Pascasarjana Universitas Sam Ratulangi.
+
+#### 4.1.1.VII.2.1. Pendidikan Kesetaraan Paket A*
+- Satuan :
+- Definisi : Paket A adalah Pendidikan yang sederajat dengan SD/MI.
+- Sumber : Undang-Undang No 20 Tahun 2003 (Penjelasan)
+
+#### 4.1.1.VII.2.1.1. Jumlah Siswa
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengikuti (peserta didik) di  pendidikan yang berlangsung di luar sistem persekolahan, namun kompetensi lulusannya dianggap setara dengan kompetensi lulusan pendidikan formal (persekolahan) setelah melalui ujian kesetaraan Paket A.
+- Sumber : Jurnal  Ilmu Sosial & Pengelolaan Sumberdaya  Pembangunan Edisi XX(Januari - Februari 2016 ) Volume 2 Program Pascasarjana Universitas Sam Ratulangi (diolah)
+
+#### 4.1.1.VII.2.1.2. Jumlah Tenaga Pengajar
+- Satuan : Orang
+- Definisi : Jumlah tenaga pendidik yang bertugas utama mengajar peserta didiK di pendidikan Kesetaraan Paket A.
+- Sumber : Peraturan Pemerintah Republik Indonesia  Nomor 38 Tahun 1992  Tentang  Tenaga Pendidikan.
+
+#### 4.1.1.VII.2.2. Pendidikan Kesetaraan Paket B*
+- Satuan :
+- Definisi : Paket B adalah pendidikan yang sederajat dengan SMP/MTs.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Penjelasan)
+
+#### 4.1.1.VII.2.2.1. Jumlah Siswa
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengikuti (peserta didik) di  pendidikan yang berlangsung di luar sistem persekolahan, namun kompetensi lulusannya dianggap setara dengan kompetensi lulusan pendidikan formal (persekolahan) setelah melalui ujian kesetaraan Paket B.
+- Sumber  :
+
+#### 4.1.1.VII.2.2.2. Jumlah Tenaga Pengajar
+- Satuan : Orang
+- Definisi : Jumlah tenaga pendidik yang bertugas utama mengajar peserta didiK di pendidikan Kesetaraan Paket B.
+- Sumber : Peraturan Pemerintah Republik Indonesia  Nomor 38 Tahun 1992  Tentang  Tenaga Pendidikan
+
+#### 4.1.1.VII.2.3. Pendidikan Kesetaraan Paket C*
+- Satuan :
+- Definisi : Paket C adalah Pendidikan yang sederajat dengan SMA/MA.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Penjelasan)
+
+#### 4.1.1.VII.2.3.1. Jumlah Siswa
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengikuti (peserta didik) di  pendidikan yang berlangsung di luar sistem persekolahan, namun kompetensi lulusannya dianggap setara dengan kompetensi lulusan pendidikan formal (persekolahan) setelah melalui ujian kesetaraan Paket C.
+
+#### 4.1.1.VII.2.3.2. Jumlah Tenaga Pengajar
+- Satuan : Orang
+- Definisi : Jumlah tenaga pendidik yang bertugas utama mengajar peserta didiK di pendidikan Kesetaraan Paket C.
+- Sumber : Peraturan Pemerintah Republik Indonesia  Nomor 38 Tahun 1992  Tentang  Tenaga Pendidikan
+
+#### 4.1.1.VII.3. Pusat Kegiatan Belajar Masyarakat (PKBM)*
+- Satuan :
+- Definisi : Salah satu satuan pendidikan nonformal yang menyelenggarakan berbagai kegiatan pembelajaran dan merupakan tempat yang memberikan kesempatan belajar seumur hidup bagi semua orang di masyarakat untuk memberdayakan masyarakat agar menjadi mandiri, meningkatkan kualitas hidup, dan mengembangkan komunitas yang ada di masyarakat.
+- Sumber : Jurnal Ilmiah VISI PPTK PAUDNI - Vol. 10, No.2, Desember 2015
+
+#### 4.1.1.VII.3.1. Jumlah Pusat Kegiatan Belajar Masyarakat**
+- Satuan : Unit
+- Definisi : Jumlah pendidikan nonformal yang menyelenggarakan berbagai kegiatan pembelajaran dan merupakan tempat yang memberikan kesempatan belajar seumur hidup bagi semua orang di masyarakat untuk memberdayakan masyarakat agar menjadi mandiri, meningkatkan kualitas hidup, dan mengembangkan komunitas yang ada di masyarakat.
+- Sumber : Jurnal Ilmiah VISI PPTK PAUDNI - Vol. 10, No.2, Desember 2015
+
+#### 4.1.1.VII.3.1.1. Jumlah Peserta Pusat Kegiatan Belajar Masyarakat
+- Satuan : Orang
+- Definisi : Jumlah anggota masyarakat yang berusaha mengembangkan potensi diri melalui proses pembelajaran yang tersedia di pusat kegiatan belajar masyarakat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Penjelasan)
+
+#### 4.1.1.VII.3.1.2. Jumlah Tenaga Pengajar Pusat Kegiatan Belajar Masyarakat
+- Satuan : Orang
+- Definisi : Jumlah tenaga pendidik yang bertugas utama mengajar peserta didiK di pusat kegiatan belajar bersama masyarakat.
+- Sumber : Peraturan Pemerintah Republik Indonesia  Nomor 38 Tahun 1992  Tentang  Tenaga Pendidikan
