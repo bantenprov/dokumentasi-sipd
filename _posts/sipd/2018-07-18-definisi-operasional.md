@@ -1774,7 +1774,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.5.II.4. Kerugian Material Akibat Unjuk Rasa
 - Satuan : Rp
 - Definisi : Jumlah kerugian material dalam rupiah akibat kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum.
-- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia  Nomor 9 Tahun 2008  Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
 
 #### 4.1.5.II.5. Sengketa Pengusaha dan Pekerja*			
 #### 4.1.5.II.5.1. Jumlah Sengketa Pengusaha dan Pekerja**
@@ -1805,7 +1805,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.6.1.1. Jumlah Aparat Pamong Praja
 - Satuan : Orang
-- Definisi : Anggota satpol  PP sebagai aparat pemerintah daerah dalam penegakan Perda dan penyelenggaraan ketertiban umum dan ketenteraman masyarakat.
+- Definisi : Anggota satpol PP sebagai aparat pemerintah daerah dalam penegakan Perda dan penyelenggaraan ketertiban umum dan ketenteraman masyarakat.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
 
 #### 4.1.5.II.6.1.2. Jumlah Petugas Patroli Satpol PP
@@ -1813,7 +1813,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.II.6.1.3.  Jumlah Petugas Perlindungan Masyarakat
+#### 4.1.5.II.6.1.3. Jumlah Petugas Perlindungan Masyarakat
 - Satuan : Orang
 - Definisi : Satuan yang memiliki tugas umum pemeliharaan ketentraman dan ketertiban masyarakat.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 6 Tahun 2010 Tentang Satuan Polisi Pamong Praja
@@ -1831,7 +1831,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.5.II.6.2.2. Jumlah Pos Siskamling
 - Satuan : Unit
 - Definisi : Tempat atau bangunan sebagai salah satu sarana dalam penyelenggaraan siskamling, yang berfungsi sebagai pusat kegiatan dalam pelaksanaan siskamling, dan pembentukannya berdasarkan kesepakatan dalam musyawarah warga.
-- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor  23  Tahun  2007 Tentang Sistem Keamanan Lingkungan
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 23 Tahun 2007 Tentang Sistem Keamanan Lingkungan
 
 #### 4.1.5.II.6.2.3. Jumlah Kendaraan Operasional**
 - Satuan : Unit
@@ -1885,7 +1885,7 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.5.II.1.2.3. Jumlah Sistem Peringatan Dini Longsor**
 - Satuan : Unit
-- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor  pada suatu tempat oleh lembaga yang berwenang.
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana longsor pada suatu tempat oleh lembaga yang berwenang.
 - Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
 
 #### 4.1.5.II.1.2.3.1. Jumlah Sistem Elektronik
@@ -1898,3 +1898,47 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
+#### 4.1.5.II.1.2.4. Jumlah Sistem Peringatan Dini Gempa**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam gempa pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.4.1. Jumlah Sistem Elektronik
+- Satuan : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam gempa pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.4.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.1.2.5. Jumlah Sistem Peringatan Dini Tsunami**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam tsunami pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.5.1. Jumlah Sistem Elektronik
+- Satuan : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam tsunami pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.5.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.1.2.6. Jumlah Sistem Peringatan Dini Lainnya**
+- Satuan : Unit
+- Definisi : Jumlah sistem dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam lainnya pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.6.1. Jumlah Sistem Elektronik
+- Sumber : Unit
+- Definisi : Jumlah sistem berbasis elektronik dengan serangkaian kegiatan pemberian peringatan sesegera mungkin kepada masyarakat tentang kemungkinan terjadinya bencana alam lainnya pada suatu tempat oleh lembaga yang berwenang.
+- Sumber : Pedoman Sistem Peringatan Dini Berbasis Masyarakat (Badan Nasional Penanggulangan Bencana, 2012).diolah
+
+#### 4.1.5.II.1.2.6.2. Jumlah Peringatan Dini Tradisional
+- Satuan : Unit
+- Definisi :
+- Sumber :
