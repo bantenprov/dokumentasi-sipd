@@ -1036,7 +1036,7 @@ _ Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/
 
 #### 4.1.2.III.5.1. Jumlah Tenaga Sanitasi Lingkungan / Sanitarian
 - Satuan : Orang
-- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan  Peraturan
+- Definisi : Salah satu jenis tenaga kesehatan masyarakat yang merupakan tenaga profesional yang bekerja dalam bidang sanitasi dan kesehatan lingkungan Peraturan
 - Sumber : Pemerintah No.32 Tahun 1996, tentang Tenaga Kesehatan (diolah)
 
 #### 4.1.2.III.5.2. Jumlah Entomolog Kesehatan
@@ -1710,13 +1710,23 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi :
 - Sumber :
 
-#### 4.1.5.I.3. Korban Pertikaian Antar Warga*			
+#### 4.1.5.I.3. Korban Pertikaian Antar Warga*
 #### 4.1.5.I.3.1. Korban Meninggal
 - Satuan : Orang
 - Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat pertikaian antar warga
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
 
 #### 4.1.5.I.3.2. Korban Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita/ luka-luka akibat pertikaian antar warga
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita/ luka-luka akibat pertikaian antar warga
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.I.4. Jumlah Pengungsi Akibat Pertikaian Antar Warga
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya pertikaian antar warga.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.I.5. Kerugian Material Akibat Pertikaian Antar Warga
+- Satuan : Rp/Juta		
+- Definisi :
+- Sumber :
