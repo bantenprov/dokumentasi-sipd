@@ -172,7 +172,7 @@ ALTER TABLE `kelompok_data`
 --
 ALTER TABLE `kelompok_data`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT;
-~~~sql
+~~~
 
 #### 3.5.2.2.2 Jabatan
 
