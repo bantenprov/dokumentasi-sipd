@@ -312,18 +312,18 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 #### 4.1.1.2. Jumlah Bangunan SMA/SMK/MA/Sederajat**
 - Satuan : Unit
 - Definisi : Jumlah bangunan gedung yang digunakan untuk menjalankan fungsi sekolah/madrasah untuk pendidikan menengah atas
-- Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007  (lampiran)
+- Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007 (lampiran)
 
-#### 4.1.1.2.1. Bangunan Baik **
+#### 4.1.1.2.1. Bangunan Baik**
 - Satuan : Unit
-- Definisi : Bangunan berfungsi dengan baik sebagaimana mestinya atau mengalami kerusakan ringan terutama pada komponen non-struktural, seperti penutup atap, langit-langit, penutup lantai dan dinding pengisi yang tidak mengganggu kegiatan ajar-mengajar.  Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan banguna Gedung
+- Definisi : Bangunan berfungsi dengan baik sebagaimana mestinya atau mengalami kerusakan ringan terutama pada komponen non-struktural, seperti penutup atap, langit-langit, penutup lantai dan dinding pengisi yang tidak mengganggu kegiatan ajar-mengajar. Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan banguna Gedung
 
-#### 4.1.1.2.2. Bangunan Tidak Baik **
+#### 4.1.1.2.2. Bangunan Tidak Baik**
 - Satuan : Unit
 - Definisi : Bangunan yang mengalami kerusakan pada sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya.
 - Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan banguna Gedung
 
-#### 4.1.1.2.3. Jumlah Pengelolah  SMA/SMK/MA/Sederajat**
+#### 4.1.1.2.3. Jumlah Pengelolah SMA/SMK/MA/Sederajat**
 - Satuan : Unit
 - Definisi : Jumlah sekolah yang pengaturan kewenangan dalam penyelenggaraan sistem pendidikan nasional oleh Pemerintah, pemerintah provinsi, pemerintah kabupaten/kota, penyelenggara pendidikan yang didirikan masyarakat, dan satuan pendidikan agar proses pendidikan dapat berlangsung sesuai dengan tujuan pendidikan nasional untuk jenjang SMP sederajat
 - Sumber : PP No. 17 Tahun 2010: Pengelolaan Pendidikan
@@ -335,15 +335,15 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 
 #### 4.1.1.2.3.2. Swasta
 - Satuan : Unit
-- Definisi : Jumlah sekolah  yang didirikan dan diselenggarakan oleh orang-orang atau badan-badan swasta yang bersifat amal untuk jenjang SMA sederajat
+- Definisi : Jumlah sekolah yang didirikan dan diselenggarakan oleh orang-orang atau badan-badan swasta yang bersifat amal untuk jenjang SMA sederajat
 - Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 
 #### 4.1.1.2.4. Jumlah Ruang Kelas SMA/SMK/MA/Sederajat
 - Satuan : Ruang
-- Definisi : Jumlah ruang untuk pembelajaran teori dan praktek yang tidak memerlukan peralatan khusus  atau peralatan yang udah dihadirkan untuk jenjang sekolah SMA Sederajat
-- Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007  (lampiran)
+- Definisi : Jumlah ruang untuk pembelajaran teori dan praktek yang tidak memerlukan peralatan khusus atau peralatan yang udah dihadirkan untuk jenjang sekolah SMA Sederajat
+- Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007 (lampiran)
 
-#### 4.1.1.2.5. Jumlah Tenaga Pendidik SMA/SMK/MA/Sederajat **
+#### 4.1.1.2.5. Jumlah Tenaga Pendidik SMA/SMK/MA/Sederajat**
 - Satuan : Orang
 - Definisi : Jumlah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya untuk jenjang SMA sederajat
 - Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1)
@@ -351,39 +351,39 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 #### 4.1.1.2.5.1. Bersertifikat
 - Satuan : Orang
 - Definisi : Jumlah pendidik SMA/SMK/MA/Sederajat Bersertifikat adalah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan Pendidik SMA/SMK/MA/Sederajat diperoleh melalui program pendidikan profesi yang diselenggarakan oleh perguruan tinggi yang memiliki program pengadaan tenaga kependidikan yang terakreditasi, baik yang diselenggarakan oleh Pemerintah maupun Masyarakat, dan ditetapkan oleh Pemerintah.
-- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1),  Peraturan Pemerintah Republik Indonesia Nomor  74  Tahun  2008 Tentang Guru (Pasal 4) (Diolah)
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1), Peraturan Pemerintah Republik Indonesia Nomor 74 Tahun 2008 Tentang Guru (Pasal 4) (Diolah)
 
 #### 4.1.1.2.5.2. Tidak Bersertifikat
 - Satuan : Orang
-- Definisi : Jumlah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan Pendidik SMA/SMK/MA/Sederajat diperoleh tanpa melalui program pendidikan profesi yang diselenggarakan oleh perguruan tinggi yang memiliki program pengadaan tenaga kependidikan yang terakreditasi, baik yang diselenggarakan oleh Pemerintah maupun Masyarakat, dan ditetapkan oleh Pemerintah.  Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1),
-- Sumber : Peraturan Pemerintah Republik Indonesia Nomor  74  Tahun  2008 Tentang Guru (Pasal 4) (Diolah)
+- Definisi : Jumlah tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan Pendidik SMA/SMK/MA/Sederajat diperoleh tanpa melalui program pendidikan profesi yang diselenggarakan oleh perguruan tinggi yang memiliki program pengadaan tenaga kependidikan yang terakreditasi, baik yang diselenggarakan oleh Pemerintah maupun Masyarakat, dan ditetapkan oleh Pemerintah. Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 Tentang Sistem Pendidikan Nasional (Pasal 1),
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 74 Tahun 2008 Tentang Guru (Pasal 4) (Diolah)
 
 #### 4.1.1.2.6. Rasio Siswa Dengan Tenaga Pendidik
 - Satuan : Orang
-- Definisi : Angka yang merupakan hasil pembagian antara banyaknya murid dengan banyaknya guru. Rasio (perbandingan) minimal jumlah peserta didik terhadap gurunya untuk SMA atau yang sederajat 20:1;  untuk MA atau yang sederajat 15:1;  untuk SMK atau yang sederajat 15:1; dan untuk MAK atau yang sederajat 12:1.
-- Sumber : Peraturan Pemerintah Republik Indonesia Nomor  74  Tahun  2008 Tentang Guru (PASAL 17)
+- Definisi : Angka yang merupakan hasil pembagian antara banyaknya murid dengan banyaknya guru. Rasio (perbandingan) minimal jumlah peserta didik terhadap gurunya untuk SMA atau yang sederajat 20:1; untuk MA atau yang sederajat 15:1; untuk SMK atau yang sederajat 15:1; dan untuk MAK atau yang sederajat 12:1.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 74 Tahun 2008 Tentang Guru (PASAL 17)
 
-#### 4.1.1.2.7. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Laboratorium **
+#### 4.1.1.2.7. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Laboratorium**
 - Satuan : Unit
 - Definisi : Jumlah sekolah SMA/Sederajat yang memiliki ruang laboratorium biologi, laboratorium fisika, laboratorium fisika, labolatorium kimia, labolatorium komputer dan labolatorium bahasa
 - Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 TAHUN 2007 (lampiran)
 
 #### 4.1.1.2.7.1. Negeri
 - Satuan : Unit
-- Definisi : Jumlah sekolah SMA/Sederajat yang memiliki ruang laboratorium biologi, laboratorium fisika, laboratorium fisika, labolatorium kimia, labolatorium komputer dan labolatorium bahasa  yang kewenangannya pada pemerintah, pemerintah provinsi, pemerintah kabupaten/kota
+- Definisi : Jumlah sekolah SMA/Sederajat yang memiliki ruang laboratorium biologi, laboratorium fisika, laboratorium fisika, labolatorium kimia, labolatorium komputer dan labolatorium bahasa yang kewenangannya pada pemerintah, pemerintah provinsi, pemerintah kabupaten/kota
 - Sumber : Peraturan Pemerintah No. 17 Tahun 2010 dan Peraturan Menteri Pendidikan Nasional Nomor 24 TAHUN 2007 (lampiran) (diolah)
 
 #### 4.1.1.2.7.2. Swasta
 - Satuan : Unit
-- Definisi : Jumlah sekolah SMA/Sederajat yang memiliki ruang laboratorium biologi, laboratorium fisika, laboratorium fisika, labolatorium kimia, labolatorium komputer dan labolatorium bahasa  yang kewenangannya pada perorangan atau badan-badan swasta
+- Definisi : Jumlah sekolah SMA/Sederajat yang memiliki ruang laboratorium biologi, laboratorium fisika, laboratorium fisika, labolatorium kimia, labolatorium komputer dan labolatorium bahasa yang kewenangannya pada perorangan atau badan-badan swasta
 - Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)dan Peraturan Menteri Pendidikan Nasional Nomor 24 TAHUN 2007 (lampiran) (diolah)
 
-#### 4.1.1.2.8. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Komputer **
+#### 4.1.1.2.8. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Komputer**
 - Satuan : Unit
 - Definisi :
 - Sumber :
 
-#### 4.1.1.2.9. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Internet **
+#### 4.1.1.2.9. Jumlah Sekolah SMA/SMK/MA/Sederajat Memiliki Fasilitas Internet**
 - Satuan : Unit
 - Definisi : Jumlah sekolah SMA/SMK/MA/Sederajat yang memiliki fasilitas internet dalam proses ajar-mengajar
 - Sumber :
@@ -413,10 +413,10 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 - Definisi : Proporsi anak sekolah pada jenjang SMA terhadap penduduk pada kelompok usia terebut. Sejak tahun 2007 Pendidikan Non Formal ( Paket C) turut diperhitungkan.
 - Sumber : Badan Pusat Statistik Tahun 2003 (hits 1264)
 
-#### 4.1.1.2.13. Angka Partisipasi Sekolah  SMA/SMK/MA/Sederajat
+#### 4.1.1.2.13. Angka Partisipasi Sekolah SMA/SMK/MA/Sederajat
 - Satuan : %
 - Definisi : Proporsi dari semua anak yang masih sekolah pada suatu kelompok umur tertentu terhadap penduduk dengan kelompok umur yang sesuai. Dalam hal ini kelompok umur pada jenjang SMA. Sejak Tahun 2009, Pendidikan Non Formal (Paket C) turut diperhitungkan.
-- Sumber : Badan Pusat Statistik Tahun 2003  (hits 1132)
+- Sumber : Badan Pusat Statistik Tahun 2003 (hits 1132)
 
 #### 4.1.1.2.14. Jumlah Murid Putus Sekolah**
 - Satuan : Orang
@@ -440,7 +440,7 @@ Sumber : Peraturan Pemerintah Nomor 28 Tahun 1981 (Pasal 1)
 
 #### 4.1.1.2.15. Jumlah Perguruan Tinggi/Akademi/Sederajat**
 - Satuan : Unit
-- Definisi : Jumlah  satuan pendidikan yang menyelenggarakan Pendidikan Tinggi.
+- Definisi : Jumlah satuan pendidikan yang menyelenggarakan Pendidikan Tinggi.
 - Sumber : Undang-Undang RI No. 12 Tahun 2012 (Pasal 1)
 
 #### 4.1.1.2.15.1. Negeri
