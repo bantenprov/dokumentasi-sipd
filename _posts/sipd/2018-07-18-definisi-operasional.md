@@ -1757,11 +1757,42 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah kasus kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum dibidang laiinnya.
 - Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia Nomor 9 Tahun 2008 Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
 
-#### 4.1.5.II.2. Korban Unjuk Rasa*			
+#### 4.1.5.II.2. Korban Unjuk Rasa*
 #### 4.1.5.II.2.1. Korban Meninggal
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat unjuk rasa.	Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
+- Definisi : Jumlah orang atau sekelompok orang yang meninggal dunia akibat unjuk rasa.	Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah.
 #### 4.1.5.II.2.2. Korban Luka-Luka
 - Satuan : Orang
-- Definisi : Jumlah orang atau sekelompok orang yang  menderita / luka-luka akibat unjuk rasa.
-- Sumber : Undang-Undang Republik  Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+- Definisi : Jumlah orang atau sekelompok orang yang menderita / luka-luka akibat unjuk rasa.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana (pasal 1) diolah
+
+#### 4.1.5.II.3. Jumlah Pengungsi Akibat Unjuk Rasa
+- Satuan : Orang
+- Definisi : Jumlah orang/sekelompok orang yang atas dasar kemauan sendiri atau terpaksa, baik secara swadaya maupun dikoordinir pemerintah telah meninggalkan tempat kehidupan semula, karena terancam keselamatan dan keamanannya atau adanya rasa ketakutan sebagai akibat terjadinya unjuk rasa.
+- Sumber : Keputusan Menteri Dalam Negeri Nomor 131 Tahun 2003 Tentang Pedoman Penanggulangan Bencana Dan Penanganan Pengungsi Di Daerah (diolah)
+
+#### 4.1.5.II.4. Kerugian Material Akibat Unjuk Rasa
+- Satuan : Rp
+- Definisi : Jumlah kerugian material dalam rupiah akibat kegiatan yang dilakukan oleh seorang atau lebih untuk mengeluarkan pikiran dengan lisan, tulisan, dan sebagainya secara demonstratif di muka umum.
+- Sumber : Peraturan Kepala Kepolisian Negara Republik Indonesia  Nomor 9 Tahun 2008  Tentang Tata Cara Penyelenggaraan Pelayanan, Pengamanan Dan Penanganan Perkara Penyampaian Pendapat Di Muka Umum (diolah)
+
+#### 4.1.5.II.5. Sengketa Pengusaha dan Pekerja*			
+#### 4.1.5.II.5.1. Jumlah Sengketa Pengusaha dan Pekerja**
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.5.1.1. Jumlah Sengketa Terselesaikan
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.5.1.2. Jumlah Sengketa Belum Terselesaikan
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.5.II.5.2. Kasus Pemogokan Kerja
+- Satuan : Kasus
+- Definisi :
+- Sumber :
