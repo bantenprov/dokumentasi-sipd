@@ -2400,3 +2400,23 @@ Definisi : Kawasan	Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah rumah tangga miskin yang kepemilikan rumahnya berstatus bebas sewa/kontrak
 - Sumber :
 
+#### 4.1.6.I.4.6. Rumah Tangga Miskin Mengkonsumsi Air Minum*			
+#### 4.1.6.I.4.6.1. Air Kemasan**
+- Satuan : Rumah Tangga
+- Definisi : air yang diproduksi dan didistribusikan oleh suatu perusahaan dalam kemasan botol (500 ml, 600 ml, 1 liter, 12 liter, atau 19 liter) dan kemasan gelas; misalnya air kemasan merk Aqua, Moya, 2Tang, VIT
+- Sumber : Badan Pusat Statistik
+
+#### 4.1.6.I.4.6.2. Air Ledeng**
+- Satuan : Rumah Tangga
+- Definisi : air yang diproduksi melalui proses penjernihan dan penyehatan sebelum dialirkan kepada konsumen melalui suatu instalasi berupa saluran air. Sumber air ini diusahakan oleh PAM (Perusahaan Air Minum), PDAM (Perusahaan Daerah Air Minum), atau BPAM (Badan Pengelola Air Minum), baik dikelola oleh pemerintah maupun swasta
+- Sumber : Badan Pusat Statistik
+
+#### 4.1.6.I.4.6.3. Sumber Air Terlindung** / Mata air telindung
+- Satuan : Rumah Tangga
+- Definisi : Sumber air yang terlindung dari air bekas pakai, bekas mandi, mencuci, atau lainnya
+- Sumber : Badan Pusat Statistik (diolah)
+
+#### 4.1.6.I.4.6.4. Sumber Air Tidak Terlindung** /mata air tidak terlindung
+- Satuan : Rumah Tangga
+- Definisi : Sumber air yang tidak terlindung dari air bekas pakai, bekas mandi, mencuci, atau lainnya
+- Sumber : Badan Pusat Statistik (diolah)
