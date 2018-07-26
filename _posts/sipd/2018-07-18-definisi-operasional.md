@@ -1406,3 +1406,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 - Satuan : Unit
 - Definisi :
 - Sumber :
+
+## 4.1.4. Perumahan dan Kawasan Permukiman
+### 4.1.4.I. Perumahan*
+
