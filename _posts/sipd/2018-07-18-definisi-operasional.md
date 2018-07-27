@@ -3178,3 +3178,38 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah sarana ibadah klenteng
 - Sumber ;
 
+#### 4.1.6.VIII. Kasus Sosial*
+#### 4.1.6.VIII.1. Jumlah Kasus Narkoba
+- Satuan : Kasus
+- Definisi : Jumlah kasus penyalahgunaan zat atau obat yang berasal dari tanaman atau bukan tanaman, baik sintetis maupun semisintetis, yang dapat menyebabkan penurunan atau perubahan kesadaran, hilangnya rasa, mengurangi sampai menghilangkan rasa nyeri, dan dapat menimbulkan ketergantungan.
+- Sumber ; Undang-Undang Republik Indonesia Nomor  35  Tahun  2009  Tentang Narkotika (diolah)
+
+#### 4.1.6.VIII.2. Jumlah Kasus Pembunuhan
+- Satuan : Kasus
+- Definisi : Jumlah kasus menghilangkan nyawa orang lain
+- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 338 (Diolah)
+
+#### 4.1.6.VIII.3. Jumlah Kasus Seksual
+- Satuan : Kasus
+- Definisi : Jumlah kasus kekerasan seksual ataupun pelecehan seksual
+- Sumber ;
+
+#### 4.1.6.VIII.4. Jumlah Kasus Penganiayaan
+- Satuan : Kasus
+- Definisi : Jumlah kasus dengan sengaja menyebabkan sakit atau luka pada orang lain., akan tetapi suatu perbuatan itu tidak dapat dikatakan penganiayaan apabila perbuatan itu dilakukan untuk menambah keselamatan badan
+- Sumber ;
+
+#### 4.1.6.VIII.5. Jumlah Kasus Pencurian
+- Satuan : Kasus
+- Definisi : Jumlah kasus mengambil suatu benda yang seluruhnya atau sebagian milik orang lain
+- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 362 (Diolah)
+
+#### 4.1.6.VIII.6. Jumlah Kasus Penipuan
+- Satuan : Kasus
+- Definisi : Jumlah kasus menguntungkan diri sendiri atau orang lain dengan melawan hukum, baik menggunakan nama palsu atau keadaan palsu, maupun dengan tipu daya, ataupun dengan rangkaian perkataan-perkataan bohong, membujuk orang supaya menyerahkan barang atau supaya membuat utang atau menghapus piutang.
+- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 378 (Diolah)
+
+#### 4.1.6.VIII.7. Jumlah Kasus Pemalsuan Uang
+- Satuan : Kasus
+- Definisi : Jumlah kasus perbuatan melawan hukum yang dilakukan dengan membuat dan menyimpan uang rupiah palsu, seolah-olah uang tersebut benar atau asli adanya
+- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 244 (Diolah)
