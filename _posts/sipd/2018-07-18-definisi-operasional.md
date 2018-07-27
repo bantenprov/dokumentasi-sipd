@@ -3297,3 +3297,52 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 
 #### 4.1.7. Tenaga Kerja
 #### 4.1.7.I. Tenaga Kerja Berdasarkan Lapangan Pekerjaan*
+#### 4.1.7.I.1. Jumlah Tenaga Kerja Di Bidang Pertanian, Kehutanan, Perkebunan dan Perikanan
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang pertanian, kehutanan, perkebunan dan perikanan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.2. Jumlah Tenaga Kerja Di Bidang Pertambangan dan Penggalian
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Pertambangan dan Penggalian.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.3. Jumlah Tenaga Kerja Di Bidang Industri Pengolahan
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Industri Pengolahan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.4. Jumlah Tenaga Kerja Di Bidang Listrik, Gas dan Air
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Listrik, Gas dan Air.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.5. Jumlah Tenaga Kerja Di Bidang Bangunan
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang bangunan
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.6. Jumlah Tenaga Kerja Di Bidang Perdagangan Besar, Eceran, Rumah Tangga dan Hotel
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Perdagangan Besar, Eceran, Rumah Tangga dan Hotel
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.7. Jumlah Tenaga Kerja Di Bidang Angkutan, Pergudangan dan Komunikasi
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Angkutan, Pergudangan dan Komunikasi.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.8. Jumlah Tenaga Kerja Di Bidang Keuangan, Asuransi, Usaha Sewa Bangunan, Tanah dan Jasa Perusahaan
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Keuangan, Asuransi, Usaha Sewa Bangunan, Tanah dan Jasa Perusahaan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.9. Jumlah Tenaga Kerja Di Bidang Jasa Kemasyarakatan
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Jasa Kemasyarakatan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.I.10. Jumlah Tenaga Kerja Di Bidang Lainya
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Di Bidang Lainya.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
