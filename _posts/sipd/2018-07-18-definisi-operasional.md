@@ -3127,3 +3127,54 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Definisi : Jumlah kelompok yang dibina oleh lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK.
 - Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) diolah
 
+#### 4.1.6.VII. Sarana Ibadah*
+#### 4.1.6.VII.1. Masjid**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah mesjid
+- Sumber ;
+
+#### 4.1.6.VII.2. Langgar/Mushola**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah langgar/mushola
+- Sumber ;
+
+#### 4.1.6.VII.3. Surau**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah surau
+- Sumber ;
+
+#### 4.1.6.VII.4. Gereja Kristen**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah gereja kristen
+- Sumber ;
+
+#### 4.1.6.VII.5. Gereja Katolik**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah gereja katolik
+- Sumber ;
+
+#### 4.1.6.VII.6. Kapel**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah kapel
+- Sumber ;
+
+#### 4.1.6.VII.7. Pura**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah pura
+- Sumber ;
+
+#### 4.1.6.VII.8. Kuil**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah kuil
+- Sumber ;
+
+#### 4.1.6.VII.9. Vihara**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah vihara
+- Sumber ;
+
+#### 4.1.6.VII.10. Klenteng**
+- Satuan : Buah
+- Definisi : Jumlah sarana ibadah klenteng
+- Sumber ;
+
