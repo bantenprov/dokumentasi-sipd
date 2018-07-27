@@ -3077,13 +3077,13 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.3.3. Jumlah Pekerja Sosial Profesional
 - Satuan : Orang
-- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang  memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja di pusat rehabilitasi narkoba.
-- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
+- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja di pusat rehabilitasi narkoba.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
 #### 4.1.6.V.3.4. Jumlah Tenaga Kesejahteraan Sosial
 - Satuan : Orang
-- Definisi : Jumlah orang  yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial di pusat rehabilitasi narkoba.
-- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
+- Definisi : Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial di pusat rehabilitasi narkoba.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
 #### 4.1.6.V.4. Rumah Singgah*
 #### 4.1.6.V.4.1. Jumlah Rumah Singgah
@@ -3093,17 +3093,37 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 
 #### 4.1.6.V.4.2. Jumlah Penghuni
 - Satuan : Orang
-- Definisi : jumlah penghuni ditempat  penampungan sementara anak jalanan sebagai wahana pelayanan kesejahteraan sosial
+- Definisi : jumlah penghuni ditempat penampungan sementara anak jalanan sebagai wahana pelayanan kesejahteraan sosial
 - Sumber : Glosarium Kementerian Sosial RI (Diolah)
 
 #### 4.1.6.V.4.3. Jumlah Pekerja Sosial Profesional
 - Satuan : Orang
-- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang  memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja dirumah singgah.
-- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
+- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja dirumah singgah.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
 #### 4.1.6.V.4.4. Jumlah Tenaga Kesejahteraan Sosial
 - Satuan : Orang
-- Definisi : Jumlah orang  yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dirumah singgah.
-- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor  :   108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan  Tenaga Kesejahteraan Sosial (pasal 1)
+- Definisi : Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dirumah singgah.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
 
+#### 4.1.6.VI. Pembinaan Kesejahteraan Keluarga*
+#### 4.1.6.VI.1. Jumlah PKK**
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.6.VI.1.1. Jumlah PKK Aktif**
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK dan aktif mengikuti kegiatan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+
+#### 4.1.6.VI.1.2. Jumlah PKK Tidak Aktif**
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK dan tidak aktif mengikuti kegiatan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+
+#### 4.1.6.VI.2. Jumlah Kelompok Binaan PKK**
+- Satuan : Kelompok
+- Definisi : Jumlah kelompok yang dibina oleh lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) diolah
 
