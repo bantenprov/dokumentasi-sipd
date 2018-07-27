@@ -2938,3 +2938,24 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Orang
 - Definisi : Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dipanti sosial bina laras.
 - Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.9. Panti Sosial Bina Rungu Wicara*
+#### 4.1.6.V.9.1. Jumlah Panti
+- Satuan : Unit
+- Definisi : Jumlah panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat kuratif, rehabilitatif, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi penyandang tuna rungu wicara agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan, pemberian informasi dan rujukan.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 16)
+
+#### 4.1.6.V.9.2. Jumlah Penghuni
+- Satuan : Orang
+- Definisi : Jumlah penghuni panti sosial yang mempunyai tugas memberikan bimbingan, pelayanan dan rehabilitasi sosial yang bersifat kuratif, rehabilitatif, promotif dalam bentuk bimbingan pengetahuan dasar pendidikan, fisik, mental, sosial, pelatihan keterampilan, resosialisasi bimbingan lanjut bagi penyandang tuna rungu wicara agar mampu mandiri dan berperan aktif dalam kehidupan bermasyarakat serta pengkajian dan penyiapan standar pelayanan, pemberian informasi dan rujukan.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 106 / HUK / 2009 (Pasal 16)
+
+#### 4.1.6.V.9.3. Jumlah Pekerja Sosial Profesional
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja, baik di lembaga pemerintah maupun swasta yang memiliki kompetensi dan profesi pekerjaan sosial, dan kepedulian dalam pekerjaan sosial yang diperoleh melalui pendidikan, pelatihan, dan/atau pengalaman praktik pekerjaan sosial untuk melaksanakan tugastugas pelayanan dan penanganan masalah sosial di panti sosial bina remaja dipanti sosial bina rungu wicara.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
+
+#### 4.1.6.V.9.4. Jumlah Tenaga Kesejahteraan Sosial
+- Satuan : Orang
+- Definisi : Jumlah orang yang dididik dan dilatih secara profesional untuk melaksanakan tugas-tugas pelayanan dan penanganan masalah sosial dan/atau seseorang yang bekerja, baik di lembaga pemerintah maupun swasta yang ruang lingkup kegiatannya di bidang kesejahteraan sosial dipanti sosial bina rungu wicara.
+- Sumber : Peraturan Menteri Sosial Republik Indonesia Nomor : 108 / HUK / 2009 Tentang Sertifikasi Bagi Pekerja Sosial Profesional Dan Tenaga Kesejahteraan Sosial (pasal 1)
