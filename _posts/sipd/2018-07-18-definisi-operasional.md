@@ -3284,3 +3284,13 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila pendapatan naik maka konsumsi rumah tangga juga akan naik dan sebaliknya.
 - Sumber :
 
+#### 4.1.6.XII. Jumlah Dan Luas Taman Makam Pahlawan*
+#### 4.1.6.XII.1. Jumlah TMP
+- Satuan : Unit
+- Definisi : Jumlah pekuburan yang  dikhususkan bagi mereka yang telah berjasa kepada negara kesatuan Republik Indonesia, termasuk para pahlawan nasional, anggota militer, dan pejabat tinggi.
+- Sumber : Peraturan  Menteri Sosial Republik Indonesia Nomor  23  Tahun   2014  Tentang  Standar Pengelolaan Taman Makam Pahlawan Nasional  Dan Makam Pahlawan Nasional (diolah)
+
+#### 4.1.6.XII.2. Luas TMP
+- Satuan : Ha
+- Definisi : luas pekuburan yang  dikhususkan bagi mereka yang telah berjasa kepada negara kesatuan Republik Indonesia, termasuk para pahlawan nasional, anggota militer, dan pejabat tinggi.
+- Sumber : Peraturan  Menteri Sosial Republik Indonesia Nomor  23  Tahun   2014  Tentang  Standar Pengelolaan Taman Makam Pahlawan Nasional  Dan Makam Pahlawan Nasional (diolah)
