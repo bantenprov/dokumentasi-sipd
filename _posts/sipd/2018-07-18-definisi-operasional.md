@@ -3346,3 +3346,20 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 - Satuan : Orang
 - Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang Di Bidang Lainya.
 - Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 (pasal 1)
+
+#### 4.1.7.II. Angkatan Kerja*
+#### 4.1.7.II.1. Jumlah Angkatan Kerja**
+- Satuan : Orang
+- Definisi : Jumlah Penduduk usia kerja (15 tahun dan lebih) yang bekerja, atau punya pekerjaan namun sementara tidak bekerja dan pengangguran. Digunakan untuk mengetahui jumlah penduduk yang berpotensi untuk bekerja.
+- Sumber : Badan Pusat Statistik
+
+#### 4.1.7.II.1.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah Penduduk laki-laki usia kerja (15 tahun dan lebih) yang bekerja, atau punya pekerjaan namun sementara tidak bekerja dan pengangguran.
+- Sumber : Badan Pusat Statistik
+
+#### 4.1.7.II.1.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah Penduduk perempuan usia kerja (15 tahun dan lebih) yang bekerja, atau punya pekerjaan namun sementara tidak bekerja dan pengangguran.
+- Sumber : Badan Pusat Statistik
+
