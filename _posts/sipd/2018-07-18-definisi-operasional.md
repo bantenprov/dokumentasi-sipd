@@ -3213,3 +3213,56 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 - Satuan : Kasus
 - Definisi : Jumlah kasus perbuatan melawan hukum yang dilakukan dengan membuat dan menyimpan uang rupiah palsu, seolah-olah uang tersebut benar atau asli adanya
 - Sumber ; Kitab Undang-undang Hukum Pidana Pasal 244 (Diolah)
+
+#### 4.1.6.IX. Angka Harapan Hidup
+- Satuan : Tahun
+- Definisi : Rata-rata tahun hidup yang masih akan dijalani oleh seseorang yang telah berhasil mencapai umur x, pada suatu tahun tertentu, dalam situasi mortalitas yang berlaku di lingkngan masyarakatnya.
+- Sumber : Badan Pusat Statistik
+
+#### 4.1.6.IX.1. Jumlah Orang Meninggal**
+- Satuan : Orang
+- Definisi : Jumlah orang yang meninggal
+
+#### 4.1.6.IX.2. Jumlah Usia Orang Meninggal**
+- Satuan : Orang
+- Definisi :
+
+#### 4.1.6.IX.2.1. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) < 100.000**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran <100.000 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.2. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 100.000-149.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 100.000-149.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.3. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 150.000-199.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 150.000-199.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.4. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 200.000-299.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 200.000-299.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.5. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 300.000-499.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 300.000-499.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.6. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 500.000-749.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 500.000-749.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.7. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 750.000-999.999**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 750.000-999.999 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.IX.2.8. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) ≥1.000.000**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia dan  orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran ≥1.000.000 (Rp/Kapita/Bulan)
+- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
