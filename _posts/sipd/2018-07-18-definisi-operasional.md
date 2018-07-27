@@ -3295,8 +3295,8 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 - Definisi : luas pekuburan yang  dikhususkan bagi mereka yang telah berjasa kepada negara kesatuan Republik Indonesia, termasuk para pahlawan nasional, anggota militer, dan pejabat tinggi.
 - Sumber : Peraturan  Menteri Sosial Republik Indonesia Nomor  23  Tahun   2014  Tentang  Standar Pengelolaan Taman Makam Pahlawan Nasional  Dan Makam Pahlawan Nasional (diolah)
 
-#### 4.1.7. Tenaga Kerja
-#### 4.1.7.I. Tenaga Kerja Berdasarkan Lapangan Pekerjaan*
+## 4.1.7. Tenaga Kerja
+### 4.1.7.I. Tenaga Kerja Berdasarkan Lapangan Pekerjaan*
 #### 4.1.7.I.1. Jumlah Tenaga Kerja Di Bidang Pertanian, Kehutanan, Perkebunan dan Perikanan
 - Satuan : Orang
 - Definisi : Jumlah setiap orang yang mampu melakukan pekerjaan guna menghasilkan barang dan/atau jasa baik untuk memenuhi kebutuhan sendiri maupun untuk masyarakat dibidang pertanian, kehutanan, perkebunan dan perikanan.
@@ -3362,4 +3362,44 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 - Satuan : Orang
 - Definisi : Jumlah Penduduk perempuan usia kerja (15 tahun dan lebih) yang bekerja, atau punya pekerjaan namun sementara tidak bekerja dan pengangguran.
 - Sumber : Badan Pusat Statistik
+
+#### 4.1.7.II.2. Pekerja Berdasarkan Tingkat Pendidikan*
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain berdasarkan tingkat pendidikan
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.1. Jumlah Pekerja Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain yang tidak bersekolah.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.2.  Jumlah Pekerja Tamatan  SD dan Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah  setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan SD dan sederajat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.3.  Jumlah Pekerja Tamatan SMP dan Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan SMP dan sederajat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.4.  Jumlah Pekerja Tamatan SMA dan Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan SMA dan sederajat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.5.  Jumlah Pekerja Tamatan Diploma I/II/III**
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan Diploma I/II/III	Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.6.  Jumlah Pekerja Tamatan S1**
+- Satuan : Orang
+- Definisi : Jumlah setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan S1
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
+#### 4.1.7.II.2.7.  Jumlah Pekerja Tamatan S2**
+- Satuan : Orang
+- Definisi : Jumlah  setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan S2
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
+
 
