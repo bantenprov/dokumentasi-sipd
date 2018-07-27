@@ -3294,3 +3294,6 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 - Satuan : Ha
 - Definisi : luas pekuburan yang  dikhususkan bagi mereka yang telah berjasa kepada negara kesatuan Republik Indonesia, termasuk para pahlawan nasional, anggota militer, dan pejabat tinggi.
 - Sumber : Peraturan  Menteri Sosial Republik Indonesia Nomor  23  Tahun   2014  Tentang  Standar Pengelolaan Taman Makam Pahlawan Nasional  Dan Makam Pahlawan Nasional (diolah)
+
+#### 4.1.7. Tenaga Kerja
+#### 4.1.7.I. Tenaga Kerja Berdasarkan Lapangan Pekerjaan*
