@@ -3131,88 +3131,88 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.6.VII.1. Masjid**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah mesjid
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.2. Langgar/Mushola**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah langgar/mushola
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.3. Surau**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah surau
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.4. Gereja Kristen**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah gereja kristen
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.5. Gereja Katolik**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah gereja katolik
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.6. Kapel**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah kapel
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.7. Pura**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah pura
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.8. Kuil**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah kuil
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.9. Vihara**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah vihara
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VII.10. Klenteng**
 - Satuan : Buah
 - Definisi : Jumlah sarana ibadah klenteng
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VIII. Kasus Sosial*
 #### 4.1.6.VIII.1. Jumlah Kasus Narkoba
 - Satuan : Kasus
 - Definisi : Jumlah kasus penyalahgunaan zat atau obat yang berasal dari tanaman atau bukan tanaman, baik sintetis maupun semisintetis, yang dapat menyebabkan penurunan atau perubahan kesadaran, hilangnya rasa, mengurangi sampai menghilangkan rasa nyeri, dan dapat menimbulkan ketergantungan.
-- Sumber ; Undang-Undang Republik Indonesia Nomor  35  Tahun  2009  Tentang Narkotika (diolah)
+- Sumber : Undang-Undang Republik Indonesia Nomor  35  Tahun  2009  Tentang Narkotika (diolah)
 
 #### 4.1.6.VIII.2. Jumlah Kasus Pembunuhan
 - Satuan : Kasus
 - Definisi : Jumlah kasus menghilangkan nyawa orang lain
-- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 338 (Diolah)
+- Sumber : Kitab Undang-undang Hukum Pidana Pasal 338 (Diolah)
 
 #### 4.1.6.VIII.3. Jumlah Kasus Seksual
 - Satuan : Kasus
 - Definisi : Jumlah kasus kekerasan seksual ataupun pelecehan seksual
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VIII.4. Jumlah Kasus Penganiayaan
 - Satuan : Kasus
 - Definisi : Jumlah kasus dengan sengaja menyebabkan sakit atau luka pada orang lain., akan tetapi suatu perbuatan itu tidak dapat dikatakan penganiayaan apabila perbuatan itu dilakukan untuk menambah keselamatan badan
-- Sumber ;
+- Sumber :
 
 #### 4.1.6.VIII.5. Jumlah Kasus Pencurian
 - Satuan : Kasus
 - Definisi : Jumlah kasus mengambil suatu benda yang seluruhnya atau sebagian milik orang lain
-- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 362 (Diolah)
+- Sumber : Kitab Undang-undang Hukum Pidana Pasal 362 (Diolah)
 
 #### 4.1.6.VIII.6. Jumlah Kasus Penipuan
 - Satuan : Kasus
 - Definisi : Jumlah kasus menguntungkan diri sendiri atau orang lain dengan melawan hukum, baik menggunakan nama palsu atau keadaan palsu, maupun dengan tipu daya, ataupun dengan rangkaian perkataan-perkataan bohong, membujuk orang supaya menyerahkan barang atau supaya membuat utang atau menghapus piutang.
-- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 378 (Diolah)
+- Sumber : Kitab Undang-undang Hukum Pidana Pasal 378 (Diolah)
 
 #### 4.1.6.VIII.7. Jumlah Kasus Pemalsuan Uang
 - Satuan : Kasus
 - Definisi : Jumlah kasus perbuatan melawan hukum yang dilakukan dengan membuat dan menyimpan uang rupiah palsu, seolah-olah uang tersebut benar atau asli adanya
-- Sumber ; Kitab Undang-undang Hukum Pidana Pasal 244 (Diolah)
+- Sumber : Kitab Undang-undang Hukum Pidana Pasal 244 (Diolah)
 
 #### 4.1.6.IX. Angka Harapan Hidup
 - Satuan : Tahun
@@ -3230,39 +3230,57 @@ Definisi : Kawasan Jumlah permukiman yang tidak layak huni karena ketidakteratur
 #### 4.1.6.IX.2.1. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) < 100.000**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran <100.000 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.2. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 100.000-149.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 100.000-149.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.3. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 150.000-199.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 150.000-199.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.4. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 200.000-299.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 200.000-299.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.5. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 300.000-499.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 300.000-499.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.6. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 500.000-749.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 500.000-749.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.7. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) 750.000-999.999**
 - Satuan : Orang
 - Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran 750.000-999.999 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
 
 #### 4.1.6.IX.2.8. Jumlah Penduduk Dengan Pengeluaran (Rp/Kapita/Bulan) ≥1.000.000**
 - Satuan : Orang
 - Definisi : Jumlah warga negara indonesia dan  orang Asing yang bertempat tinggal di Indonesia dengan pengeluaran ≥1.000.000 (Rp/Kapita/Bulan)
-- Sumber ; Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.6.XI. Rata-Rata Pengeluaran Rumah Tangga*
+#### 4.1.6.XI.1. Pengeluaran Konsumsi Pangan Rumah Tangga Per Kapita**
+- Satuan : Rp
+- Definisi : Rata-rata nilai belanja yang dilakukan oleh rumah tangga untuk konsumsi pangan dalam satu tahun tertentu.
+- Sumber : https://www.slideshare.net/cvrhmat/studi-perbandingan-pola-konsumsi-pangan-dan-non-pangan-rumah-tangga-kaya-dan-miskin-di-kota-makassar-43445627
+
+#### 4.1.6.XI.2. Pengeluaran Konsumsi Non Pangan Rumah Tangga Per Kapita**
+- Satuan : Rp
+- Definisi : Rata-rata nilai belanja yang dilakukan oleh rumah tangga untuk konsumsi non pangan dalam satu tahun tertentu.
+- Sumber : https://www.slideshare.net/cvrhmat/studi-perbandingan-pola-konsumsi-pangan-dan-non-pangan-rumah-tangga-kaya-dan-miskin-di-kota-makassar-43445627
+
+#### 4.1.6.XI.3. Persentase Pengeluaran Konsumsi Rumah Tangga Per Kapita Terhadap PDRB
+- Satuan : %
+- Definisi : Persentase indikator pengeluaran konsumsi rumah tangga perkapita dimaksudkan untuk mengetahui tingkat konsumsi rumah tangga yang menjelaskan seberapa atraktif tingkat pengeluaran rumah tangga terhadap Besar PDRB.
+PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila pendapatan naik maka konsumsi rumah tangga juga akan naik dan sebaliknya.
+- Sumber :
+
