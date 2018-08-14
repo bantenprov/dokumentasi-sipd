@@ -3401,5 +3401,3 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 - Satuan : Orang
 - Definisi : Jumlah  setiap orang yang bekerja dengan menerima gaji, upah atau imbalan dalam bentuk lain tamatan S2
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 78 Tahun 2015  Tentang Pengupahan  (Diolah)
-
-
