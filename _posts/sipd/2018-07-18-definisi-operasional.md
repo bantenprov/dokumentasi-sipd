@@ -1216,6 +1216,7 @@ Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
 - Definisi : Jenis Permukaan :PM (Pemeliharaan Berkala) setelah pemakaian 2 tahun, Latasbum lama atau PM (Pemeliharaan Berkala) lama, Latasbum Lama, Batu Kerikil.
 Kondisi Lapangan : Agak rusak, kadang – kadang ada lubang, permukaan tidak rata atau rusak bergelombang, banyak lubang.
 - Sumber : Permen PU Nomor 13/PRT/M/2011 tentang Tata Cara Pemeliharaan dan Penilikan Jalan
+
 #### 4.1.3.I.1.4.5.4. Kondisi Rusak Berat
 - Satuan : Km
 - Definisi : Jenis Permukaan :
@@ -1258,7 +1259,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 #### 4.1.3.I.2.2.1. Di Aspal
 - Satuan : Km
 - Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan aspal.
-- Definisi : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2.2. Di Beton
 - Satuan : Km
@@ -1267,11 +1268,13 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.3.I.2.2.3. Kerikil
 - Satuan : Km
-- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan kerikil. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan kerikil. 
+-Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2.4. Tanah
 - Satuan : Km
-- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tanah. Undang-undang Nomor 38 Tahun 2004 tentang Jalan
+- Definisi : Panjang jalan kolektor dalam sistem jaringan jalan primer yang menghubungkan ibukota provinsi dengan ibukota kabupaten/kota, atau antaribukota kabupaten/kota, dan jalan strategis provinsi dengan jenis permukaan/perkerasan tanah. 
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan
 
 #### 4.1.3.I.2.2.5. Tidak Terinci
 - Satuan : Km
@@ -1291,7 +1294,7 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 #### 4.1.3.I.2.3.2. Di Beton
 - Satuan : Km
 - Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan beton.
-- Definisi : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
 
 #### 4.1.3.I.2.3.3. Kerikil
 - Satuan : Km
@@ -1300,7 +1303,8 @@ Kondisi Lapangan : Rusak berat, banyak lubang dan seluruh daerah permukaan bahka
 
 #### 4.1.3.I.2.3.4. Tanah
 - Satuan : Km
-- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan tanah. Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
+- Definisi : Panjang jalan lokal dalam sistem jaringan jalan primer yang menghubungkan ibukota kabupaten dengan ibukota kecamatan, antaribukota kecamatan, ibukota kabupaten dengan pusat kegiatan lokal, antarpusat kegiatan lokal, serta jalan umum dalam sistem jaringan jalan sekunder dalam wilayah kabupaten, dan jalan strategis kabupaten dengan jenis permukaan/perkerasan tanah. 
+- Sumber : Undang-undang Nomor 38 Tahun 2004 tentang Jalan (diolah)
 
 #### 4.1.3.I.2.3.5. Tidak Terinci
 - Satuan : Km
@@ -3298,6 +3302,3201 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 |------------------------------------------------|
 |------------------------------------------------|
 
+## 4.1.8. Pemberdayaan Perempuan dan Perlindungan Anak
+### 4.1.8.I. Pemberdayaan Perempuan dan Anak*			
+#### 4.1.8.I.1. Jumlah Pemberdayaan Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah total perempuan yang bekerja pada bidang politik, hukum, sosial dan ekonomi
+- Sumber :
+
+#### 4.1.8.I.1.1. Jumlah Pemberdayaan Perempuan Bidang Politik
+- Satuan : Orang
+- Definisi : Jumlah total perempuan yang bekerja pada bidang  politik
+- Sumber :
+
+#### 4.1.8.I.1.2. Jumlah Pemberdayaan Perempuan Bidang Hukum
+- Satuan : Orang
+- Definisi : Jumlah total perempuan yang bekerja pada bidang  hukum
+- Sumber :
+
+#### 4.1.8.I.1.3. Jumlah Pemberdayaan Perempuan Bidang Sosial
+- Satuan : Orang
+- Definisi : Jumlah total perempuan yang bekerja pada bidang  sosial	
+#### 4.1.8.I.1.4. Jumlah Pemberdayaan Perempuan Bidang Ekonomi
+- Sumber :
+
+- Satuan : Orang
+- Definisi : Jumlah total perempuan yang bekerja pada bidang  ekonomi
+- Sumber :
+
+#### 4.1.8.I.2. Jumlah Perangkat Daerah Sudah Menerapkan PUG
+- Satuan : Unit	
+- Definisi : Jumlah Perangkat daerah yang sudah mereraplan strategi yang dibangun untuk mengintegrasikan gender menjadi satu dimensi integral dari perencanaan, penyusunan, pelaksanaan, pemantauan, dan evaluasi atas kebijakan, program, dan kegiatan pembangunan di daerah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 15 Tahun 2008 Tentang Pedoman Umum Pelaksanaan Pengarusutamaan gender di daerah (diolah)
+
+#### 4.1.8.I.3. Jumlah Pekerja Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang berjenis kelamin perempuan yang bekerja dengan menerima upah atau imbalan dalam bentuk lain.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 tentang Ketenagakerjaan (pasal 1) diolah
+
+#### 4.1.8.I.3.1. Jumlah Pekerja Perempuan Pada Lembaga Pemerintah**
+- Satuan : Orang
+- Definisi : Jumlah orang berjenis kelamin perempuan yang bekerja dengan menerima upah atau imbalan dalam bentuk lain pada lembaga pemerintah.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 tentang Ketenagakerjaan (pasal 1) diolah
+                
+#### 4.1.8.I.3.2. Jumlah Pekerja Perempuan Pada Lembaga Non Pemerintahan**
+- Satuan : Orang
+- Definisi : Jumlah orang berjenis kelamin perempuan yang bekerja dengan menerima upah atau imbalan dalam bentuk lain pada lembaga non pemerintahan. 
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 tentang Ketenagakerjaan (pasal 1) diolah
+                
+#### 4.1.8.I.4. Jumlah Perempuan Sebagai Kepala Keluarga**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan yang memikul tanggungjawab tunggal menghidupi keluarganya.
+- Sumber : Jurnal Muwazah , Vol. 5, No. 2, Desember 2013 (menyibak perempuan kepala keluarga)
+          
+#### 4.1.8.I.5. Jumlah Pekerja Anak**
+- Satuan : Orang
+- Definisi : Jumlah orang yang berumur dibawah 18 (delapan belas) tahun  yang bekerja dengan menerima upah atau imbalan dalam bentuk lain pada lembaga non pemerintahan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 13 Tahun 2003 tentang Ketenagakerjaan (pasal 1) diolah
+          
+### 4.1.8.II. Perlindungan Perempuan dan Anak*			
+#### 4.1.8.II.1. Perempuan dan Anak Berhadapan Dengan Hukum* 			
+#### 4.1.8.II.1.1. Jumlah Perempuan Berhadapan Dengan Hukum**
+- Satuan : Orang
+- Definisi :Perempuan yang berkonflik dengan hukum, perempuan sebagai korban, perempuan sebagai saksi atau perempuan sebagai pihak
+- Sumber : Peraturan Mahkamah Agung Republik Indonesia Nomor 3 Tahun 2017 Tentang Mengadili Perkara Perempuan Berhadapan Dengan Hukum
+
+#### 4.1.8.II.1.1.1. Jumlah Perempuan Sebagai Pelaku**
+- Satuan : Orang
+- Definisi :Jumlah perempuan yang melakukan, yang menyuruh lakukan dan turut serta melakukan perbuatan atau mereka yang dengan memberi atau menjanjikan sesuatu, dengan menyalahgunakan kekuasaan atau martabat, dengan kekerasan, ancaman atau penyesatan, atau dengan memberi kesempatan, sarana atau keterangan, sengaja menganjurkan orang lain supaya melakukan perbuatan.
+- Sumber : Undang-Undang Hukum Pidana (pasal 55) diolah
+                     
+#### 4.1.8.II.1.1.2. Jumlah Perempuan Sebagai Korban**
+- Satuan : Orang
+- Definisi :Jumlah orang perempuan yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang diakibatkan oleh suatu tindak pidana.
+- Sumber : Undang-Undang Republik Indonesia Nomor  13  Tahun  2006 Tentang Perlindungan Saksi Dan Korban (pasal 1)
+                     
+#### 4.1.8.II.1.2. Jumlah Anak Berhadapan Dengan Hukum**
+- Satuan : Orang
+- Definisi :Anak yang berkonflik dengan hukum dan anak korban tindak pidana.
+- Sumber : Kepolisian Negara Republik Indonesia, Menteri Hukum Dan Ham Republik Indonesia, Menteri Sosial Republik Indonesia, Dan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak Republik Indonesia Nomor : 166 A/Kma/Skb/Xii/2009 Nomor : 148 A/A/Ja/12/2009 Nomor : B/45/Xii/2009 Nomor : M.Hh-08 Hm.03.02 Tahun 2009 Nomor : 10/Prs-2/Kpts/2009 Nomor : 02/Men.Pp Dan Pa/Xii/2009 Tentang Penanganan Anak Yang Berhadapan Dengan Hukum
+
+#### 4.1.8.II.1.2.1. Jumlah Anak Sebagai Pelaku**
+- Satuan : Orang
+- Definisi :Jumlah anak ( orang yang belum berusia 18 tahun) yang melakukan, yang menyuruh lakukan dan turut serta melakukan perbuatan atau mereka yang dengan memberi atau menjanjikan sesuatu, dengan menyalahgunakan kekuasaan atau martabat, dengan kekerasan, ancaman atau penyesatan, atau dengan memberi kesempatan, sarana atau keterangan, sengaja menganjurkan orang lain supaya melakukan perbuatan.
+- Sumber : Undang-Undang Hukum Pidana (pasal 55); Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.II.1.2.2. Jumlah Anak Sebagai Korban**
+- Satuan : Orang
+- Definisi :Jumlah anak (orang yang belum berusia 18 tahun) perempuan yang mengalami penderitaan fisik, mental, dan/atau kerugian ekonomi yang diakibatkan oleh suatu tindak pidana.
+- Sumber : Undang-Undang Republik Indonesia Nomor  13  Tahun  2006 Tentang Perlindungan Saksi Dan Korban (pasal 1); Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.II.1.2.3. Jumlah Anak Sebagai Saksi**
+- Satuan : Orang
+- Definisi :Jumlah anak (orang belum berusia 18 tahun) yang dapat memberikan keterangan guna kepentingan penyidikan, penuntutan dan peradilan tentang suatu perkara pidana yang ia dengar sendiri, ia lihat sendiri dan ia alami sendiri.
+- Sumber : Undang Undang No. 8 Tahun 1981 Tentang Kitab Undang Undang Hukum Acara Pidana (pasal 1); Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.II.2. Anak Berkebutuhan Khusus*
+- Satuan :
+- Definisi :anak yang mengalami keterbatasan/keluarbiasaan baik fisik, mental-intelektual, sosial, maupun emosional yang berpengaruh secara signifikan dalam proses pertumbuhan dan perkembangannya dibandingkan dengan anak-anak lain seusianya.
+- Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak  Republik Indonesia Nomor 10 Tahun 2011 Tentang Kebijakan Penanganan Anak Berkebutuhan Khusus
+
+#### 4.1.8.II.2.1. Jumlah Anak Berkebutuhan Khusus
+- Satuan : Orang
+- Definisi :Jumlah anak yang mengalami keterbatasan/keluarbiasaan baik fisik, mental-intelektual, sosial, maupun emosional yang berpengaruh secara signifikan dalam proses pertumbuhan dan perkembangannya dibandingkan dengan anak-anak lain seusianya.
+- Sumber : Peraturan Menteri Negara Pemberdayaan Perempuan Dan Perlindungan Anak  Republik Indonesia Nomor 10 Tahun 2011 Tentang Kebijakan Penanganan Anak Berkebutuhan Khusus (pasal 1)
+
+#### 4.1.8.II.2.2. Jumlah Lembaga Penampung Anak Berkebutuhan Khusus**
+- Satuan : Lembaga
+- Definisi :Jumlah Lembaga baik negeri ataupun swasta yang menampung anak berkebutuhan khusus
+- Sumber : Makalah Lembaga-lembaga yang menangani ABK, universitas pendidikan Indonesia.
+
+#### 4.1.8.II.2.2.1. Jumlah Lembaga Pemerintah Penampung Anak Berkebutuhan Khusus
+- Satuan : Lembaga
+- Definisi :Departemen Pendidikan Nasional umumnya mendirikan SLB Negeri dan sekolah inklusif , ini biasanya seutuhnya milik pemerintah. Mulai dari kepemilikan gedung, sarana dan prasarana, tenaga pendidik, serta sampai ke pemilikan asrama. Semuanya di biayai oleh pemerintah.
+- Sumber : Makalah Lembaga-lembaga yang menangani ABK, universitas pendidikan Indonesia.
+
+#### 4.1.8.II.2.2.2. Jumlah Lembaga Swasta Penampung Anak Berkebutuhan Khusus
+- Satuan : Lembaga
+- Definisi :Untuk SLB swasta ada yang sepenuhnya dibiayai oleh swasta dibawah naungan sebuah yayasan yang bergerak dalam pendidikan, dan  LSM yang bergerak dalam perlindungan anak dibawah naungan sebuah yayasan dan difokuskan untuk menyelenggarakan rehabilitasi dan pendidikan bagi ABK.
+- Sumber : Makalah Lembaga-lembaga yang menangani ABK, universitas pendidikan Indonesia.
+
+#### 4.1.8.II.3. Laporan Pengaduan Perempuan dan Anak Korban Kekerasan*		
+#### 4.1.8.II.3.1. Jumlah Laporan Pengaduan Perempuan Korban Kekerasan**
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.3.1.1. Jumlah Laporan Pengaduan Perempuan Korban Kekerasan Ditindak Lanjuti**
+- Satuan : Kasus
+- Definisi :
+- Sumber :		
+                           
+#### 4.1.8.II.3.1.2. Jumlah Laporan Pengaduan Perempuan Korban Kekerasan Belum Ditindak Lanjuti**
+- Satuan : Kasus
+- Definisi :
+- Sumber :		
+                           
+#### 4.1.8.II.3.2. Jumlah Laporan Pengaduan Anak Korban Kekerasan**
+- Satuan : Kasus
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.3.2.1. Jumlah Laporan Pengaduan Anak Korban Kekerasan Ditindak Lanjuti**
+- Satuan : Kasus
+- Definisi :
+- Sumber :		
+                           
+#### 4.1.8.II.3.2.2. Jumlah Laporan Pengaduan Anak Korban Kekerasan Belum Ditindak Lanjuti**
+- Satuan : Kasus
+- Definisi :
+- Sumber :		
+                           
+#### 4.1.8.II.4. Lembaga Perlindungan Perempuan dan Anak*			
+#### 4.1.8.II.4.1. Jumlah Unit Pelayanan Perempuan dan Anak (UPPA)
+- Satuan : Unit
+- Definisi :Jumlah unit yang bertugas memberikan pelayanan, dalam bentuk perlindungan terhadap perempuan dan anak yang menjadi korban kejahatan dan penegakan hukum terhadap pelakunya.
+- Sumber : Peraturan Kepolisisn Negara RI Nomor 10 tahun 2007 (pasal 1)
+
+#### 4.1.8.II.4.2. Jumlah Pusat Krisis Terpadu (PKT)
+- Satuan : Unit
+- Definisi :Jumlah unit khusus yang memberikan layanan terpadu sebagai  bentuk kepedulian terhadap semua jenis tindakan yang dialami oleh perempuan dan anak dengan memberikan layanan terpadu berbasis rumah sakit bagi setiap orang yang mengalami kekerasan seperti kekerasan secara fisik, emosional, seksual, sosial ekonomi, trafficking, dan penelantaran, dengan menyederhanakan prosedur pelayanan yang dilakukan secara holistik oleh tenaga-tenaga  professional seperti psikolog, psikiater, konselor, dan para petugas medis.
+- Sumber :
+
+#### 4.1.8.II.4.3. Jumlah Women Crisis Center (WCC)
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.4.4. Jumlah Rumah Perlindungan Trauma Center (RPTC)
+- Satuan : Unit
+- Definisi :Jumlah lembaga yang memberikan layanan perlindungan awal dan pemulihan psikososial serta pemulihan kondisi traumatis yang dialami oleh korban tingkat kekerasan.
+- Sumber : Permensos No.102/HUK/2007
+
+#### 4.1.8.II.4.5. Jumlah Satgas Perlindungan TKI Bermasalah
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.4.6. Jumlah UPT Dinas Sosial
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5. Tenaga Terlatih Layanan Perempuan dan Anak Korban Kekerasan*
+#### 4.1.8.II.5.1. Jumlah Tenaga Rehabilitasi Sosial**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.1.1. Jumlah Tenaga Psikolog**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.1.2. Jumlah Tenaga Konselor
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.1.3. Jumlah Tenaga Rohaniwan
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.2. Jumlah Tenaga Kesehatan
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.3. Jumlah Aparat Penegak Hukum
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.8.II.5.4. Jumlah Tenaga Reintegrasi
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+### 4.1.8.III. Kualitas Keluarga*			
+#### 4.1.8.III.1. Jumlah Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.1.1. Pemerintah
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.1.2. Non Pemerintah
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.1.3. Dunia Usaha
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.2. Jumlah Lembaga Pemenuhan Hak Anak (PHA)**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.2.1. Pemerintah
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.2.2. Non Pemerintah
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.8.III.2.3. Dunia Usaha
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+### 4.1.8.IV. Pendidikan Perempuan dan Anak*			
+#### 4.1.8.IV.1. Struktur Penduduk Perempuan Berdasarkan Pendidikan (> 18 Tahun)*
+#### 4.1.8.IV.1.1. Jumlah Perempuan Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang Asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia dan tidak bersekolah (tidak pernah menempuh pendidikan sekolah)
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.1.2. Jumlah Perempuan Tamatan SD/Sederajat**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang Asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia  tamatan SD/sederajat
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.1.3. Jumlah Perempuan Tamatan SMP/Sederajat**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang Asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia  tamatan SMP/sederajat
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.1.4. Jumlah Perempuan Tamatan SMA/Sederajat**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang Asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia tamatan SMA/sederajat
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.1.5. Jumlah Perempuan Tamatan Diploma I/II/III**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang Asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia  tamatan Diploma I/II/III  atau sederajat
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.1.6. Jumlah Perempuan Tamatan Perguruan Tinggi**
+- Satuan : Orang
+- Definisi : Warga Negara Indonesia dan orang asing berjenis kelamin perempuan yang bertempat tinggal di Indonesia tamatan perguruan tinggi.
+- Sumber : Undang-Undang Dasar Tahun  1945 (pasal 26) diolah
+                     
+#### 4.1.8.IV.2. Struktur Penduduk Anak Berdasarkan Pendidikan (< 18 Tahun)*
+#### 4.1.8.IV.2.1. Jumlah Anak Tidak Bersekolah**
+- Satuan : Orang
+- Definisi : Jumlah orang yang belum berusia 18 (delapan belas) tahun yang tidak bersekolah dan tidak pernah menempuh jalur pendidikan sekolah.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+
+#### 4.1.8.IV.2.1.1. Jumlah Anak Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang laki-laki yang belum berusia 18 (delapan belas) tahun yang tidak bersekolah dan tidak pernah menempuh jalur pendidikan sekolah.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.1.2. Jumlah Anak Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan yang belum berusia 18 (delapan belas) tahun yang tidak bersekolah dan tidak pernah menempuh jalur pendidikan sekolah.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.2. Jumlah Anak Tamatan SD/Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah orang yang belum berusia 18 (delapan belas) tamatan SD/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+
+#### 4.1.8.IV.2.2.1. Jumlah Anak Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang laki-laki yang belum berusia 18 (delapan belas) tamatan SD/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.2.2. Jumlah Anak Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan yang belum berusia 18 (delapan belas) tamatan SD/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.3. Jumlah Anak Tamatan SMP/Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah orang yang belum berusia 18 (delapan belas) tamatan SMP/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+
+#### 4.1.8.IV.2.3.1. Jumlah Anak Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang laki-laki yang belum berusia 18 (delapan belas) tamatan SMP/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.3.2. Jumlah Anak Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan yang belum berusia 18 (delapan belas) tamatan SMP/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.4. Jumlah Anak Tamatan SMA/Sederajat**
+- Satuan : Orang
+- Definisi : Jumlah orang yang belum berusia 18 (delapan belas) tamatan SMA/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+
+#### 4.1.8.IV.2.4.1. Jumlah Anak Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang laki-laki yang belum berusia 18 (delapan belas) tamatan SMA/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.2.4.2. Jumlah Anak Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan yang belum berusia 18 (delapan belas) tamatan SMA/sederajat.
+- Sumber : Undang-Undang Republik Indonesia Nomor 35 Tahun 2014 (diolah)
+                     
+#### 4.1.8.IV.3. Jumlah Anak Jalanan**
+- Satuan : Orang
+- Definisi : Jumlah orang belum berusia 18 (delapan belas) yang menghabiskan sebagian besar waktunya untuk melakukan kegiatan hidup sehari-hari di jalanan, baik untuk mencari nafkah atau  berkeliaran di jalan dan tempat-tempat umum lainnya.
+- Sumber : Departemen Sosial RI (2005)
+
+#### 4.1.8.IV.3.1. Jumlah Anak Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang laki-laki belum berusia 18 (delapan belas) yang menghabiskan sebagian besar waktunya untuk melakukan kegiatan hidup sehari-hari di jalanan, baik untuk mencari nafkah atau  berkeliaran di jalan dan tempat-tempat umum lainnya.
+- Sumber : Departemen Sosial RI (2005)
+                     
+#### 4.1.8.IV.3.2. Jumlah Anak Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang perempuan belum berusia 18 (delapan belas) yang menghabiskan sebagian besar waktunya untuk melakukan kegiatan hidup sehari-hari di jalanan, baik untuk mencari nafkah atau  berkeliaran di jalan dan tempat-tempat umum lainnya.
+- Sumber : Departemen Sosial RI (2005)
+                     
+## 4.1.9. Pangan
+### 4.1.9.I. Produksi Komoditas Pangan dan Ketersediaan Energi dan Protein*
+#### 4.1.9.I.1. Jumlah Produksi Komoditas Pangan Nabati** (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.1. Beras (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Beras)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.2. Jagung (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Jagung)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.3. Kedelai (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Kedelai)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.4. Kacang Tanah (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Kacang Tanah)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.5. Ubi Kayu (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Ubi Kayu)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.6. Ubi Jalar (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Ubi Jalar)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.7. Sayur (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Sayur)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.8. Buah-Buahan (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Buah-buahan)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.9. Minyak Goreng (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Minyak Goreng)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.1.10. Gula (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Gula)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2. Jumlah Produksi Komoditas Pangan Hewani** (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan hewani
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2.1 Daging Sapi dan Kerbau (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Daging Sapi & Kerbau)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2.2. Daging Ayam (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Daging Ayam)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2.3. Telur (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Telur)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2.4. Susu (Ton)
+- Satuan : Liter
+- Definisi : Total berat produksi dalam liter yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Susu)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.2.5. Ikan (Ton)
+- Satuan : Ton
+- Definisi : Total berat produksi dalam ton yang yang dihasilkan dari usaha produksi komoditas pangan nabati (Ikan)
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.I.3. Ketersediaan Energi  dan Protein*
+- Satuan :
+- Definisi : Merupakan Salah satu indikator untuk menunjukkan tingkat kesejahteraan penduduk adalah tingkat kecukupan gizi, yang dihitung berdasarkan besarnya kalori dan protein yang dikonsumsi
+- Sumber : Buku 2 Konsumsi Kalori dan protein Penduduk Indonesia dan Provinsi(Badan Pusat Statistik)
+
+#### 4.1.9.I.3.1.  Energi (Kal/Kap/Hari)
+- Satuan : Kal/Kap/Hari
+- Definisi :
+- Sumber :
+
+#### 4.1.9.I.3.2.  Protein (Gram/Kap/Hari)
+- Satuan : Gram/ Kap/Hari
+- Definisi :
+- Sumber :
+
+### 4.1.9.II. Perkembangan Rata-Rata Konsumsi  Energi  dan Protein*			
+#### 4.1.9.II.1.  Energi (Kal/Kap/Hari)
+- Satuan : Kal/Kap/Hari
+- Definisi : Besarnya kandungan kalori perkapita perhari dengan standar rata-rata kecukupan energi bagi penduduk Indonesia masing-masing sebesar 2150 kilo kalori perorang perhari pada tingkat konsumsi.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 75 Tahun 2013 Tentang Angka Kecukupan Gizi yang dianjurkan bagi bangsa indonesia,  Buku 2 Konsumsi Kalori dan protein Penduduk Indonesia dan Provinsi(Badan Pusat Statistik) (diolah)
+
+#### 4.1.9.II.2. Protein (Gram/Kap/Hari)
+- Satuan : Gram/Kap/Hari
+- Definisi : Besarnya kandungan protein perkapita perhari  dengan standar rata-rata kecukupan protein bagi penduduk Indonesia masing-masing sebesar 57 gram perorang perhari pada tingkat konsumsi.
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 75 Tahun 2013 Tentang Angka Kecukupan Gizi yang dianjurkan bagi bangsa indonesia,  Buku 2 Konsumsi Kalori dan protein Penduduk Indonesia dan Provinsi(Badan Pusat Statistik) (diolah)
+
+### 4.1.9.III. Konsumsi  Penduduk Terhadap  Kelompok Bahan Pangan*			
+#### 4.1.9.III.1. Padi-Padian*
+- Satuan :
+- Definisi : Total berat padi-padian yang terdiri dari beras, jagung dan terigu dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.1.1. Beras (Kg)
+- Satuan : Kg
+- Definisi : Total berat beras dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.1.2. Jagung (Kg)
+- Satuan : Kg
+- Definisi : Total berat jagung dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.1.3. Terigu (Kg)
+- Satuan : Kg
+- Definisi : Total berat terigu dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2. Umbi-Umbian*
+- Satuan :
+- Definisi : Total berat umbi-umbian  yang terdiri dari singkong, ubi jalar  kentang dan sagu dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2.1. Singkong (Kg)
+- Satuan : Kg
+- Definisi : Total berat singkong dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2.2. Ubi Jalar (Kg)
+- Satuan : Kg
+- Definisi : Total berat ubi jalar dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2.3. Kentang (Kg)
+- Satuan : Kg
+- Definisi : Total berat kentang dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2.4. Sagu (Kg)
+- Satuan : Kg
+- Definisi : Total berat sagu dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.2.5. Umbi Lainnya (Kg)
+- Satuan : Kg
+- Definisi : Total berat umbi lainnya dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3. Pangan Hewani*
+- Satuan :
+- Definisi : Total berat pangan hewani  yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3.1. Daging Ruminansia (Kg)
+- Satuan : Kg
+- Definisi : Total berat daging ruminansia dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3.2. Daging Unggas (Kg)
+- Satuan : Kg
+- Definisi : Total berat daging unggas dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3.3. Telur (Kg)
+- Satuan : Kg
+- Definisi : Total berat telur dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3.4. Susu (Liter)
+- Satuan : Liter
+- Definisi : Total berat susu dalam liter yang  dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.3.5. Ikan (Kg)
+- Satuan : Kg
+- Definisi : Total berat ikan dalam kg yang yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.4. Minyak dan Lemak*
+- Satuan :
+- Definisi : Total berat minyak dan lemak dalam liter yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.4.1. Minyak Kelapa (Liter)
+- Satuan : Liter
+- Definisi : Total berat minyak kelapa dalam liter yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.4.2. Minyak Sawit (Liter)
+- Satuan : Liter
+- Definisi : Total berat minyak sawit dalam liter yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.4.3. Minyak Lainnya (Liter)
+- Satuan : Liter
+- Definisi : Total berat minyak lainnya dalam liter yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.5. Buah/Biji Berminyak*			
+#### 4.1.9.III.5.1. Kelapa (Kg)
+- Satuan : Kg
+- Definisi : Total berat kelapa dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.5.2. Kemiri (Kg)
+- Satuan : Kg
+- Definisi : Total berat kemiri dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.6. Kacang-Kacangan*
+- Satuan : kg
+- Definisi : Total berat kacang-kacangan dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.6.1. Kedelai (Kg)
+- Satuan : Kg
+- Definisi : Total berat kedelai dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.6.2. Kacang Tanah (Kg)
+- Satuan : Kg
+- Definisi : Total berat kacang tanah dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.6.3. Kacang Hijau (Kg)
+- Satuan : Kg
+- Definisi : Total berat kacang hijau dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.6.4. Kacang Lainnya (Kg)
+- Satuan : Kg
+- Definisi : Total berat kacang lainnya dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.7. Gula*			
+#### 4.1.9.III.7.1. Gula Pasir (Kg)
+- Satuan : Kg
+- Definisi : Total berat gula pasir dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.7.2. Gula Merah (Kg)
+- Satuan : Kg
+- Definisi : Total berat gula merah dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.8. Sayuran dan Buah*			
+#### 4.1.9.III.8.1. Sayur (Kg)
+- Satuan : Kg
+- Definisi : Total berat sayur dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.8.2. Buah (Kg)
+- Satuan : Kg
+- Definisi : Total berat buah dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.9. Lain-Lain*			
+#### 4.1.9.III.9.1. Minuman (Liter)
+- Satuan : Liter
+- Definisi : Total berat minuman  dalam liter yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+#### 4.1.9.III.9.2. Bumbu-Bumbuan (Kg)
+- Satuan : Kg
+- Definisi : Total berat bumbu-bumbuan dalam kg yang dikonsumsi oleh penduduk untuk mencukupi kebutuhan pangan
+- Sumber : Badan Pusat Statistik (2016) (Diolah)
+
+### 4.1.9.IV. Pergudangan*			
+#### 4.1.9.IV.1. Jumlah Gudang Milik Pemerintah** (Unit)
+- Satuan : Unit
+- Definisi : Jumlah gudang pertanian yang kewenangannya oleh pemerintah, pemerintah provinsi, pemerintah kabupaten/kota
+- Sumber :
+
+#### 4.1.9.IV.1.1. Kondisi Baik (Unit)
+- Satuan : Unit
+- Definisi : Gudang dikatakan baik apabila memenuhi seluruh kriteria sebagai  berikut : 
+ 1. Konstruksi bangunann gudang Konstruksi bangunann gudang harus memenuhi persyaratan sebagai berikut: a. Kerangka bangunann gudang harus kokoh guna menjaga mutu barang dan keselamatan manusia. b. Atap gudang yang dapat dilengkapi dengan atap pencahayaan, terbuat dari bahan yang cukup kuat dan tidak bocor. c. Dinding bangunann gudang harus kokoh.  d. Lantai gudang terbuat dari beton atau bahan lain yang kuat untuk menahan berat barang yang disimpan sesuai dengan kapasitas maksimal gudang dan bebas dari resapan air tanah. e. Talang air terbuat dari bahan yang kuat dan menjamin air mengalir dengan lancar. f. Pintu harus terbuat dari bahan yang kuat, tahan lama dan dilengkapi dengan kunci yang kuat, serta berkanopi guna menjamin kelancaran pemasukan dan pengeluaran barang. g. Ventilasi harus ditutup dengan jaring kawat penghalang untuk menghindari gangguan burung, tikus dan gangguan lainnya.  h. Bangunann gudang mempunyai teritis dengan lebar yang memadai sehingga air hujan tidak mengenai dinding gudang. i. Bangunann gudang disarankan membujur dari timur ke barat, sehingga sedikit mungkin terkena sinar matahari secara langsung.
+
+ 2. Fasilitas gudang Gudang harus mempunyai fasilitas sebagai berikut : a. Identitas pengaturan lorong yang memadai guna menunjang kelancaran penyimpanan barang maupun akses keluar masuk barang.  b. Instalasi air dan listrik dengan pasokan terjamin sehingga menunjang operasional gudang. c. Instalasi hydrant dan alat penangkal petir. d. Kantor atau ruang administrasi yang dilengkapi dengan jaringan komunikasi.  e. Saluran air yang terpelihara sehingga air dapat mengalir dengan baik untuk menghindari genangan air. f. Sistem keamanan, ruang jaga dan pagar kokoh di sekelilingnya. g. Kamar mandi dan WC. h. Halaman atau area parkir dengan luas yang memadai. i. Fasilitas sandar dan bongkar muat yang memadai bagi gudang yang berlokasi di dekat atau di pinggir akses lain melalui perairan.   
+ 3. Peralatan Gudang harus mempunyai peralatan sebagai berikut: a. Alat timbang yang ditera sah untuk mengukur berat barang.  b. Palet yang kuat untuk menopang tumpukan barang sehingga mutu barang yang disimpan terjaga. c. Higrometer dan termometer untuk mengukur kelembaban dan suhu udara dalam gudang. d. Tangga stapel untuk memudahkan penumpukan barang di gudang. e. Alat pemadam kebakaran yang tidak kadaluarsa sebagai alat penanggulangan pertama apabila terjadi kebakaran. f. Kotak Pertolongan Pertama pada Kecelakaan (P3K) yang dilengkapi dengan obat dan peralatan secukupnya. g. Alat kebersihan agar kebersihan gudang terjaga.
+- Sumber : Standar Nasional Indonesia 7331:2007 tentang ketentuan gudang komoditi pertanian
+
+#### 4.1.9.IV.1.2. Kondisi Buruk (Unit)
+- Satuan : Unit
+- Definisi : Gudang yang tidak memenuhi semua atau beberapa kriteria  persyaratan gudang komoditi pertanian diatas
+- Sumber : Standar Nasional Indonesia 7331:2007 tentang ketentuan gudang komoditi pertanian (diolah)
+
+#### 4.1.9.IV.2. Jumlah Gudang Milik Swasta** (Unit)
+- Satuan : Unit
+- Definisi : Jumlah gudang pertanian yang kewenangannya oleh perorangan atau badan swasta tertentu
+- Sumber :
+
+#### 4.1.9.IV.2.1. Kondisi Baik (Unit)
+- Satuan : Unit
+- Definisi : Gudang dikatakan baik apabila memenuhi seluruh kriteria sebagai  berikut : 
+ 1. Konstruksi bangunann gudang Konstruksi bangunann gudang harus memenuhi persyaratan sebagai berikut: a. Kerangka bangunann gudang harus kokoh guna menjaga mutu barang dan keselamatan manusia. b. Atap gudang yang dapat dilengkapi dengan atap pencahayaan, terbuat dari bahan yang cukup kuat dan tidak bocor. c. Dinding bangunann gudang harus kokoh.  d. Lantai gudang terbuat dari beton atau bahan lain yang kuat untuk menahan berat barang yang disimpan sesuai dengan kapasitas maksimal gudang dan bebas dari resapan air tanah. e. Talang air terbuat dari bahan yang kuat dan menjamin air mengalir dengan lancar. f. Pintu harus terbuat dari bahan yang kuat, tahan lama dan dilengkapi dengan kunci yang kuat, serta berkanopi guna menjamin kelancaran pemasukan dan pengeluaran barang. g. Ventilasi harus ditutup dengan jaring kawat penghalang untuk menghindari gangguan burung, tikus dan gangguan lainnya.  h. Bangunann gudang mempunyai teritis dengan lebar yang memadai sehingga air hujan tidak mengenai dinding gudang. i. Bangunann gudang disarankan membujur dari timur ke barat, sehingga sedikit mungkin terkena sinar matahari secara langsung.
+
+ 2. Fasilitas gudang Gudang harus mempunyai fasilitas sebagai berikut : a. Identitas pengaturan lorong yang memadai guna menunjang kelancaran penyimpanan barang maupun akses keluar masuk barang.  b. Instalasi air dan listrik dengan pasokan terjamin sehingga menunjang operasional gudang. c. Instalasi hydrant dan alat penangkal petir. d. Kantor atau ruang administrasi yang dilengkapi dengan jaringan komunikasi.  e. Saluran air yang terpelihara sehingga air dapat mengalir dengan baik untuk menghindari genangan air. f. Sistem keamanan, ruang jaga dan pagar kokoh di sekelilingnya. g. Kamar mandi dan WC. h. Halaman atau area parkir dengan luas yang memadai. i. Fasilitas sandar dan bongkar muat yang memadai bagi gudang yang berlokasi di dekat atau di pinggir akses lain melalui perairan.
+
+ 3. Peralatan Gudang harus mempunyai peralatan sebagai berikut: a. Alat timbang yang ditera sah untuk mengukur berat barang.  b. Palet yang kuat untuk menopang tumpukan barang sehingga mutu barang yang disimpan terjaga. c. Higrometer dan termometer untuk mengukur kelembaban dan suhu udara dalam gudang. d. Tangga stapel untuk memudahkan penumpukan barang di gudang. e. Alat pemadam kebakaran yang tidak kadaluarsa sebagai alat penanggulangan pertama apabila terjadi kebakaran. f. Kotak Pertolongan Pertama pada Kecelakaan (P3K) yang dilengkapi dengan obat dan peralatan secukupnya. g. Alat kebersihan agar kebersihan gudang terjaga.
+- Sumber : Standar Nasional Indonesia 7331:2007 tentang ketentuan gudang komoditi pertanian
+
+#### 4.1.9.IV.2.2. Kondisi Buruk (Unit)
+- Satuan : Unit
+- Definisi : Gudang yang tidak memenuhi semua atau beberapa kriteria  persyaratan gudang komoditi pertanian diatas
+- Sumber : Standar Nasional Indonesia 7331:2007 tentang ketentuan gudang komoditi pertanian (diolah)
+
+## 4.1.10. Pertanahan
+### 4.1.10.I. Jenis Hak Atas Tanah*
+#### 4.1.10.I.1. Jumlah Hak Milik (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat tanah atas hak turun-temurun, terkuat dan terpenuh yang dapat dipunyai orang atas tanah, dengan mengingat ketentuan bahwa semua hak atas tanah mempunyai fungsi sosial).
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 20)
+
+#### 4.1.10.I.2. Jumlah Hak Guna Bangunann (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat tanah atas hak untuk mendirikan dan mempunyai bangunann-bangunann atas tanah yang bukan miliknya sendiri, dengan jangka waktu paling lama 30 tahun.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 35)
+
+#### 4.1.10.I.3. Jumlah Hak Guna Usaha (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat tanah atas hak untuk mengusahakan tanah yang dikuasai langsung oleh Negara, dalam jangka waktu guna perusahaan pertanian, perikanan atau peternakan.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 28)
+
+#### 4.1.10.I.4. Jumlah Hak Pakai  (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat tanah atas hak untuk menggunakan dan/atau memungut hasil dari tanah yang dikuasai langsung oleh Negara atau tanah milik orang lain, yang memberi wewenang dan kewajiban yang ditentukan dalam keputusan pemberiannya oleh pejabat yang berwenang memberikannya atau dalam perjanjian dengan pemilik tanahnya, yang bukan perjanjian sewa menyewa atau perjanjian pengolahan tanah, segala sesuatu asal tidak bertentangan dengan jiwa dan ketentuan-ketentuan Undang-undang.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 41)
+
+#### 4.1.10.I.5. Jumlah Hak Sewa (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat tanah atas hak sewa atas tanah, apabila ia berhak mempergunakan tanah milik orang lain untuk keperluan bangunann, dengan membayar kepada pemiliknya sejumlah uang sebagai sewa.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 44)
+
+#### 4.1.10.I.6. Jumlah  Girik (Surat)
+- Satuan : Surat
+- Definisi : Jumlah bukti pembayaran pajak atas tanah.
+- Sumber : Dialogia Iuridica [November 2010,Jurnal Vol. 2 No. 1]
+
+#### 4.1.10.I.7. Jumlah Hak-Hak Lain  (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Sertifikat Hak Atas Tanah selain yang disebutkan diatas yaitu selain hak sewa, hak pakai, hak guna usaha, hak guna bangunann dan hak milik.
+- Sumber :
+
+### 4.1.10.II. Luas Tanah Berdasarkan Hak*			
+#### 4.1.10.II.1. Luas Hak Milik (Ha)
+- Satuan : Ha
+- Definisi : Luas tanah atas hak turun-temurun, terkuat dan terpenuh yang dapat dipunyai orang atas tanah, dengan mengingat ketentuan bahwa semua hak atas tanah mempunyai fungsi sosial).
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 20) diolah
+
+#### 4.1.10.II.2. Luas Hak Guna Bangunann (Ha)
+- Satuan : Ha
+- Definisi : Luas tanah atas hak untuk mendirikan dan mempunyai bangunann-bangunann atas tanah yang bukan miliknya sendiri, dengan jangka waktu paling lama 30 tahun.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 35) diolah
+
+#### 4.1.10.II.3. Luas Hak Guna Usaha (Ha)
+- Satuan : Ha
+- Definisi : Luas tanah atas hak untuk mengusahakan tanah yang dikuasai langsung oleh Negara, dalam jangka waktu guna perusahaan pertanian, perikanan atau peternakan.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 28) diolah
+
+#### 4.1.10.II.4. Luas Hak Pakai  (Ha)
+- Satuan : Ha
+- Definisi : Luas tanah atas hak untuk menggunakan dan/atau memungut hasil dari tanah yang dikuasai langsung oleh Negara atau tanah milik orang lain, yang memberi wewenang dan kewajiban yang ditentukan dalam keputusan pemberiannya oleh pejabat yang berwenang memberikannya atau dalam perjanjian dengan pemilik tanahnya, yang bukan perjanjian sewa menyewa atau perjanjian pengolahan tanah, segala sesuatu asal tidak bertentangan dengan jiwa dan ketentuan-ketentuan Undang-undang.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 41) diolah
+
+#### 4.1.10.II.5. Luas Hak Sewa (Ha)
+- Satuan : Ha
+- Definisi : Luas  tanah atas hak sewa atas tanah, apabila ia berhak mempergunakan tanah milik orang lain untuk keperluan bangunann, dengan membayar kepada pemiliknya sejumlah uang sebagai sewa.
+- Sumber : UU No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria  (Pasal 44) diolah
+
+#### 4.1.10.II.6. Luas  Girik (Ha)
+- Satuan : Ha
+- Definisi : Luas tanah dengan tanda bukti pembayaran pajak atas tanah dapat disertakan untuk proses administrasi
+- Sumber :
+
+#### 4.1.10.II.7. Luas Hak-Hak Lain  (Ha)
+- Satuan : Ha
+- Definisi : Luas Tanah selain yang disebutkan diatas yaitu selain hak sewa, hak pakai, hak guna usaha, hak guna bangunann dan hak milik.
+- Sumber : Dialogia Iuridica [November 2010,Jurnal Vol. 2 No. 1]
+
+### 4.1.10.III. Tanah Kosong*			
+#### 4.1.10.III.1. Jumlah Tanah Kosong (Persil)
+- Satuan : Persil
+- Definisi : Jumlah Tanah kosong adalah: a.) jumlah tanah yang dikuasai dengan Hak Milik, Hak Guna Usaha, Hak Guna Bangunann, dan Hak Pakai ; b.) jumlah tanah Hak Pengelolaan; dan  c.) jumlah tanah yang sudah diperoleh dasar penguasaannya tetapi belum diperoleh hak atas tanahnya sesuai ketentuan peraturan perundang-undangan yang berlaku, atau sebagainya, yang belum dipergunakan sesuai dengan sifat dan tujuan pemberian haknya atau Rencana Tata Ruang Wilayah yang berlaku.
+- Sumber :Peraturan  Menteri Negara Agraria/ Kepala Badan Pertanahan Nasional Nomor 3 Tahun 1998 (Pasal 1)
+
+#### 4.1.10.III.2. Luas Tanah Kosong (Ha)
+- Satuan : Ha
+- Definisi : Luas Tanah kosong adalah: a.) Luas tanah yang dikuasai dengan Hak Milik, Hak Guna Usaha, Hak Guna Bangunann, dan Hak Pakai ; b.)Luas tanah Hak Pengelolaan; dan  c.) Luas tanah yang sudah diperoleh dasar penguasaannya tetapi belum diperoleh hak atas tanahnya sesuai ketentuan peraturan perundang-undangan yang berlaku, atau sebagainya, yang belum dipergunakan sesuai dengan sifat dan tujuan pemberian haknya atau Rencana Tata Ruang Wilayah yang berlaku.
+- Sumber :Peraturan  Menteri Negara Agraria/ Kepala Badan Pertanahan Nasional Nomor 3 Tahun 1998 (Pasal 1)
+
+#### 4.1.10.III.3. Jumlah Tanah Kosong Dimanfaatkan (Persil)
+- Satuan : Persil
+- Definisi :
+- Sumber :
+
+#### 4.1.10.III.4. Luas Tanah Kosong Dimanfaatkan  (Ha)
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.10.III.5. Jumlah Tanah Kosong Belum Dimanfaatkan (Persil)
+- Satuan : Persil
+- Definisi :
+- Sumber :
+
+#### 4.1.10.III.6.  Luas Tanah Kosong Belum Dimanfaatkan  (Ha)
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+### 4.1.10.IV. Sengketa Tanah*			
+#### 4.1.10.IV.1. Jumlah Kasus Sengketa Tanah** (Kasus)
+- Satuan : Kasus
+- Definisi : Jumlah perselisihan pertanahan antara orang perseorangan, badan hukum atau lembaga yang tidak berdampak luas secara sosio-politis. Penekanan yang tidak berdampak luas inilah yang membedakan definisi sengketa pertanahan dengan definisi konflik pertanahan. Sengketa tanah dapat berupa sengketa administratif, sengketa perdata, sengketa pidana terkait dengan pemilikan, transaksi, pendaftaran, penjaminan, pemanfaatan, penguasaan dan sengketa hak ulayat.
+- Sumber : Layanan Publik Kementerian Agraria dan Tata Ruang/ Badan Pertanahan Nasional
+
+#### 4.1.10.IV.1.1. Jumlah Kasus Sengketa Tanah Selesai (Kasus)
+- Satuan : Kasus
+- Definisi : Jumlah perselisihan pertanahan antara orang perseorangan, badan hukum atau lembaga yang tidak berdampak luas secara sosio-politis. Penekanan yang tidak berdampak luas inilah yang membedakan definisi sengketa pertanahan dengan definisi konflik pertanahan. Sengketa tanah dapat berupa sengketa administratif, sengketa perdata, sengketa pidana terkait dengan pemilikan, transaksi, pendaftaran, penjaminan, pemanfaatan, penguasaan dan sengketa hak ulayat yang telah selesai proses penyelesaian dan telah mendapatkan hasil kesepatan
+- Sumber : Layanan Publik Kementerian Agraria dan Tata Ruang/ Badan Pertanahan Nasional (diolah)
+
+#### 4.1.10.IV.1.2. Jumlah Kasus Sengketa Tanah Belum Selesai (Kasus)
+- Satuan : Kasus
+- Definisi : Jumlah perselisihan pertanahan antara orang perseorangan, badan hukum atau lembaga yang tidak berdampak luas secara sosio-politis. Penekanan yang tidak berdampak luas inilah yang membedakan definisi sengketa pertanahan dengan definisi konflik pertanahan. Sengketa tanah dapat berupa sengketa administratif, sengketa perdata, sengketa pidana terkait dengan pemilikan, transaksi, pendaftaran, penjaminan, pemanfaatan, penguasaan dan sengketa hak ulayat yang masih dalam proses penyelesaian serta belum mendapatkan hasil kesepakatan.
+- Sumber : Layanan Publik Kementerian Agraria dan Tata Ruang/ Badan Pertanahan Nasional (diolah)
+
+### 4.1.10.V. Tanah Ulayat*			
+#### 4.1.10.V.1. Jumlah Kepemilikan Tanah Ulayat** (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat atas bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun 1999 (pasal 1)
+
+#### 4.1.10.V.1.1. Jumlah Tanah Ulayat Bersertifikat (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat atas bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu yang telah memiliki sertifikat.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun 1999 (pasal 1) (diolah)
+
+#### 4.1.10.V.1.2. Jumlah Tanah Ulayat Tidak Bersertifikat (Sertifikat)
+- Satuan : Sertifikat
+- Definisi : Jumlah sertifikat atas bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu yang tidak memiliki sertifikat.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun1999 (pasal 1) (diolah)
+
+#### 4.1.10.V.2. Luas Kepemilikan Tanah Ulayat** (Ha)
+- Satuan : Ha
+- Definisi : Luas bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun 1999 (pasal 1)
+
+#### 4.1.10.V.2.1. Luas Tanah Ulayat Bersertifikat  (Ha)
+- Satuan : Ha
+- Definisi : Luas  bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu yang telah memiliki sertifikat.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun 1999 (pasal 1) (diolah)
+
+#### 4.1.10.V.2.2. Luas Tanah Ulayat Tidak Bersertifikat  (Ha)
+- Satuan : Ha
+- Definisi : Luas bidang tanah yang diatasnya terdapat hak ulayat dari suatu masyarakat hukum adat tertentu yang tidak memiliki sertifikat.
+- Sumber : Peraturan  Menteri  Negara  Agraria/ Kepala  Badan  Pertanahan  Nasional Nomor 5 Tahun1999 (pasal 1) (diolah)
+
+## 4.1.11. Lingkungan Hidup
+### 4.1.11.I. Lingkungan Hidup* 
+#### 4.1.11.I.1. Kawasan Lindung*
+- Satuan :
+- Definisi : Wilayah yang ditetapkan dengan fungsi utama melindungi kelestarian lingkungan hidup yang mencakup sumber daya alam dan sumber daya buatan.
+- Sumber : UU Nomor 26 Tahun 2007 (pasal 1)
+
+#### 4.1.11.I.1.1. Luas Kawasan Bergambut**
+- Satuan : Ha	Luas tanah yang kawasan yang unsur pembentuk tanahnya sebagian besar berupa sisa-sisa bahan organik yang tertimbun dalam waktu yang lama
+- Sumber : Keputusan Presiden RI Nomor 32 Tahun 1990 (pasal 1)
+
+#### 4.1.11.I.1.1.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : TNS   ≤ 100 (1=Kerapatan Tajuk Lebat, 1=Hampir tidak terjadi Penggenangan, 1=Subsiden dangkal)
+- Sumber : Peraturan Menteri Kehutanan RI Nomor: P.12/Menhut-II/2012
+
+#### 4.1.11.I.1.1.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi : TNS 100 – 250 (2=Kerapatan Tajuk Lebat, 2=Hampir tidak terjadi Penggenangan, 2=Subsiden dangkal)
+- Sumber : Peraturan Menteri Kehutanan RI Nomor: P.12/Menhut-II/2012
+
+#### 4.1.11.I.1.1.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi : TNS 250 – 300 (3=Kerapatan Tajuk Lebat, 3=Hampir tidak terjadi Penggenangan, 3=Subsiden dangkal)
+- Sumber : Peraturan Menteri Kehutanan RI Nomor: P.12/Menhut-II/2012
+
+#### 4.1.11.I.1.2. Luas Kawasan Resapan Air**
+- Satuan : Ha
+- Definisi : Luas daerah yang mempunyai kemampuan tinggi untuk meresapkan air hujan sehingga merupakan tempat pengisian air bumi (akifer) yang berguna sebagai sumber air
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.2.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan resapan air adalah curah hujan yang tinggi, struktur tanah meresapkan air dan bentuk geomorfologi yang mampu meresapkan air hujan secara besar-besaran.Berdasarkan kriteria spasial untuk parameter Penggunaan Lahan daerah dengan tata guna lahan hutan akan memiliki kemampuan resapan air yang lebih tinggi dengan nilai  skor 5  untuk hutan dan skor 4 untuk semak belukar, untuk parameter curah hujan daerah dengan curah hujan yang tinggi (3000 mm/thn) dengan skor nilai 5 dan 2000-3000 mm/thn dengan skor 4 akan memiliki potensi resapan air yang lebih tinggi, untuk parameter kemiringan lahan daerah dengan kemiringan lahan datar (<5%) dengan skor 5 dan 5-20% dengan skor 4 memiliki kemampuan resapan air yang lebih tinggi, untuk parameter tekstur tanah daerah yang memiliki tekstur tanah berupa pasir dengan skor 5 dan pasir berlempung dengan skor 4 memiliki kemampuan resapan air yang lebih tinggi  ( total skor sesuai >4,6 -5,0)
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990( Pasal 12) & Peraturan Menteri Pekerjaan Umum RI Nomor 02/PRT/M/2013
+
+#### 4.1.11.I.1.2.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi : Berdasarkan kriteria spasial untuk parameter Penggunaan Lahan daerah dengan tata guna lahan hutan akan memiliki kemampuan resapan air yang lebih sedang dengan nilai  skor 3 untuk penggunaan lahan ladang dan kebun, untuk parameter curah hujan daerah dengan curah hujan yang sedang  (1000-2000mm/thn) dengan skor nilai 3, untuk parameter kemiringan lahan daerah dengan kemiringan lahan 20-40% dengan skor  dengan skor 3 memiliki kemampuan resapan air yang sedang, untuk parameter tekstur tanah daerah yang memiliki tekstur tanah berupa lempung berpasir dengan skor 3  memiliki kemampuan resapan air yang lebih sedang ( dengan total skor Kurang Sesuai 2,60-3,50 dan Cukup sesuai 3,60-4,50)
+- Sumber : Peraturan Menteri Pekerjaan Umum RI Nomor 02/PRT/M/2013
+
+#### 4.1.11.I.1.2.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi : Berdasarkan kriteria spasial untuk parameter Penggunaan Lahan daerah dengan tata guna lahan rawa/tambak/sawah dengan skor 2 dan permukiman dengan skor 1, untuk parameter curah hujan daerah dengan curah hujan yang rendah 500-1000 mm/thn dengan skor 2 dan  sangat rendah <500 mm/thn dengan skor 1 , untuk parameter kemiringan lahan daerah dengan kemiringan lahan  40-60% dengan skor 2 dan >60% dengan skor 1 memiliki kemampuan resapan air yang lebih rendah, untuk parameter tekstur tanah daerah yang memiliki tekstur lempung berpasir halur  dengan skor 2 dan lempung dengan skor 1 memiliki kemampuan resapan air yang lebih rendah
+- Sumber : Peraturan Menteri Pekerjaan Umum RI Nomor 02/PRT/M/2013
+
+#### 4.1.11.I.1.3. Luas Sempadan Pantai**
+- Satuan : Ha
+- Definisi : Sempadan Pantai adalah daratan sepanjang tepian yang lebarnya proporsional dengan bentuk dan kondisi fisik pantai, minimal 100 (seratus) meter dari titik pasang tertinggi ke arah darat.
+- Sumber : Undang-Undang Nomor 27 Tahun  2007 
+
+#### 4.1.11.I.1.3.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria sempadan pantai adalah daratan sepanjang tepian yang lebarnya proporsional dengan bentuk dan kondisi fisik pantai minimal 100 meter dari titik pasang tertinggi ke arah darat.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 14)
+
+#### 4.1.11.I.1.3.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.3.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.4. Luas Sempadan Sungai**
+- Satuan : Ha
+- Definisi : luas kawasan sepanjang kiri kanan sungai, termasuk sungai buatan/kanal/saluran irigasi primer, yang mempunyai manfaat penting untuk mempertahankan kelestarian fungsi sungai.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+
+#### 4.1.11.I.1.4.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria sempadan sungai adalah: 
+ a. Sekurang-kurangnya 100 meter  dari kiri kanan sungai besar dan 50 meter di kiri kanan anak sungai yang berada diluar pemukiman. 
+ b. Untuk sungai di kawasan pemukiman berupa sempadan sungai yang diperkirakan cukup untuk dibangun jalan inspeksi antara 10 - 15 meter.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 16)
+
+#### 4.1.11.I.1.4.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.4.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.5. Luas Kawasan Sekitar Danau/Waduk**
+- Satuan : Ha
+- Definisi : Luas kawasan tertentu disekeliling danau/waduk yang mempunyai manfaat penting untuk mempertahankan kelestarian fungsi sungai.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.5.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan sekitar danau/waduk adalah daratan sepanjang tepian danau/waduk yang lebarnya proporsional dengan bentuk dan kondisi fisik danau/waduk antara 50 - 100 meter dari titik pasang tertinggi ke arah darat.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 18)
+
+#### 4.1.11.I.1.5.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.5.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.6. Luas Kawasan Sekitar Mata Air**
+- Satuan : Ha
+- Definisi : Luas kawasan disekeliling mata air yang mempunyai manfaat penting untuk mempertahankan fungsi mata air
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.6.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan sekitar mata air adalah sekurang-kurangnya dengan jari-jari 200 meter di sekitar mata air.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990( pasal 20)
+
+#### 4.1.11.I.1.6.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.6.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.7. Luas Kawasan Suaka Alam**
+- Satuan : Ha
+- Definisi : luas kawasan dengan ciri khas tertentu baik di darat maupun di perairan  yang mempunyai fungsi pokok sebagai kawasan pengawetan peragaman jenis tumbuhan dan satwa beserta ekosistemnya. Kawasan suaka alam terdiri dari cagar alam, suaka margasatwa, hutan wisata, daerah perlindungan plasma nutfah dan daerah pengungsian satwa.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.7.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : 1.)Kriteria cagar alam adalah Kawasan yang ditunjuk mempunyai keanekaragaman jenis tumbuhan dan satwa dan tipe ekosistemnya; Mewakili formasi biota tertentu dan/atau unit-unit penyusun; Mempunyai kondisi alam, baik biota maupun fisiknya yang masih asli dan tidak atau belum diganggu manusia; Mempunyai luas dan bentuk tertentu agar menunjang pengelolaan yang efektif dengan daerah penyangga yang cukup luas; Mempunyai ciri khas dan dapat merupakan satu-satunya contoh di suatu daerah serta keberadaannya memerlukan upaya konservasi. 
+2.)Kriteria suaka margasatwa adalah: Kawasan yang ditunjuk merupakan tempat hidup dan perkembangbiakan dari suatu jenis satwa yang perlu dilakukan upaya konservasinya; Memiliki keanekaragaman dan populasi satwa yang tinggi; Merupakan tempat dan kehidupan bagi jenis satwa migran tertentu; Mempunyai luas yang cukup sebagai habitat jenis satwa yang bersangkutan. Kawasan yang ditunjuk memiliki keadaan yang menarik dan indah baik secara alamiah maupun buatan manusia; Memenuhi kebutuhan manusia akan rekreasi dan olah raga serta terletak dekat pusat-pusat permukiman penduduk; Mengandung satwa buru yang dapat dikembangbiakkan sehingga memungkinkan perburuan secara teratur dengan mengutamakan segi rekreasi, olah raga dan kelestarian satwa; Mempunyai luas yang cukup dan lapangannya tidak membahayakan. 
+3.)Kriteria daerah perlindungan plasma nutfah adalah: Areal yang ditunjuk memiliki jenis plasma nutfah tertentu yang belum terdapat di dalam kawasan konservasi yang telah ditetapkan; Merupakan areal tempat pemindahan satwa yang merupakan tempat kehidupan baru bagi satwa yang merupakan tempat kehidupan baru bagi satwa tersebut; Mempunyai luas cukup dan lapangannya tidak membahayakan. 4.)Kriteria daerah pengungsian satwa: Areal yang ditunjuk merupakan wilayah kehidupan satwa yang sejak semula menghuni areal tersebut; Mempunyai luas tertentu yang memungkinkan berlangsungnya proses hidup dan kehidupan serta berkembangbiaknya satwa tersebut.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990
+
+#### 4.1.11.I.1.7.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.7.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.8. Luas Kawasan Suaka Alam Laut Dan Perairan** 
+- Satuan : Ha
+- Definisi : luas daerah yang mewakili ekosistem khas di lautan maupun perairan lainya, yang merupakan habitat alami yang memberikan tempat maupun perlindungan bagi perkembangan keanekaragaman tumbuhan dan satwa yang ada
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.8.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan suaka alam laut dan perairan lainnya adalah kawasan berupa perairan laut, perairan darat, wilayah pesisir, muara sungai, gugusan karang dan atol yang mempunyai ciri khas berupa keragaman dan/atau keunikan ekosistem
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 25)
+
+#### 4.1.11.I.1.8.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.8.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.9. Luas Kawasan Pantai Berhutan Bakau**
+- Satuan : Ha
+- Definisi : Luas kawasan pesisir laut yang merupakan habitat alami hutan bakau (mangrove) yang berfungsi memberi perlindungan kepada perikehidupan pantai dan lautan.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+#### 4.1.11.I.1.9.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan pantai berhutan bakau adalah minimal 130 kali nilai rata-rata perbedaan air pasang tertinggi  dan terendah tahunan diukur dari garis air surut terendah kearah darat.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 27)
+
+#### 4.1.11.I.1.9.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.9.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.10. Luas Taman Nasional**
+- Satuan : Ha
+- Definisi : Luas kawasan pelestarian alam  yang mempunyai Ekosistem asli, dikelola dengan sistem zonasi yang dimanfaatkan untuk tujuan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, pariwisata, dan rekreasi.
+- Sumber : Peraturan Pemerintah RI Nomor 108 tahun 2015 (pasal 1)
+ 
+#### 4.1.11.I.1.10.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria taman nasional, taman hutan raya dan taman nasional dan wisata alam adalah berhutan atau bervegetasi tetap yang memiliki tumbuhan dan satwa yang beragam, memiliki arsitektur bentang alam yang baik dan memiliki akses yang baik untuk keperluan pariwisata. Usaha penyediaan sarana wisata alam dapat meliputi : wisata tirta, akomodasi, transportasi, wisata, petualangan dan  olahraga minat khusus. usaha penyediaan sarana wisata alam sebagaimana dimaksdud dilakukan pada zona pemanfaatan taman nasional, blok pemanfaatan taman wisata alam dan blok pemanfaatan taman hutan raya. usaha penyediaan sarana wisata alam dapat dilakukan pada semua zona/blok kecuali zona inti taman nasional. usaha penyediaan sarana olahraga minat khusus dilakukan padablok pemanfaatan taman hutan raya dan blok pemanfaatan taman wisata alam dengan ketentuan: 
+ 1. kondisi alam terbuka/berbatu dan secara alami mengalami kerusakan berat sehingga tidak dapat dipulihkan, 
+ 2. topografi datar sampai landai dan 
+ 3. rawan terhadap penambahan atau pencurian batu atau konflik dengan masyarakat. kerusakan berat disebabkan oleh bencana alam mauun perbuatan manusia
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 29), Peraturan Direktur Jenderal Perlindungan Hutan dan Konservasi Alam Nomor : P. 02/IV­SET/2012 
+   
+#### 4.1.11.I.1.10.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.10.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.11. Luas Taman Hutan Raya**
+- Satuan : Ha
+- Definisi : Luas kawasan pelestarian alam yang tujuan koleksi tumbuhan dan/atau satwa yang alami atau bukan alami, jenis asli dan/atau bukan jenis asli, yang tidak invasif dan dimanfaatkan untuk kepentingan penelitian, ilmu pengetahuan, pendidikan, menunjang budidaya, budaya, pariwisata dan rekreasi.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1), Peraturan Pemerintah RI Nomor 108 tahun 2015 (pasal 1)
+ 
+
+#### 4.1.11.I.1.11.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria taman nasional, taman hutan raya dan taman nasional dan wisata alam adalah berhutan atau bervegetasi tetap yang memiliki tunbuhan dan satwa yang beragam, memiliki arsitektur bentang alam yang baik dan memiliki akses yang baik untuk keperluan pariwisata.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 29)
+
+#### 4.1.11.I.1.11.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.11.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.12. Luas Taman Wisata Alam**
+- Satuan : Ha
+- Definisi : Kawasan Pelestarian alam di darat maupun di laut yang terutama dimanfaatkan untuk pariwisata dan rekreasi alam
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1)
+ 
+
+#### 4.1.11.I.1.12.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Luas kriteria taman nasional, taman hutan raya dan taman nasional dan wisata alam adalah berhutan atau bervegetasi tetap yang memiliki tumbuhan dan satwa yang beragam, memiliki arsitektur bentang alam yang baik dan memiliki akses yang baik untuk keperluan pariwisata.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 29)
+
+#### 4.1.11.I.1.12.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.12.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.13. Luas Kawasan Cagar Budaya Dan Ilmu Pengetahuan**
+- Satuan : Ha
+- Definisi : Luas kawasan yang merupakan lokasi bangunann hasil budaya manusia yang bernilai tinggi maupun bentukan geologi yang khas. Atau berdasarkan UU Republik Indonesia Nomor 11 tahun 2010 kawasan cagar budaya adalah satuan ruang geografis yang memiliki dua Situs Cagar Budaya atau lebih yang letaknya berdekatan dan/atau memperlihatkan ciri tata ruang yang khas.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 1), UU Republik Indonesia Nomor 11 tahun 2010 (pasal 1)
+ 
+#### 4.1.11.I.1.13.1. Luas Kondisi Baik
+- Satuan : Ha
+- Definisi : Kriteria kawasan cagar budaya dan ilmu pengetahuan adalah tempat serta ruang disekitar bangunann bernilai budaya tinggi, situs purbakala dan kawasan dengan bentukan geologi tertentu yang mempunyai manfaat tinggi untuk pengembangan ilmu pengetahuan.  Satuan ruang geografis dapat ditetapkan sebagai Kawasan Cagar Budaya apabila:
+ a.  mengandung 2 (dua) Situs Cagar Budaya atau lebih yang letaknya berdekatan;
+ b.  berupa lanskap budaya hasil bentukan manusia berusia paling sedikit 50 (lima puluh) tahun;
+ c.  memiliki pola yang memperlihatkan fungsi ruang pada masa lalu berusia paling sedikit 50 (lima puluh) tahun;
+ d.  memperlihatkan pengaruh manusia masa lalu pada proses pemanfaatan ruang berskala luas;
+ e.  memperlihatkan bukti pembentukan lanskap budaya; dan
+ f.  memiliki lapisan tanah terbenam yang mengandung bukti kegiatan manusia atau endapan fosil.
+- Sumber : Keputusan Presiden RI Nomor 32 tahun 1990 (pasal 31), UU Republik Indonesia Nomor 11 tahun 2010 (pasal 5)
+
+#### 4.1.11.I.1.13.2. Luas Kondisi Sedang
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.1.13.3. Luas Kondisi Rusak
+- Satuan : Ha
+- Definisi :
+- Sumber :
+
+#### 4.1.11.I.2. Tingkat Pencemaran Lingkungan*			
+#### 4.1.11.I.2.1. Jumlah Lokasi Pencemaran Ringan**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi pencemaran yang mulai mengakibatkan iritasi (gangguan) ringan pada panca indra dan tubuh serta telah menimbulkan kerusakan pada ekosistem lain.
+- Sumber :
+
+#### 4.1.11.I.2.1.1. Jumlah Lokasi Pencemaran Tanah**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang masuknya atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam tanah oleh kegiatan manusia sehingga kualitasnya turun sampai ke tingkat tertentu yang menyebabkan lingkungan hidup tidak dapat berfungsi sesuai dengan peruntukannya yang mulai mengakibatkan gangguan ringan pada panca indera
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 (pasal 1 ), Analisis Nilai Indeks Kualitas Tanah Entisol pada penggunaan lahan yang berbeda( Agroteksos vol21 no.1 April 2011)
+                             
+#### 4.1.11.I.2.1.2. Jumlah Lokasi Pencemaran Air**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi masuknya atau dimasukkannya  makluk hidup, zat, energi dan atau komponen lain ke dalam air oleh kegiatan manusia, sehingga kualitas air turun sampai ke tingkat tertentu yang menyebabkan air tidak dapat berfungsi sesuai dengan peruntukkannya.  yang berdasarkan penilaian status mutu air memiliki kategori pencemaran ringan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2001  & Keputusan Menteri  Lingkungan Hidup Nomor: 115 Tahun 2003 (diolah)
+                             
+#### 4.1.11.I.2.1.3. Jumlah Lokasi Pencemaran Udara**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang tingkat kualitas udara yang tidak memberikan efek bagi manusia atau hewan dan tidak berpengaruh pada tumbuhan, bangunann ataupun nilai estetika yang termasuk dalam kategori sedang dan tidak sehat.
+- Sumber : Kep-45/MENLH/10/1997 tentang Indeks Standar Pencemar Udara
+                             
+#### 4.1.11.I.2.2. Jumlah Lokasi Pencemaran Kronis**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi pencemaran yang sudah mengakibatkan reaksi pada faal tubuh dan menyebabkan sakit yang kronis.
+- Sumber :
+
+#### 4.1.11.I.2.2.1. Jumlah Lokasi Pencemaran Tanah**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang masuknya atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam tanah oleh kegiatan manusia sehingga kualitasnya turun sampai ke tingkat tertentu yang menyebabkan lingkungan hidup tidak dapat berfungsi sesuai dengan peruntukannya yang mulai mengakibatkan reaksi pada faal tubuh dan menyebabkan sakit yang kronis
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 (pasal 1 ), Analisis Nilai Indeks Kualitas Tanah Entisol pada penggunaan lahan yang berbeda( Agroteksos vol21 no.1 April 2011)
+                             
+#### 4.1.11.I.2.2.2. Jumlah Lokasi Pencemaran Air**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi masuknya atau dimasukkannya  makluk hidup, zat, energi dan atau komponen lain ke dalam air oleh kegiatan manusia, sehingga kualitas air turun sampai ke tingkat tertentu yang menyebabkan air tidak dapat berfungsi sesuai dengan peruntukkannya.  yang berdasarkan penilaian status mutu air memiliki kategori pencemaran sedang.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2001  & Keputusan Menteri  Lingkungan Hidup Nomor: 115 Tahun 2003 (diolah)
+                             
+#### 4.1.11.I.2.2.3. Jumlah Lokasi Pencemaran Udara**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang tingkat kualitas udara yang tidak berpengaruh pada kesehatan dan bersifat merugikan/menggangu bagi manusia atau hewan dan tidak berpengaruh pada tumbuhan, bangunann ataupun nilai estetika.
+- Sumber : Kep-45/MENLH/10/1997 tentang Indeks Standar Pencemar Udara
+                             
+#### 4.1.11.I.2.3. Jumlah Lokasi Pencemaran Akut**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi pencemaran yang kadar zat-zat pencemarnya demikian besarnya sehingga menimbulkan gangguan dan sakit atau kematian dalam lingkungan
+- Sumber :
+
+#### 4.1.11.I.2.3.1. Jumlah Lokasi Pencemaran Tanah**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang masuknya atau dimasukkannya makhluk hidup, zat, energi, dan/atau komponen lain ke dalam tanah oleh kegiatan manusia sehingga kualitasnya turun sampai ke tingkat tertentu yang menyebabkan lingkungan hidup tidak dapat berfungsi sesuai dengan peruntukannya yang mulai mengakibatkan gangguan sakit atau kematian dalam lingkungan
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 101 Tahun 2014 (pasal 1 ), Analisis Nilai Indeks Kualitas Tanah Entisol pada penggunaan lahan yang berbeda( Agroteksos vol21 no.1 April 2011)
+                             
+#### 4.1.11.I.2.3.2. Jumlah Lokasi Pencemaran Air**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi masuknya atau dimasukkannya  makluk hidup, zat, energi dan atau komponen lain ke dalam air oleh kegiatan manusia, sehingga kualitas air turun sampai ke tingkat tertentu yang menyebabkan air tidak dapat berfungsi sesuai dengan peruntukkannya.  yang berdasarkan penilaian status mutu air memiliki kategori pencemaran berat.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 82 Tahun 2001  & Keputusan Menteri  Lingkungan Hidup Nomor: 115 TAHUN 2003 (diolah)
+                             
+#### 4.1.11.I.2.3.3. Jumlah Lokasi Pencemaran Udara**
+- Satuan : Lokasi
+- Definisi : Jumlah lokasi yang tingkat kualitas udara yang dapat merugikan kesehatan  pada sejumlah segmen populasi yang terpapar dan bahkan dapat merugikan kesehatan yang serius pada populasi yang termasuk dalam kategori sangat tidak sehat dan berbahaya.
+- Sumber : Kep-45/MENLH/10/1997 tentang Indeks Standar Pencemar Udara
+                             
+#### 4.1.11.I.3. Jumlah Perusahaan Industri/Pabrik**
+- Satuan : Perusahaan
+- Definisi : Jumlah  seluruh bentuk kegiatan ekonomi yang mengolah bahan baku dan/atau memanfaatkan sumber daya industri sehingga menghasilkan barang yang mempunyai nilai tambah atau manfaat lebih tinggi, termasuk jasa industri.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 107 Tahun 2015 Tentang Izin Usaha Industri
+
+#### 4.1.11.I.3.1. Memiliki Pengolahan Limbah
+- Satuan : Perusahaan
+- Definisi : Jumlah  seluruh bentuk kegiatan ekonomi yang mengolah bahan baku dan/atau memanfaatkan sumber daya industri sehingga menghasilkan barang yang mempunyai nilai tambah atau manfaat lebih tinggi, termasuk jasa industri yang memiliki pengolahan limbah yaitu proses untuk mengurangi dan/atau menghilangkan  sifat bahaya dan/atau sifat racun.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 107 Tahun 2015 Tentang Izin Usaha Industri dan Peraturan Pemerintah Republik Indonesia Nomor  101 Tahun 2014 (pasal 1)   diolah
+
+#### 4.1.11.I.3.2. Tidak Memiliki Pengolahan Limbah
+- Satuan : Perusahaan
+- Definisi : Jumlah  seluruh bentuk kegiatan ekonomi yang mengolah bahan baku dan/atau memanfaatkan sumber daya industri sehingga menghasilkan barang yang mempunyai nilai tambah atau manfaat lebih tinggi, termasuk jasa industri yang limbahnya langsung dibuang tanpa melalui proses pengolahan limbah.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 107 Tahun 2015 Tentang Izin Usaha Industri
+
+## 4.1.12. Administrasi Kependudukan dan Pencatatan Sipil
+### 4.1.12.I. Administrasi Kependudukan* 
+#### 4.1.12.I.1. Jumlah Penduduk Menurut Jenis Kelamin*
+- Satuan :
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut jenis kelamin.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+
+#### 4.1.12.I.1.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut jenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.1.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut jenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.2. Sex Ratio Penduduk
+- Satuan : %
+- Definisi : Rasio (perbandingan) antara jumlah penduduk laki-laki dan jumlah penduduk perempuan di suatu daerah  pada suatu waktu tertentu
+- Sumber : Badan Pusat Statistik  (diolah)
+
+#### 4.1.12.I.3. Kepadatan Penduduk
+- Satuan : Jiwa/Km2
+- Definisi : Angka  kepadatan  penduduk  menunjukan rata-rata  jumlah  penduduk  tiap  1 kilometer  persegi.  Semakin  besar  angka kepadatan  penduduk  menunjukan  bahwa semakin  padat  penduduk  yang  mendiami wilayah  tersebut.
+- Sumber : Badan Pusat Statistik  Hit 19148
+     
+#### 4.1.12.I.4. Jumlah Penduduk Menurut Usia* 			
+#### 4.1.12.I.4.1. 0-4 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 0-4 tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.2. 5-9 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 5-9  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.3. 10-14 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 10-14  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.4. 15-19 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 15-19  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.5. 20-24 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 20-24  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.6. 25 - 29 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 25-29  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.7. 30 -34 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 30-34  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.8. 35 - 39 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 10-14  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.9. 40 - 44 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 40-44  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.10. 45 - 49 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 45-49 tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.11. 50 - 54 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 50-54  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.12. 55 - 59 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usi 55-59  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.13. 60 - 64 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 60-64 tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.14. 65 - 69 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 65-69 tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.15. 70 - 75 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia 70-75  tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.4.16. > 75 Tahun**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia menurut usia > 75 tahun.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1)
+                
+#### 4.1.12.I.5.  Penduduk Berdasarkan Tingkat Pendidikan* 			
+#### 4.1.12.I.5.1. Jumlah Penduduk Tidak Tamat SD**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat SD.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.1.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat SD/ tidak sampai selesai menempuh pendidikan SD berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.1.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat SD/ tidak sampai selesai menempuh pendidikan SD berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.2. Jumlah Penduduk Tamat SD**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SD.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.2.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SD berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.2.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SD berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.3. Jumlah Penduduk Tidak Tamat SD**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.5.3.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.5.3.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.5.4. Jumlah Penduduk Tamat SMP**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SMP.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.4.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SMP berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.4.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SMP berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.5. Jumlah Penduduk Tidak Tamat SMP**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMP.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.5.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMP berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.5.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMP berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.6. Jumlah Penduduk Tamat SMA**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan  tingkat pendidikan  tamat SMA.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.6.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat  pendidikan tamat SMA berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.6.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan tamat SMA berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.7. Jumlah Penduduk Tidak Tamat SMA**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMA.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.7.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMA berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.7.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan pendidikan tidak tamat/tidak sampai selesai menempuh pendidikan SMA berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.8. Jumlah Penduduk Diploma**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan diploma.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.8.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan diploma berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.8.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan diploma berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.9. Jumlah Penduduk Sarjana S1**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S1).
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.9.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan pendidikan sarjana (S1) berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.9.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat  pendidikan pendidikan sarjana (S1) berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.10. Jumlah Penduduk Sarjana S2**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S2).
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.10.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S2) berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.10.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S2) berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.11. Jumlah Penduduk Sarjana S3**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S3).
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.5.11.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S3) berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.5.11.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan tingkat pendidikan sarjana (S3) berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.6. Penduduk Berdasarkan Status Perkawinan*			
+#### 4.1.12.I.6.1.  Jumlah Penduduk Belum Kawin**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan status perkawinan belum kawin.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.6.2.  Jumlah Penduduk Sudah Kawin**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan status perkawinan sudah kawin.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.6.3.  Jumlah Penduduk Cerai Hidup**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan status perkawinan cerai hidup.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.6.4.  Jumlah Penduduk Cerai Mati**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia dengan status perkawinan cerai mati.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.7. Jumlah Rumah Tangga (RT)**
+- Satuan : RT
+- Definisi : Jumlah seseorang atau sekelompok orang yang mendiami sebagian atau seluruh bangunann fisik/sensus, dan biasanya makan bersama dari satu dapur.
+- Sumber : Badan Pusat Statistik
+                
+#### 4.1.12.I.8. Penduduk Berdasarkan Mata Pencaharian*			
+#### 4.1.12.I.8.1. Pegawai  Pemerintah**
+- Satuan : Orang
+- Definisi : Orang yang bekerja dalam rangka melaksanakan tugas pemerintahan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 5 Tahun 2014 (pasal 1)( diolah)
+
+#### 4.1.12.I.8.1.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Orang yang bekerja dalam rangka melaksanakan tugas pemerintahan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 5 Tahun 2014 (pasal 1)( diolah)
+                
+#### 4.1.12.I.8.1.2. Perempuan**
+- Satuan : Orang
+- Definisi : Orang yang bekerja dalam rangka melaksanakan tugas pemerintahan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 5 Tahun 2014 (pasal 1)( diolah)
+                
+#### 4.1.12.I.8.2. Petani**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang tanaman pangan, hortikultura, perkebunan, dan/atau peternakan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+
+#### 4.1.12.I.8.2.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang tanaman pangan, hortikultura, perkebunan, dan/atau peternakan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+                
+#### 4.1.12.I.8.2.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang tanaman pangan, hortikultura, perkebunan, dan/atau peternakan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+                
+#### 4.1.12.I.8.3. Petani Kebun**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang perkebunan
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+
+#### 4.1.12.I.8.3.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang perkebunan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+                
+#### 4.1.12.I.8.3.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga negara indonesia perseorangan dan/atau beserta keluarganya yang melakukan usahatani di bidang perkebunan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Tentang Perlindungan Dan Pemberdayaan Petani (Pasal1)
+                
+#### 4.1.12.I.8.4. Nelayan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mata pencahariannya melakukan penangkapan ikan.
+- Sumber : (Departemen Kelautan dan Perikanan,2002)
+
+#### 4.1.12.I.8.4.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mata pencahariannya melakukan penangkapan ikan berjenis kelamin laki-laki.
+- Sumber : (Departemen Kelautan dan Perikanan,2002)(diolah)
+                
+#### 4.1.12.I.8.4.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mata pencahariannya melakukan penangkapan ikan berjenis kelamin perempuan.
+- Sumber : (Departemen Kelautan dan Perikanan,2002)(diolah)
+                
+#### 4.1.12.I.8.5. Petambak**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.8.5.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.5.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.6. Buruh Tambang**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.8.6.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.6.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.7. Buruh Bangunann**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.8.7.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.7.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.8. Tenaga Pendidik **
+- Satuan : Orang
+- Definisi : tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan pendidikan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003
+
+#### 4.1.12.I.8.8.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan pendidikan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 
+                
+#### 4.1.12.I.8.8.2. Perempuan**
+- Satuan : Orang
+- Definisi : tenaga kependidikan yang berkualifikasi sebagai guru, dosen, konselor, pamong belajar, widyaiswara, tutor, instruktur, fasilitator, dan sebutan lain yang sesuai dengan kekhususannya, serta berpartisipasi dalam menyelenggarakan pendidikan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2003 
+                
+#### 4.1.12.I.8.9. Tenaga Kesehatan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengupayakan secara substantif pencapaian peningkatan derajat kesahatan masyarakat.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+
+#### 4.1.12.I.8.9.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengupayakan secara substantif pencapaian peningkatan derajat kesahatan masyarakat berjenis kelamin laki-laki.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+                
+#### 4.1.12.I.8.9.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang mengupayakan secara substantif pencapaian peningkatan derajat kesahatan masyarakat berjenis kelamin perempuan.
+- Sumber : Glosarium Data & Informasi kesehatan (Departemen Kesehatan RI)
+                
+#### 4.1.12.I.8.10. Peneliti**
+- Satuan : Orang
+- Definisi : Jumlah insan yang memiliki kepakaran yang diakui dalam suatu bidang keilmuan dan tugas utamanya ialah melakukan penelitian ilmiah dalam rangka pencarian kebenaran ilmiah.
+- Sumber : Peraturan Kepala Lembaga Ilmu Pengetahuan Indonesia Nomor 08/E/2013 Tentang Pedoman Klirens Etik  Penelitian Dan Publikasi Ilmiah
+
+#### 4.1.12.I.8.10.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah insan laki-laki yang memiliki kepakaran yang diakui dalam suatu bidang keilmuan dan tugas utamanya ialah melakukan penelitian ilmiah dalam rangka pencarian kebenaran ilmiah.
+- Sumber : Peraturan Kepala Lembaga Ilmu Pengetahuan Indonesia Nomor 08/E/2013 Tentang Pedoman Klirens Etik  Penelitian Dan Publikasi Ilmiah (diolah)
+                
+#### 4.1.12.I.8.10.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah insan perempuan yang memiliki kepakaran yang diakui dalam suatu bidang keilmuan dan tugas utamanya ialah melakukan penelitian ilmiah dalam rangka pencarian kebenaran ilmiah.
+- Sumber : Peraturan Kepala Lembaga Ilmu Pengetahuan Indonesia Nomor  08/E/2013 Tentang Pedoman Klirens Etik  Penelitian Dan Publikasi Ilmiah (diolah)
+                
+#### 4.1.12.I.8.11. Jasa/Perdagangan**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.8.11.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.11.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.12. Karyawan Swasta**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.12.I.8.12.1. Laki-Laki**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.12.2. Perempuan**
+- Satuan : Orang
+- Definisi :
+- Sumber :  		
+                
+#### 4.1.12.I.8.13. Lainnya**
+- Satuan : Orang
+- Definisi : Jumlah penduduk berdasarkan mata pencaharian lainnya
+- Sumber :
+
+#### 4.1.12.I.8.13.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah penduduk berdasarkan mata pencaharian lainnya berjenis kelamin laki-laki
+- Sumber : 	
+                
+#### 4.1.12.I.8.13.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah penduduk berdasarkan mata pencaharian lainnya berjenis kelamin perempuan
+- Sumber : 	
+                
+#### 4.1.12.I.9. Penduduk Berdasarkan Agama*			
+#### 4.1.12.I.9.1. Jumlah Penduduk Beragama Islam**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia yang beragama islam
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.9.1.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia yang beragama islam berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.1.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama islam dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.2. Jumlah Penduduk Beragama Kristen Katolik**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen katolik.
+- Sumber : Undang-Undang Dasar Tahun 1945 (pasal 26) diolah
+
+#### 4.1.12.I.9.2.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen katolik dan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Dasar Tahun 1945 (pasal 26) diolah 
+                
+#### 4.1.12.I.9.2.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen katolik dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.3. Jumlah Penduduk Beragama Kristen Protestan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen protestan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.9.3.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen protestan dan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.3.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kristen protestan dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.4. Jumlah Penduduk Beragama  Budha**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama budha.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.9.4.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama budha dan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.4.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama budha dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.5. Jumlah Penduduk Beragama  Hindu**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama hindu.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.9.5.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama hindu dan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.5.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama hindu dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.6. Jumlah Penduduk Beragama  Kong Hu Cu**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia beragama kong hu cu
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.I.9.6.1. Laki-Laki**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia beragama kong hu cu dan berjenis kelamin laki-laki.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.9.6.2. Perempuan**
+- Satuan : Orang
+- Definisi : Jumlah warga Negara Indonesia dan orang Asing yang bertempat tinggal di Indonesia  beragama kong hu chu dan berjenis kelamin perempuan.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.I.10. Migrasi Penduduk*
+- Satuan :
+- Definisi : Perpindahan penduduk dengan tujuan untuk menetap dari suatu tempat ke tempat lain melewati batas administrasif (migrasi internal ) atau batas polotik/negara  (migrasi international ).
+- Sumber : 	
+#### 4.1.12.I.10.1. Migrasi Keluar**
+- Satuan : Orang
+- Definisi : Perpindahan penduduk kesuatu daerah tujuan.
+- Sumber :  	
+                
+#### 4.1.12.I.10.2. Migrasi Masuk**
+- Satuan : Orang
+- Definisi : Masuknya penduduk kesuatu daerah tujuan.
+- Sumber : 	
+                
+### 4.1.12.II.Pencatatan Sipil*			
+#### 4.1.12.II.1. Jumlah Penduduk Wajib KTP
+- Satuan : Orang
+- Definisi : Jumlah penduduk Warga Negara Indonesia dan Orang Asing yang memiliki Izin Tinggal Tetap yang telah berumur 17 (tujuh belas) tahun atau telah kawin atau pernah kawin wajib memiliki KTP-el
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+
+#### 4.1.12.II.2. Jumlah Penduduk  Memiliki E-KTP**
+- Satuan : Orang
+- Definisi : Jumlah penduduk memiliki Kartu Tanda Penduduk yang dilengkapi cip yang merupakan identitas resmi penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.II.3. Jumlah Penduduk Belum Memiliki E-KTP**
+- Satuan : Orang
+- Definisi : Jumlah penduduk yang belum memiliki Kartu Tanda Penduduk yang dilengkapi cip yang merupakan identitas resmi penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+                
+#### 4.1.12.II.4. Jumlah Penduduk Telah Memiliki Akta Kelahiran**
+- Satuan : Orang
+- Definisi : Jumlah penduduk yang telah memiliki  surat bukti otentik secara hukum tentang kelahiran  yang diterbitkan oleh Kantor Catatan Sipil
+- Sumber : Badan Pusat Statistik, Micro data 
+                
+#### 4.1.12.II.5. Jumlah Penduduk Belum Memiliki Akta Kelahiran**
+- Satuan : Orang
+- Definisi : Jumlah penduduk yang belum memiliki  surat bukti otentik secara hukum tentang kelahiran yang diterbitkan oleh Kantor Catatan Sipil
+- Sumber : Badan Pusat Statistik, Micro data 
+                
+#### 4.1.12.II.6. Jumlah Penduduk Memiliki Kartu Keluarga**
+- Satuan : KK
+- Definisi : Jumlah Penduduk yang memiliki kartu identitas keluarga yang memuat data tentang nama, susunan dan hubungan dalam keluarga, serta identitas anggota keluarga.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+               
+#### 4.1.12.II.7. Jumlah Penduduk Belum Memiliki Kartu Keluarga**
+- Satuan : KK
+- Definisi : Jumlah Penduduk yang memiliki kartu identitas keluarga yang memuat data tentang nama, susunan dan hubungan dalam keluarga, serta identitas anggota keluarga.
+- Sumber : Undang-Undang Republik Indonesia Nomor 24 Tahun 2013 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 Tentang Administrasi Kependudukan (Pasal 1) diolah
+               
+#### 4.1.12.II.8. Jumlah Penduduk Memiliki Akta Nikah**
+- Satuan : Orang
+- Definisi : Jumlah penduduk menikah dan telah memiliki suatu akta yang dibuat dan diterbitkan oleh Dinas Kependudukan yang membuktikan secara pasti tentang pernikahan seseorang.
+- Sumber :  	
+                
+#### 4.1.12.II.9. Jumlah Penduduk Belum Memiliki Akta Nikah**
+- Satuan : Orang
+- Definisi : Jumlah penduduk menikah dan tidak memiliki akta yang dibuat dan diterbitkan oleh Dinas Kependudukan yang membuktikan secara pasti tentang pernikahan seseorang.
+- Sumber :  	
+                
+#### 4.1.12.II.10. Jumlah Penduduk Memiliki Akta Perceraian**
+- Satuan : Orang
+- Definisi : Jumlah penduduk yang mengalami peristiwa perceraian yang telah mendapatkan Putusan Pengadilan tetap (Islam dari Pengadilan Agama, Non Islam dari Pengadilan Negeri) dan  dilaporkan kepada Dinas Kependudukan dan Pencatatan Sipil serta mendapat akta perceraian
+- Sumber : 	
+                
+#### 4.1.12.II.11. Jumlah Penduduk Belum Memiliki Akta Perceraian**
+- Satuan : Orang
+- Definisi : Jumlah penduduk bercerai dan belum memiliki akta perceraian
+- Sumber : 	
+                
+#### 4.1.12.II.12. Jumlah Penduduk Memiliki  Akta Kematian**
+- Satuan : Orang
+- Definisi : Jumlah penduduk meninggal dan telah memiliki suatu akta yang dibuat dan diterbitkan oleh Dinas Kependudukan yang membuktikan secara pasti tentang kematian seseorang.
+- Sumber :  	
+                
+#### 4.1.12.II.13. Jumlah Penduduk Belum Memiliki  Akta Kematian**
+- Satuan : Orang
+- Definisi : Jumlah penduduk meninggal yang belum memiliki akta yang dibuat dan diterbitkan oleh Dinas Kependudukan yang membuktikan secara pasti tentang kematian seseorang
+- Sumber : 	
+
+## 4.1.13. Pemberdayaan Masyarakat Dan Desa
+### 4.1.13.I. Administrasi Pemerintahan Desa*
+#### 4.1.13.I.1. Desa/Kelurahan/Desa Adat*			
+#### 4.1.13.I.1.1.  Desa*			
+#### 4.1.13.I.1.1.1. Jumlah Desa**
+- Satuan : Desa
+- Definisi : Jumlah kesatuan masyarakat hukum yang memiliki batas wilayah yang berwenang untuk mengatur dan mengurus urusan pemerintahan, kepentingan masyarakat setempat berdasarkan prakarsa masyarakat, hak asal usul, dan/atau hak tradisional yang diakui dan dihormati dalam sistem pemerintahan Negara Kesatuan Republik Indonesia.
+- Sumber : Undang-Undang Republik Indonesia Nomor 6 Tahun 2014 Tentang Desa (Pasal 1)
+                  
+#### 4.1.13.I.1.1.2. Jumlah RW**
+- Satuan : RW
+- Definisi : Jumlah bagian dari kerja lurah dan merupakan lembaga yang dibentuk melalui musyawarah pengurus RT di wilayah kerjanya yang ditetapkan oleh Pemerintah Desa atau Lurah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.1.1.3. Jumlah RT**
+- Satuan : RT
+- Definisi : Jumlah lembaga yang dibentuk melalui musyawarah masyarakat setempat dalam rangka pelayanan pemerintahan dan kemasyarakatan yang ditetapkan oleh Pemerintah Desa atau Lurah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.1.2.  Desa Adat*			
+#### 4.1.13.I.1.2.1. Jumlah Desa Adat**
+- Satuan : Desa
+- Definisi : Jumlah  sebuah kesatuan masyarakat hukum adat yang secara historis mempunyai batas wilayah dan identitas budaya yang terbentuk atas dasar teritorial yang berwenang mengatur dan mengurus kepentingan masyarakat Desa berdasarkan hak asal usul.
+- Sumber : Undang-Undang Republik Indonesia Nomor 6 Tahun 2014 Tentang Desa ( Penjelasan )
+                  
+#### 4.1.13.I.1.2.2. Jumlah RW**
+- Satuan : RW
+- Definisi : Jumlah bagian dari kerja lurah dan merupakan lembaga yang dibentuk melalui musyawarah pengurus RT di wilayah kerjanya yang ditetapkan oleh Pemerintah desa adat.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.1.2.3. Jumlah RT**
+- Satuan : RT
+- Definisi : Jumlah lembaga yang dibentuk melalui musyawarah masyarakat setempat dalam rangka pelayanan pemerintahan dan kemasyarakatan yang ditetapkan oleh Pemerintah Desa adat.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.2.  Jumlah Kelurahan** 			
+#### 4.1.13.I.2.1. Jumlah Kelurahan**
+- Satuan : Kelurahan
+- Definisi : Jumlah wilayah kerja lurah sebagai perangkat Daerah Kabupaten/Kota dalam wilayah kerja Kecamatan.
+- Sumber : Peraturan Pemerintah Nomor 73 Tahun 2005  Tentang Kelurahan (pasal 1)
+                  
+#### 4.1.13.I.2.2. Jumlah RW**
+- Satuan : RW
+- Definisi : Jumlah bagian dari kerja lurah dan merupakan lembaga yang dibentuk melalui musyawarah pengurus RT di wilayah kerjanya yang ditetapkan oleh Pemerintah Lurah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.2.3. Jumlah RT**
+- Satuan : RT
+- Definisi : Jumlah lembaga yang dibentuk melalui musyawarah masyarakat setempat dalam rangka pelayanan pemerintahan dan kemasyarakatan yang ditetapkan oleh Pemerintah Lurah.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) 
+                  
+#### 4.1.13.I.3. Klasifikasi Desa Berdasarkan Indeks Pembangunan Daerah*	
+#### 4.1.13.I.3.1. Jumlah Desa Tertinggal
+- Satuan : Desa
+- Definisi : Jumlah desa yang memiliki potensi sumber daya sosial, ekonomi, dan ekologi tetapi belum, atau kurang mengelolanya dalam upaya peningkatan kesejahteraan masyarakat Desa, kualitas hidup manusia serta mengalami kemiskinan dalam berbagai bentuknya.
+- Sumber : Peraturan Menteri  Desa, Pembangunan Daerah Tertinggal, Dan Transmigrasi  Republik Indonesia Nomor 2 Tahun 2016  Tentang Indeks Desa Membangun (Pasal1)
+            
+#### 4.1.13.I.3.2. Jumlah Desa Berkembang
+- Satuan : Desa
+- Definisi : Jumlah desa potensial menjadi Desa Maju, yang memiliki potensi sumber daya sosial, ekonomi, dan ekologi tetapi belum mengelolanya secara optimal untuk peningkatan kesejahteraan masyarakat Desa, kualitas hidup manusia dan menanggulangi kemiskinan.
+- Sumber : Peraturan Menteri  Desa, Pembangunan Daerah Tertinggal, Dan Transmigrasi  Republik Indonesia Nomor 2 Tahun 2016  Tentang Indeks Desa Membangun (Pasal1)
+            
+#### 4.1.13.I.3.3. Jumlah Desa Mandiri
+- Satuan : Desa
+- Definisi : Jumlah desa maju yang memiliki kemampuan melaksanakan pembangunan Desa untuk peningkatan kualitas hidup dan kehidupan sebesar-besarnya kesejahteraan masyarakat Desa dengan ketahanan sosial, ketahanan ekonomi, dan ketahanan ekologi secara berkelanjutan.
+- Sumber : Peraturan Menteri  Desa, Pembangunan Daerah Tertinggal, Dan Transmigrasi  Republik Indonesia Nomor 2 Tahun 2016  Tentang Indeks Desa Membangun (Pasal1)
+            
+#### 4.1.13.I.4. Tipologi Desa Berdasarkan Potensi*			
+#### 4.1.13.I.4.1. Jumlah Desa Agraris
+- Satuan : Desa
+- Definisi : Jumlah desa yang mata pencaharian utama penduduknya mayoritas  dibidang pertanian dan perkebunan.
+- Sumber : 	
+            
+#### 4.1.13.I.4.2. Jumlah Desa Industri
+- Satuan : Desa
+- Definisi : Jumlah desa yang mata pencaharian utama dari penduduknya dibidang industri rumah tangga.
+- Sumber : 	
+            
+#### 4.1.13.I.4.3. Jumlah Desa Nelayan
+- Satuan : Desa
+- Definisi : Jumlah desa yang mayoritas mata pencaharian utama masyarakatnya dibidang perikanan dan pertambakan.
+- Sumber : 	
+            
+#### 4.1.13.I.4.4. Jumlah Desa Wisata
+- Satuan : Desa
+- Definisi : Jumlah suatu bentuk integrasi antara atraksi, akomodasi dan fasilitas pendukung yang disajikan dalam suatu struktur kehidupan masyarakat yang menyatu dengan tata cara dan tradisi yang berlaku.
+- Sumber : Peraturan Menteri Kebudayaan Dan Pariwisata Nomor : PM.26/UM.001/MKP/2010 (Pedoman umum /pengertian)
+            
+### 4.1.13.II. Pemerintah Desa/Kelurahan*			
+#### 4.1.13.II.1. Jumlah Kantor Pemerintah Desa**
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala Desa dan Perangkat Desa sebagai unsur penyelenggara pemerintahan desa.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1)
+
+#### 4.1.13.II.1.1. Jumlah Kantor Milik  Desa
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala Desa dan Perangkat Desa sebagai unsur penyelenggara pemerintahan desa dengan status kepemilkan desa
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1) diolah
+              
+#### 4.1.13.II.1.2. Jumlah Kantor  Sewa/Kontrak
+- Satuan : Unit
+- Definisi : Jumlah bangunann/gedung yang disewa dalam  jangka waktu tertentu sesuai kesepakatan pembayaran antara penyewa dengan pemilik dan diperuntukkan sebagai kantor Pemerintah Desa.
+- Sumber : https://www.scribd.com/doc/243189707/Pengertian-Rental-Office
+              
+#### 4.1.13.II.1.3. Jumlah Kantor Numpang
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala Desa dan Perangkat Desa sebagai unsur penyelenggara pemerintahan desa dengan status menumpang atau menggunakan bangunann lain
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1)
+              
+#### 4.1.13.II.2. Jumlah Kantor Kelurahan**
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala Kelurahan dan Perangkat kelurahan sebagai unsur penyelenggara pemerintahan kelurahan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1)
+
+#### 4.1.13.II.2.1. Jumlah Kantor Milik  Kelurahan
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala Kelurahan dan Perangkat kelurahan sebagai unsur penyelenggara pemerintahan kelurahan dengan status kepemilikan  kelurahan
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1) diolah
+              
+#### 4.1.13.II.2.2. Jumlah Kantor  Sewa/Kontrak
+- Satuan : Unit
+- Definisi : Jumlah bangunann/gedung yang disewa dalam  jangka waktu tertentu sesuai kesepakatan pembayaran antara penyewa dengan pemilik dan diperuntukkan sebagai Kantor Kelurahan.
+- Sumber : https://www.scribd.com/doc/243189707/Pengertian-Rental-Office
+              
+#### 4.1.13.II.2.3. Jumlah Kantor Numpang
+- Satuan : Unit
+- Definisi : Jumlah kantor Kepala kelurahan dan Perangkat kelurahan sebagai unsur penyelenggara pemerintahan desa dengan status menumpang atau menggunakan bangunann lain
+- Sumber : Peraturan Menteri Dalam Negeri Nomor   5  Tahun 2007 (pasal 1)
+              
+#### 4.1.13.II.3. Kondisi Kantor Desa/Kelurahan*			
+#### 4.1.13.II.3.1. Jumlah Kantor Milik Desa** 			
+#### 4.1.13.II.3.1.1. Jumlah Kantor Kondisi Baik
+- Satuan : Unit
+- Definisi : Jumlah kantor milik desa yang tidak mengalami kerusakan atau mengalami kerusakan ringan seperti kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                  
+#### 4.1.13.II.3.1.2. Jumlah Kantor Kondisi Sedang
+- Satuan : Unit
+- Definisi : Jumlah kantor milik desa yang mengalami kerusakan ringan seperti kerusakan pada sebagian komponen non-struktural, dan atau komponen struktural seperti struktur atap, lantai, dan lain-lain.
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                  
+#### 4.1.13.II.3.1.3. Jumlah Kantor Kondisi Buruk
+- Satuan : Unit
+- Definisi : Jumlah kantor milik desa yang mengalami kerusakan berat seperti kerusakan pada sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                  
+#### 4.1.13.II.3.2. Jumlah Kantor Milik Kelurahan** 			
+#### 4.1.13.II.3.2.1. Jumlah Kantor Kondisi Baik
+- Satuan : Unit
+- Definisi : Jumlah kantor milik kelurahan yang tidak mengalami kerusakan atau mengalami kerusakan ringan seperti kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                    
+#### 4.1.13.II.3.2.2. Jumlah Kantor Kondisi Sedang
+- Satuan : Unit
+- Definisi : Jumlah kantor milik kelurahan yang mengalami kerusakan ringan seperti kerusakan pada sebagian komponen non-struktural, dan atau komponen struktural seperti struktur atap, lantai, dan lain-lain.
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                    
+#### 4.1.13.II.3.2.3. Jumlah Kantor Kondisi Buruk
+- Satuan : Unit
+- Definisi : Jumlah kantor milik kelurahan yang mengalami kerusakan berat seperti kerusakan pada sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Permen PU Nomor 24/PRT/M/2008 tentang Pedoman Pemeliharaan dan perawatan bangunan Gedung
+                    
+#### 4.1.13.II.4. Aparat Pemerintah Desa/Kelurahan Berdasarkan Tingkat Pendidikan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa berdasarkan tingkat pendidikan.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) 
+ 
+#### 4.1.13.II.4.1. Jumlah Aparat Pemerintah Desa
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) 
+ 
+#### 4.1.13.II.4.1.1. Jumlah Tidak Sekolah/Belum Tamat SD
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa yang riwayat pendidikannya tidak sekolah/belum tamat SD.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) 
+ 
+#### 4.1.13.II.4.1.2. Jumlah Tamat SD Atau Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa dengan pendidikan terakhir Tamat SD atau sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.1.3. Jumlah Tamat SMP Dan Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa dengan pendidikan terakhir Tamat SMP dan sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.1.4. Jumlah Tamat SMA Dan Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa dengan pendidikan terakhir Tamat SMA dan sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.1.5. Jumlah Lulusan Akademi (DI, DII Dan DIII)
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa dengan pendidikan terakhir akademi (DI, DII dan DIII).
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.1.6. Jumlah Lulusan Sarjana (S1)
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah desa dengan pendidikan terakhir sarjana (S1).
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2. Jumlah Aparat Pemerintah Kelurahan**
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2.1. Jumlah Tidak Sekolah/Belum Tamat SD
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan yang riwayat pendidikannya tidak sekolah/belum tamat SD.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) 
+ 
+#### 4.1.13.II.4.2.2. Jumlah Tamat SD Atau Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan dengan pendidikan terakhir Tamat SD atau sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2.3. Jumlah Tamat SMP Dan Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan dengan pendidikan terakhir Tamat SMP atau sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2.4. Jumlah Tamat SMA Dan Sederajat
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan dengan pendidikan terakhir Tamat SMA atau sederajat.
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2.5. Jumlah Lulusan Akademi (DI, DII Dan DIII)
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan dengan pendidikan terakhir Lulusan Akademi (DI, DII Dan DIII).
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+#### 4.1.13.II.4.2.6. Jumlah Lulusan Sarjana (S1)
+- Satuan : Orang
+- Definisi : Jumlah orang yang bekerja pada pemerintah kelurahan dengan pendidikan terakhir lulusan sarjana (S1).
+- Sumber : Jurnal Adminitrasi Publik (JAP), Vol. 1, No. 4, Hal  91-100| 91  ( Kinerja Aparat Pemerintah Desa Dalam Rangka Otonomi Desa) (diolah)
+ 
+### 4.1.13.III. Lembaga Kemasyarakatan*			
+#### 4.1.13.III.1. Lembaga Kemasyarakatan Di Desa*
+- Satuan :
+- Definisi : Jumlah lembaga yang dibentuk oleh masyarakat sesuai dengan kebutuhan dan merupakan mitra Pemerintah Desa dalam memberdayakan masyarakat.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.1.1. Jumlah Karang Taruna**
+- Satuan : Unit
+- Definisi : Jumlah Lembaga Kemasyarakatan di Desa yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.1.1.1. Karang Taruna Aktif
+- Satuan : Unit
+- Definisi : Jumlah Lembaga Kemasyarakatan di Desa yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial yang selalu aktif mengikuti kegiatan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.1.1.2. Karang Taruna Tidak Aktif
+- Satuan : Unit
+- Definisi : Jumlah Lembaga Kemasyarakatan di Desa yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial yang tidak aktif ikut dalam  kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.1.2. Jumlah PKK**
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.1.2.1.PKK Aktif
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK dan aktif mengikuti kegiatan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.1.2.2. PKK Tidak Aktif
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di desa sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK dan tidak aktif mengikuti kegiatan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.1.3. Jumlah Badan/Lembaga Swasdaya  Masyarakat**
+- Satuan : Lembaga
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya; yang selanjutnya disingkat LSM.
+- Sumber : KEPMENSOS Nomor 78 Tahun 1993
+
+#### 4.1.13.III.1.3.1. Badan/Lembaga Swasdaya  Masyarakat Aktif
+- Satuan : Lembaga
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya; yang selanjutnya disingkat LSM yang selalu aktif mengikuti kegiatan.
+- Sumber : KEPMENSOS Nomor 78 Tahun 1993
+                    
+#### 4.1.13.III.1.3.2. Badan/Lembaga Swasdaya  Masyarakat Tidak Aktif
+- Satuan : Lembaga
+- Definisi : Jumlah organisasi/lembaga yang dibentuk oleh anggota masyarakat Warga negara Republik Indonesia secara sukarela atas kehendak sendiri dan berminat serta bergerak di bidang UKS yang ditetapkan oleh Organisasi/Lembaga sebagai wujud partisipasi masyarakat dalam uapya meningkatkan taraf hidup dan kesejahteraan masyarakat yang menitikberatkan kepada pengabdian secara swadaya; yang selanjutnya disingkat LSM yang tidak aktif mengikuti kegiatan.
+- Sumber : KEPMENSOS Nomor 78 Tahun 1993
+                    
+#### 4.1.13.III.1.4. Jumlah Kelompok Swasdaya Masyarakat**
+- Satuan : Kelompok
+- Definisi : Jumlah kumpulan orang didesa yang menyatukan diri secara sukarela dalam kelompok dikarenakan adanya ikatan pemersatu, yaitu adanya Visi, kepentingan dan kebutuhan yang sama, sehingga kelompok tersebut memiliki kesamaan tujuan yang ingin dicapai bersama.
+- Sumber : Petunjuk Teknis Pengembangan Kelompok Swadaya Masyarakat (KSM) PNPM Mandiri Perkotaan.
+
+#### 4.1.13.III.1.4.1. Kelompok Swasdaya Masyarakat Aktif
+- Satuan : Kelompok
+- Definisi : Jumlah kumpulan orang didesa yang menyatukan diri secara sukarela dalam kelompok dikarenakan adanya ikatan pemersatu, yaitu adanya Visi, kepentingan dan kebutuhan yang sama, sehingga kelompok tersebut memiliki kesamaan tujuan yang ingin dicapai bersama yang aktif mengikuti kegiatan lembaga.
+- Sumber : Petunjuk Teknis Pengembangan Kelompok Swadaya Masyarakat (KSM) PNPM Mandiri Perkotaan. (diolah)
+                    
+#### 4.1.13.III.1.4.2. Kelompok Swasdaya Masyarakat Tidak Aktif
+- Satuan : Kelompok
+- Definisi : Jumlah kumpulan orang didesa yang menyatukan diri secara sukarela dalam kelompok dikarenakan adanya ikatan pemersatu, yaitu adanya Visi, kepentingan dan kebutuhan yang sama, sehingga kelompok tersebut memiliki kesamaan tujuan yang ingin dicapai bersama yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Petunjuk Teknis Pengembangan Kelompok Swadaya Masyarakat (KSM) PNPM Mandiri Perkotaan. (diolah)
+                    
+#### 4.1.13.III.1.5. Jumlah Lembaga Ketahanan Masyarakat Desa**
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah didesa yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.1.5.1. Lembaga Ketahanan Masyarakat Desa Aktif
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah didesa yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.1.5.2. Lembaga Ketahanan Masyarakat Desa Tidak Aktif
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah didesa yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.1.6. Jumlah Lembaga Pemberdayaan Masyarakat Desa**
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.1.6.1. Lembaga Pemberdayaan Masyarakat Desa aktif
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.1.6.2. Lembaga Pemberdayaan Masyarakat Desa tidak Aktif
+- Satuan : Lembaga
+- Definisi : Jumlah Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.2. Lembaga Kemasyarakatan Di Kelurahan* 			
+#### 4.1.13.III.2.1. Jumlah Karang Taruna**
+- Satuan : Unit
+- Definisi : Lembaga Kemasyarakatan dikelurahan yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.2.1.1. Karang Taruna Aktif
+- Satuan : Unit
+- Definisi : Lembaga Kemasyarakatan dikelurahan yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.2.1.2. Karang Taruna Tidak Aktif
+- Satuan : Unit
+- Definisi : Lembaga Kemasyarakatan dikelurahan yang merupakan wadah pengembangan generasi muda yang tumbuh dan berkembang atas dasar kesadaran dan rasa tanggung jawab sosial dari, oleh dan untuk masyarakat terutama generasi muda di wilayah desa/kelurahan atau komunitas adat sederajat dan terutama bergerak dibidang usaha kesejahteraan sosial, yang secara fungsional dibina dan dikembangkan oleh Departemen Sosial yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1) (Diolah)
+                    
+#### 4.1.13.III.2.2. Jumlah Pembinaan Kesejahteraan Keluarga**
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di kelurahan sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.2.2.1. Pembinaan Kesejahteraan Keluarga Aktif
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di kelurahan sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.2.2.2. Pembinaan Kesejahteraan Keluarga Tidak Aktif
+- Satuan : Unit
+- Definisi : Jumlah lembaga kemasyarakatan di kelurahan sebagai mitra kerja pemerintah dan organisasi kemasyarakatan lainnya, yang berfungsi sebagai fasilitator, perencana, pelaksana, pengendali dan penggerak pada masing-masing jenjang pemerintahan untuk terlaksananya program PKK yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.2.3. Jumlah Lembaga Pemberdayaan Masyarakat**
+- Satuan : Lembaga
+- Definisi : Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.2.3.1. Lembaga Pemberdayaan Masyarakat  Aktif
+- Satuan : Lembaga
+- Definisi : Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.2.3.2. Lembaga Pemberdayaan Masyarakat  Tidak Aktif
+- Satuan : Lembaga
+- Definisi : Lembaga atau wadah yang dibentuk atas prakarsa masyarakat sebagai mitra Pemerintah Desa dan Lurah dalam menampung dan mewujudkan aspirasi serta kebutuhan masyarakat di bidang pembangunan yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.3. Lembaga Adat*			
+#### 4.1.13.III.3.1. Jumlah Lembaga Adat**
+- Satuan : Lembaga
+- Definisi : Lembaga Kemasyarakatan dikelurahan baik yang sengaja dibentuk maupun yang secara wajar telah tumbuh dan berkembang di dalam sejarah masyarakat atau dalam suatu masyarakat hukum adat tertentu dengan wilayah hukum dan hak atas harta kekayaan di dalam hukum adat tersebut, serta berhak dan berwenang untuk mengatur, mengurus dan menyelesaikan berbagai permasalahan kehidupan yang berkaitan dengan dan mengacu pada adat istiadat dan hukum adat yang berlaku.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+#### 4.1.13.III.3.1.1. Lembaga Adat  Aktif
+- Satuan : Lembaga
+- Definisi : Lembaga Kemasyarakatan dikelurahan baik yang sengaja dibentuk maupun yang secara wajar telah tumbuh dan berkembang di dalam sejarah masyarakat atau dalam suatu masyarakat hukum adat tertentu dengan wilayah hukum dan hak atas harta kekayaan di dalam hukum adat tersebut, serta berhak dan berwenang untuk mengatur, mengurus dan menyelesaikan berbagai permasalahan kehidupan yang berkaitan dengan dan mengacu pada adat istiadat dan hukum adat yang berlaku yang aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+                    
+#### 4.1.13.III.3.1.2. Lembaga Adat  Tidak Aktif
+- Satuan : Lembaga
+- Definisi : Lembaga Kemasyarakatan dikelurahan baik yang sengaja dibentuk maupun yang secara wajar telah tumbuh dan berkembang di dalam sejarah masyarakat atau dalam suatu masyarakat hukum adat tertentu dengan wilayah hukum dan hak atas harta kekayaan di dalam hukum adat tersebut, serta berhak dan berwenang untuk mengatur, mengurus dan menyelesaikan berbagai permasalahan kehidupan yang berkaitan dengan dan mengacu pada adat istiadat dan hukum adat yang berlaku yang tidak aktif mengikuti kegiatan lembaga.
+- Sumber : Peraturan Menteri Dalam Negeri Nomor 5 Tahun 2007 (pasal 1)
+
+## 4.1.14. Pengendalian Penduduk Dan Keluarga Berencana
+### 4.1.14.I. Pengendalian Penduduk* 
+#### 4.1.14.I.1. Rata-Rata Jumlah Anak Per Keluarga**
+- Satuan : Orang
+- Definisi : Jumlah anak dibagi dengan jumlah keluarga.
+Menghitung jumlah jiwa dalam keluarga dikurangi jumlah kepala keluarga kawin dan kepala keluarga janda/duda. hasil pengurangan tersebut dikurangi jumlah jiwa dalam keluarga dibagi jumlah kepala keluarga.Diharapkan rata-rata jumlah anak per keluarga  lebih kecil akan lebih baik
+- Sumber : http://geoportalbankdatasumbawa.net/public/iku/bagian_2_kb_1
+           
+#### 4.1.14.I.2. Jumlah Kelahiran**
+- Satuan : Orang
+- Definisi : Jumlah ketika lahirnya janin berusia 5 bulan (22 minggu) ke atas, bila lahirnya janin kurang dari 5 bulan dinamakan abortus/keguguran.
+- Sumber : Badan Pusat Statistik (2016)
+           
+#### 4.1.14.I.3. Jumlah Kematian Penduduk**
+- Satuan : Orang
+- Definisi : Jumlah orang penduduk yang mengalami peristiwa hilangnya tanda-tanda kehidupan secara permanen yang dapat terjadi setiap saat setelah kelahiran hidup terjadi. Yang dimaksud dengan tanda-tanda kehidupan, misalnya: bernafas, jantung berdenyut, bergerak, dan sebagainya. Dalam hal ini, kematian hanya dapat terjadi apabila didahului oleh kelahiran hidup.
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.I.4. Jumlah Remaja Wanita Usia  15-19 Thn Yang Melahirkan**
+- Satuan : Orang
+- Definisi : Jumlah Remaja Wanita Usia  15-19 Thn Yang Melahirkan
+- Sumber : 	
+           
+#### 4.1.14.I.5. Jumlah Kehamilan Yang Tidak Diinginkan Dari Wanita Usia Subur 15-49 Thn**
+- Satuan : Orang
+- Definisi : Jumlah suatu kehamilan yang terjadi di luar perencanaan. Karena pasangan suami/istri tidak mau menggunakan kontrasepsi, tidak ada akses ke pelayanan KB sehingga menyebabkan kehamilan, dimana secara fisik atau psikologis pasangan tidak siap dan menolak kejadian kehamilan (unwanted pregnancy) dari wanita usia subur 15-49 tahun
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+### 4.1.14.II. Keluarga Berencana*			
+#### 4.1.14.II.1. Jumlah Pasangan Usia Subur**
+- Satuan : Pasang
+- Definisi : Jumlah Pasangan suami istri yang istrinya berumur antara 15-49 tahun, dan secara operasional pula pasangan suami istri yang istri berumur kurang dari 15 tahun dan telah kawin atau istri berumur lebih dari 49 tahun tetapi belum menopause
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+
+#### 4.1.14.II.1.1. Jumlah Pasangan Usia Subur Peserta KB**
+- Satuan : Pasang
+- Definisi : Jumlah pasangan usia subur yang suami/isterinya sedang memakai atau menggunakan salah satu alat/cara kontrasepsi modern pada tahun pelaksanaan pendataan keluarga/pemutakhiran data keluarga. Dalam pengertian ini tidak termasuk cara cara kontrasepsi tradisional, seperti pijat urut, jamu dan juga tidak termasuk cara cara KB alamiah seperti pantang berkala, senggama terputus dan sebagainya.
+- Sumber : Pemukhtahiran Data Keluarga (BKKBN)
+           
+#### 4.1.14.II.1.2. Jumlah Pasangan Usia Subur Belum Mengikuti KB**
+- Satuan : Pasang
+- Definisi : Jumlah Pasangan suami istri yang istrinya berumur antara 15-49 tahun, dan secara operasional pula pasangan suami istri yang istri berumur kurang dari 15 tahun dan telah kawin atau istri berumur lebih dari 49 tahun tetapi belum menopause yang belum mengikuti KB
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011) (diolah)
+           
+#### 4.1.14.II.2. Peserta KB Berdasarkan Alat/Metode*			
+#### 4.1.14.II.2.1. Suntik KB/Implan**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode suntik KB/ Implan yaitu Kapsul berisi levenorgestrol, dimasukkan di bawah kulit lengan atas wanita untuk mencegah kehamilan
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.2. Obat/Pil KB**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode obat/pil yaitu tablet yang diminum untuk mencegah kehamilan, mengandung hormon estrogen dan progesteron sintetik, disebut juga sebagai pil kombinasi, sedangkan jika hanya mengandung progesteron sintetik saja disebut Mini Pil atau Pil Progestin
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.3. IUD/Spiral**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode IUD/Spiral yaitu alat kontrasepsi dalam rahim
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.4. Susuk** /Implant
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode susuk/implant yaitu Alat kontrasepsi yang ditanam di bawah kulit
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.5. Kondom**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode kondom yaitu salah satu alat kontrasepsi yang terbuat dari karet (lateks) berbentuk tabung tidak tembus cairan dimana salah satu ujungnya tertutup rapat dan dilengkapi kantung untuk menampung sperma yang dikeluarkan pria pada saat senggama sehingga tidak tercurah ke dalam vagina
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.6. Vagina Diafragma**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode vagina diafragma yaitu suatu alat KB terbuat dari karet, berbentuk mangkok dipakai untuk menutupi mulut rahim dengan memasukkannya sejauh mungkin ke dalam liang senggama yang mencegah masuknya sel mani ke mulut rahim, sehingga mencegah terjadinya kehamilan.
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.7. Spermatisida** /spermisida
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode spermatisida/spermisida yaitu bahan kimia (biasanya non oksinol-9) yang digunakan untuk menon-aktifkan atau membunuh sperma. Dikemas dalam bentuk aerosol (busa), tablet vagina, dissovable film, atau krim.
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.8. Vasektomi**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode vasektomi yaitu (sterilisasi) Cara ber KB bagi pria melalui operasi kecil dengan menggunakan pisau operasi atau tanpa pisau untuk memotong dan mengikat kedua saluran sel mani sehingga pada waktu senggama sperma tidak dapat keluar membuahi sel telur istri sehingga tidak terjadi kehamilan
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.2.9. Tubektomi**
+- Satuan : Orang
+- Definisi : Jumlah peserta KB dengan metode tubektomi yaitu proses bedah sukarela untuk menghentikan fertilitas (kesuburan) seorang perempuan secara permanen dengan mengoklusi tuba fallopi (memotong dan mengangkat cincin pada kedua saluran sel telur) sehingga sperma tidak dapat bertemu dengan ovum
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+           
+#### 4.1.14.II.3. Sarana Dan Prasarana KB*			
+#### 4.1.14.II.3.1. Jumlah Alat Peraga KB**
+- Satuan : Kit
+- Definisi : Alat peraga yang digunakan untuk sebagai prasarana penunjang aktivitas dalam pembinaan dan penyuluhan program KB
+- Sumber : Petunjuk Operasional Penggunaan DAK Fisik Subbidang Keluarga Berencana, (badan kependudukan dan keluarga berencana nasional, 2017) Diolah
+           
+#### 4.1.14.II.3.2. Jumlah Balai KB**
+- Satuan : Balai
+- Definisi : Bangunan yang terletak di wilayah kecamatan berfungsi sebagai tempat beraktivitas dalam merencanakan, melaksanakan, mengevaluasi, mengendalikan, pembinaan dan penyuluhan dalam Program KB
+- Sumber : Petunjuk Operasional Penggunaan DAK Fisik Subbidang Keluarga Berencana, (badan kependudukan dan keluarga berencana nasional, 2017) Diolah
+           
+#### 4.1.14.II.3.3. Unit Pelayanan KB*			
+#### 4.1.14.II.3.3.1. Puskesmas**
+- Satuan : Unit
+- Definisi : Unit pelaksana teknis dinas kesehatan kabupaten/kota yang bertanggungjawab menyelenggarakan pembangunan kesehatan disuatu wilayah kerja.
+- Sumber : Kepmenkes Nomor: 128/menkes/SK/II/2004 Tentang Kebijakan Dasar Kesehatan Puskesmas
+               
+#### 4.1.14.II.3.3.2. Puskesmas Pembantu**
+- Satuan : Unit
+- Definisi : Unit pelayanan kesehatan yang sederhana dan berfungsi menunjang dan membantu memperluas jangkauan puskesmas dengan melaksanakan kegiatan-kegiatan yang dilakukan puskesmas dalam ruang lingkup wilayah yang lebih kecil serta jenis dan kompetensi pelayanan yang disesuaikan dengan kemampuan tenaga dan sarana yang tersedia.
+- Sumber : Pedoman Kerja Puskesmas Jilid I, Departemen Kesehatan RI tahun (1999) dalam Glosarium data & informasi kesehatan Departemen kesahatan republik Indonesia 2006)
+               
+#### 4.1.14.II.3.3.3. Klinik KB**
+- Satuan : Unit
+- Definisi : Tempat pelayanan kontrasepsi yang bersifat statis bagi pasangan usia subur; Fasilitas kesehatan yang dimiliki oleh Pemerintah termasuk TNI-Polri maupun Swasta dan telah berpartisipasi aktif memberikan pelayanan kontrasepsi.
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+               
+#### 4.1.14.II.3.3.4. Pos Pelayanan Keluarga Berencana Desa**
+- Satuan : Unit
+- Definisi : Sarana pembinaan dan pelayanan keluarga berencana melalui sistim kelompok-kelompok akseptor keluarga berencana, yang mula-mula timbul atas inisiatif dan kesadaran masyarakat sendiri di desa untuk  mencapai kelestarian akseptor keluarga berencana, menuju ke arah keluarga kecil yang sejahtera
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+               
+#### 4.1.14.II.3.4. Jumlah Tenaga Klinik KB**
+- Satuan : Orang
+- Definisi : Total Jumlah tenaga yang memberikan pelayanan KB meliputi dokter, bidan dan perawat kesehatan	
+#### 4.1.14.II.3.4.1. Dokter** 	Orang	Jumlah dokter lulusan pendidikan kedokteran baik di dalam maupun di luar negeri yang diakui oleh Pemerintah Republik Indonesia sesuai dengan peraturan perundang-undangan
+- Sumber : Standar pendidikan profesi dokter indonesia, 2012
+                   
+#### 4.1.14.II.3.4.2. Bidan**
+- Satuan : Orang
+- Definisi : Seorang perempuan yang lulus dari pendidikan bidan yang telah teregistrasi sesuai ketentuan peraturan perundangan-undangan
+- Sumber : Peraturan Menteri Kesehatan Republik Indonesia Nomor 1464/Menkes/Per/X/2010 Tentang Izin dan Penyelenggaraan Praktik Bidan
+                   
+#### 4.1.14.II.3.4.3. Perawat Kesehatan**
+- Satuan : Orang
+- Definisi : Seseorang yang telah lulus pendidikan tinggi Keperawatan, baik di dalam maupun di luar negeri yang diakui oleh Pemerintah sesuai dengan ketentuan Peraturan Perundang-undangan
+- Sumber : Undang-Undang Republik Indonesia Nomor 38 Tahun 2014 Tentang Keperawatan
+                   
+#### 4.1.14.II.3.5. Jumlah Petugas KB**
+- Satuan : Orang
+- Definisi : Jumlah Petugas lapangan KB dan Penyuluh KB	
+- Sumber :
+
+#### 4.1.14.II.3.5.1. Petugas Lapangan KB**
+- Satuan : Orang
+- Definisi : Jumlah Pegawai Negeri Sipil (PNS)  dengan jabatan non fungsional dan Non PNS yang diangkat oleh pejabat yang berwenang yang mempunyai tugas dan tanggung jawab untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga.
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana
+
+#### 4.1.14.II.3.5.1.1. Sudah Mengikuti Pelatihan**
+- Satuan : Orang
+- Definisi : Jumlah Pegawai Negeri Sipil (PNS)  dengan jabatan non fungsional dan Non PNS yang diangkat oleh pejabat yang berwenang yang mempunyai tugas dan tanggung jawab untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga yang sudah mengikuti pelatihan
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana (diolah)
+                   
+#### 4.1.14.II.3.5.1.2. Belum Mengikuti Pelatihan**
+- Satuan : Orang
+- Definisi : Jumlah Pegawai Negeri Sipil (PNS)  dengan jabatan non fungsional dan Non PNS yang diangkat oleh pejabat yang berwenang yang mempunyai tugas dan tanggung jawab untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga yang belum mengikuti pelatihan.
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana (diolah)
+                   
+#### 4.1.14.II.3.5.2. Penyuluh KB**
+- Satuan : Orang
+- Definisi : Jumlah pegawai Negeri Sipil (PNS) dengan jabatan fungsional yang diberi tugas, tanggung jawab, wewenang dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga.
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana
+
+#### 4.1.14.II.3.5.2.1. Sudah Mengikuti Pelatihan**
+- Satuan : Orang
+- Definisi : Jumlah pegawai Negeri Sipil (PNS) dengan jabatan fungsional yang diberi tugas, tanggung jawab, wewenang dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga yang sudah mengikuti pelatihan.
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana
+                   
+#### 4.1.14.II.3.5.2.2. Belum Mengikuti Pelatihan**
+- Satuan : Orang
+- Definisi : Jumlah pegawai Negeri Sipil (PNS) dengan jabatan fungsional yang diberi tugas, tanggung jawab, wewenang dan hak secara penuh oleh pejabat yang berwenang untuk melaksanakan kegiatan penyuluhan, pelayanan, evaluasi dan pengembangan program Kependudukan, Keluarga Berencana dan Pembangunan Keluarga yang belum mengikuti pelatihan.
+- Sumber : Peraturan Kepala Badan Kependudukan Dan Keluarga Berencana Nasional Nomor : 443/Per/B1/2015 Tentang Petunjuk Teknis Penggunaan Dana Alokasi Khusus Sub Bidang Keluarga Berencana
+                   
+#### 4.1.14.II.3.6. Jumlah Kelompok Bina Keluarga**
+- Satuan : Kelompok
+- Definisi : Jumlah Upaya pemberdayaan ketahanan keluarga melalui program bina ketahanan keluarga yang bertujuan meningkatkan pengetahuan keluarga (orang tua dan anggota keluarga lainnya) dalam meningkatkan kualitas anggota keluarganya sesuai dengan tingkatan usianya (balita, remaja dan lansia)
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+
+#### 4.1.14.II.3.6.1. Jumlah Kelompok Bina Keluarga Balita**
+- Satuan : Kelompok
+- Definisi : Jumlah Kelompok kegiatan untuk meningkatkan pengetahuan dan keterampilan kepada orang tua dan anggota keluarga lainnya tentang cara pengasuhan tumbuh kembang anak balita
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+                 
+#### 4.1.14.II.3.6.2. Jumlah Kelompok Bina Keluarga Remaja**
+- Satuan : Kelompok
+- Definisi : Jumlah Kelompok kegiatan untuk meningkatkan kepedulian, kesadaran dan tanggung jawab orang tua terhadap kewajibannya membimbing, meningkatkan pengetahuan, kesadaran anak dan remaja dalam rangka meningkatkan ketahanan fisik, non fisik melalui inter ekstra komunikasi yang sehat dan harmonis dalam suasana kehidupan rumah tangga yang bahagia dan sejahtera
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+                 
+#### 4.1.14.II.3.6.3. Jumlah Kelompok Bina Keluarga Lansia**
+- Satuan : Kelompok
+- Definisi : Jumlah Kelompok kegiatan untuk membina keluarga lansia. Keluarga lansia adalah keluarga dimana anggota keluarganya ada yang sudah memasuki usia lanjut, mereka harus menyesuaikan di masa depan adanya kemunduran fisik, mental dan juga kemungkinan ekonomi
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+                 
+#### 4.1.14.II.3.7. Jumlah Institusi Masyarakat Pedesaan**
+- Satuan : Institusi
+- Definisi : Jumlah wadah pengorganisasian dan pembinaan keluarga serta wadah pengelolaan dan pelaksanaan gerakan KB Nasional ditingkat desa/ kelurahan ke bawah. Wadah tersebut secara nasional disebut PPKBD, Sub PPKBD dan Kelompok KB
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+
+#### 4.1.14.II.3.7.1. Jumlah Pembantu Pembina Keluarga Berencana Desa**
+- Satuan : Institusi
+- Definisi : Jumlah seorang atau beberapa orang kader yang secara sukarela berperan aktif melaksanakan/mengelola Program Kelurga Berencana Nasional di tingkat Desa/Kelurahan atau yang setara.
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+                 
+#### 4.1.14.II.3.7.2. Jumlah Sub Pembantu Pembina Keluarga Berencana Desa**
+- Satuan : Institusi
+- Definisi : Jumlah seorang atau beberapa orang kader yang secara sukarela berperan aktif melaksanakan/mengelola Program Keluarga Berencana Nasional di tingkat Dusun/RW atau yang setara
+- Sumber : Kamus Istilah Kependudukan & Keluarga Berencana (Direktorat Teknologi Informasi dan Dokumentasi Badan Kependudukan & Keluarga Berencana Nasional,2011)
+
+## 4.1.15. Perhubungan*
+### 4.1.15.I. Transportasi Darat*
+#### 4.1.15.I.1. Jumlah Kendaraan Pribadi**
+- Satuan : Unit
+- Definisi : Jumlah Kendaraan dengan kepemilikan pribadi yang memberi kebebasan beroperasi, untuk memakai dan melakukan perjalanan ke mana saja, dimana saja dan kapan saja.
+- Sumber : Jurnal Rekayasa Sipil / Volume 4, No.1– 2010 Issn 1978 – 5658
+
+#### 4.1.15.I.1.1. Jumlah Kendaraan Roda 4
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.1.2. Jumlah Kendaraan Roda 2
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2. Jumlah Moda Angkutan Barang/Orang**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.1. Jumlah Moda Angkutan Barang **
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.1.1. Jumlah Truk Barang Umum
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.1.2. Jumlah Mobil Box
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.1.3. Jumlah Mobil Peti Kemas
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.1.4. Jumlah Mobil Tangki
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.2. Jumlah Jembatan Timbang**
+- Satuan : Unit
+- Definisi : Jumlah jembatan yang telah dilengkapi dengan sensor untuk membaca berat dari media yang akan di timbang.
+- Sumber : http://digilib.unila.ac.id/10323/95/BAB%20II.pdf
+
+#### 4.1.15.I.2.2.1. Berfungsi
+- Satuan : Unit
+- Definisi : Jumlah jembatan yang telah dilengkapi dengan sensor untuk membaca berat dari media yang akan di timbang yang masih dapat berfungsi dngan baik.
+- Sumber : http://digilib.unila.ac.id/10323/95/BAB%20II.pdf
+
+#### 4.1.15.I.2.2.2. Tidak Berfungsi
+- Satuan : Unit
+- Definisi : Jumlah jembatan yang telah dilengkapi dengan sensor untuk membaca berat dari media yang akan di timbang.
+- Sumber : http://digilib.unila.ac.id/10323/95/BAB%20II.pdf
+
+#### 4.1.15.I.2.3. Moda Angkutan Umum**
+- Satuan : Unit
+- Definisi : Angkutan yang ditekankan pada jenis angkutan umum penumpang yang dilakukan dengan sistem sewa atau bayar dan sudah tidak dapat menjalankan fungsinya.
+- Sumber : Jurnal Rekayasa Sipil / Volume 4, No.1– 2010 Issn 1978 – 5658
+
+#### 4.1.15.I.2.3.1. Jumlah Bus
+- Satuan : Unit
+- Definisi : Kendaraan bermotor angkutan orang yang memiliki tempat duduk lebih dari 8 (delapan) orang, termasuk untuk pengemudi atau yang beratnya lebih dari 3.500 (tiga ribu lima ratus) kilogram
+- Sumber : Peraturan menteri perhubungan Republik Indonesia Nomor PM 32 Tahun 2016 tentang penyelenggaraan angkutan orang dengan kendaraan bermotor umum tidak dalam trayek
+
+#### 4.1.15.I.2.3.2. Jumlah Angkutan Kota
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.3.3. Jumlah Taksi
+- Satuan : Unit
+- Definisi : angkutan dengan mengguakan mobil penumpang umum yang diberi tanda khusus dan dilengkapi dengan argometer yang melayani angkutan dari pintu ke pintu dengan wilayah operasi dalam kawasan perkotaan
+- Sumber : Peraturan menteri perhubungan Republik Indonesia Nomor PM 32 Tahun 2016 tentang penyelenggaraan angkutan orang dengan kendaraan bermotor umum tidak dalam trayek
+
+#### 4.1.15.I.2.3.4. Jumlah Ojek
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.3.5. Jumlah Bajaj/Kancil
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.3.6. Jumlah Bemo
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.3.7. Jumlah Becak
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.3.8. Jumlah Delman
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.4. Jumlah Perusahaan Angkutan Umum**
+- Satuan : Perusahaan
+- Definisi : Jumlah badan hukum yang menyediakan jasa angkutan orang dan/atau barang dengan kendaraan bermotor umum.
+- Sumber : Peraturan Menteri Perhubungan Republik Indonesia Nomor 32 Tahun 2016 Tentang Penyelenggaraan Angkutan Orang Dengan Kendaraan Bermotor Umum Tidak Dalam Trayek (Pasal 1)
+
+#### 4.1.15.I.2.4.1. Perusahaan Milik Pemerintah
+- Satuan : Perusahaan
+- Definisi : Jumlah badan hukum yang menyediakan jasa angkutan orang dan/atau barang dengan kendaraan bermotor umum yang pengelolaannya dan modalnya sepenuhnya ditanggung oleh pemerintah
+- Sumber : Peraturan Menteri Perhubungan Republik Indonesia Nomor 32 Tahun 2016 Tentang Penyelenggaraan Angkutan Orang Dengan Kendaraan Bermotor Umum Tidak Dalam Trayek (Pasal 1) diolah
+
+#### 4.1.15.I.2.4.2. Perusahaan Milik Swasta
+- Satuan : Perusahaan
+- Definisi : Jumlah badan hukum yang menyediakan jasa angkutan orang dan/atau barang dengan kendaraan bermotor umum yang pengelolaannya dan modalnya sepenuhnya ditanggung oleh swasta
+- Sumber : Peraturan Menteri Perhubungan Republik Indonesia Nomor 32 Tahun 2016 Tentang Penyelenggaraan Angkutan Orang Dengan Kendaraan Bermotor Umum Tidak Dalam Trayek (Pasal 1) diolah
+
+#### 4.1.15.I.2.5. Jumlah Tempat Pengujian Kendaraan (KIR) Angkutan Umum
+- Satuan : Unit
+- Definisi : Jumlah tempat pengujian kendaraan bermotor untuk mengetahui apakah memenuhi spesifikasi teknis yang dibutuhkan atau tidak.
+- Sumber :
+
+#### 4.1.15.I.2.6. Jumlah Terminal**
+- Satuan : Unit
+- Definisi : Jumlah pangkalan Kendaraan Bermotor Umum yang digunakan untuk mengatur kedatangan dan keberangkatan, menaikkan dan menurunkan orang dan/atau barang, serta perpindahan moda angkutan.
+- Sumber : Undang-Undang Republik Indonesia Nomor  22  Tahun  2009  Tentang Lalu Lintas dan Angkutan Jalan (pasal 1)
+
+#### 4.1.15.I.2.6.1. Jumlah Terminal Tipe A
+- Satuan : Unit
+- Definisi : Jumlah terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan lintas batas negara dan/atau angkutan antarkota antarprovinsi dan dipadukan dengan pelayanan angkutan antarkota dalam provinsi, angkutan perkotaan, dan/atau angkutan perdesaan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60)
+
+#### 4.1.15.I.2.6.2. Jumlah Terminal Tipe B
+- Satuan : Unit
+- Definisi : Jumlah terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan antarkota dalam provinsi dan dipadukan dengan pelayanan angkutan perkotaan dan/atau angkutan perdesaan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60)
+
+#### 4.1.15.I.2.6.3. Jumlah Terminal Tipe C
+- Satuan : Unit
+- Definisi : Terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan perkotaan atau perdesaan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60)
+
+#### 4.1.15.I.2.7. Penumpang Melalui Terminal Tipe A*			
+#### 4.1.15.I.2.7.1.  Jumlah Penumpang Masuk
+- Satuan : Unit
+- Definisi : Jumlah penumpang masuk di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan lintas batas negara dan/atau angkutan antarkota antarprovinsi.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60) diolah
+
+#### 4.1.15.I.2.7.2.  Jumlah Penumpang Keluar
+- Satuan : Unit
+- Definisi : Jumlah penumpang keluar di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan lintas batas negara dan/atau angkutan antarkota antarprovinsi.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60)diolah
+
+#### 4.1.15.I.2.8. Penumpang Melalui Terminal Tipe B*			
+#### 4.1.15.I.2.8.1.  Jumlah Penumpang Masuk
+- Satuan : Unit
+- Definisi : Jumlah penumpang masuk di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan antarkota dalam provinsi.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60) diolah
+
+#### 4.1.15.I.2.8.2.  Jumlah Penumpang Keluar
+- Satuan : Unit
+- Definisi : Jumlah penumpang keluar di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan antarkota dalam provinsi.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60) diolah
+
+#### 4.1.15.I.2.9. Penumpang Melalui Terminal Tipe C* 			
+#### 4.1.15.I.2.9.1.  Jumlah Penumpang Masuk
+- Satuan : Unit
+- Definisi : Jumlah penumpang masuk di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan perkotaan atau perdesaan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60) diolah
+
+#### 4.1.15.I.2.9.2.  Jumlah Penumpang Keluar
+- Satuan : Unit
+- Definisi : Jumlah penumpang keluar di terminal yang fungsi utamanya melayani kendaraan umum untuk angkutan perkotaan atau perdesaan.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 79 Tahun 2013 Tentang Jaringan Lalu Lintas Dan Angkutan Jalan (Pasal 60) diolah
+
+#### 4.1.15.I.2.10. Jumlah Moda Angkutan Sungai Danau Dan Penyeberangan (ASDP)**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.10.1. Jumlah Ferry
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.10.2. Jumlah Kapal Perintis
+- Satuan : Unit
+- Definisi : Kapal yang memiliki tugas menghubungkan daerah terpencil yang belum teruka dengan menggunakan kapal milik negara tipe kapal penumpang barang
+- Sumber : Peraturan menteri perhubungan Republik Indonesia Nomor PM 35 Tahun 2017 Tentang Penyelenggaraan kegiatan pelayanan kapal perintis milik negara
+
+#### 4.1.15.I.2.10.3. Jumlah Kapal Komersil
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.10.4. Jumlah Perahu/Sampan
+- Satuan : Unit
+- Definisi : kendaraan air (biasanya tidak bergeladak) yang lancip pada kedua ujungnya dan lebar di tengahnya
+- Sumber :
+
+#### 4.1.15.I.2.10.5. Jumlah Rakit/Getek
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.11. Jumlah Dermaga
+- Satuan : Unit
+- Definisi : Jumlah bangunan tempat menambatkan kapal yang melakukan muat-bongkar barang dan menaik-turunkan penumpang.
+- Sumber : SNI Dermaga Untuk pelayanan Kapal perintis
+
+#### 4.1.15.I.2.12. Jumlah Penumpang Melalui Dermaga**
+- Satuan : Orang
+- Definisi : Jumlah orang yang bukan termasuk awak di bangunan tempat menambatkan kapal yang melakukan muat-bongkar barang dan menaik-turunkan penumpang.
+- Sumber : SNI Dermaga Untuk pelayanan Kapal perintis
+
+#### 4.1.15.I.2.12.1. Jumlah Penumpang Masuk
+- Satuan : Orang
+- Definisi : Jumlah penumpang masuk di bangunan struktur di air yang digunakan untuk bertambatnya kapal-kapal agar dapat melakukan bongkar muat barang atau menaik turunkan penumpang dengan aman dan lancar.
+- Sumber : Raka Mandi NB. 2015. Pelabuhan Perencanaan dan Perancangan Konstruksi Bangunan Laut dan Pantai. Den Pasar : PT Asdi Mahasatya.Arti Foundation.(diolah)
+
+#### 4.1.15.I.2.12.2. Jumlah Penumpang Keluar
+- Satuan : Orang
+- Definisi : Jumlah penumpang keluar dari bangunan struktur di air yang digunakan untuk bertambatnya kapal-kapal agar dapat melakukan bongkar muat barang atau menaik turunkan penumpang dengan aman dan lancar.
+- Sumber : Raka Mandi NB. 2015. Pelabuhan Perencanaan dan Perancangan Konstruksi Bangunan Laut dan Pantai. Den Pasar : PT Asdi Mahasatya.Arti Foundation.(diolah)
+
+#### 4.1.15.I.2.13. Jumlah Barang Melalui Dermaga**
+- Satuan : Ton
+- Definisi : Jumlah berat barang yang melalui bangunan tempat menambatkan kapal yang melakukan muat-bongkar barang dan menaik-turunkan penumpang.
+- Sumber : SNI Dermaga Untuk pelayanan Kapal perintis (diolah)
+
+#### 4.1.15.I.2.13.1. Jumlah Barang Masuk
+- Satuan : Ton
+- Definisi : Jumlah berat barang yang masuk di bangunan tempat menambatkan kapal yang melakukan muat-bongkar barang dan menaik-turunkan penumpang.
+- Sumber : SNI Dermaga Untuk pelayanan Kapal perintis (diolah)
+
+#### 4.1.15.I.2.13.2. Jumlah Barang Keluar
+- Satuan : Ton
+- Definisi : Jumlah berat barang yang keluar di bangunan tempat menambatkan kapal yang melakukan muat-bongkar barang dan menaik-turunkan penumpang.
+- Sumber : SNI Dermaga Untuk pelayanan Kapal perintis (diolah)
+
+#### 4.1.15.I.2.14. Jumlah Perusahaan Angkutan ASDP**
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.14.1. Perusahaan Milik Pemerintah
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+#### 4.1.15.I.2.14.2. Perusahaan Milik Swasta
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+### 4.1.15.II. Perkeretaapian*			
+#### 4.1.15.II.1. Jumlah Stasiun Kereta Api**
+- Satuan : Unit
+- Definisi : Jumlah tempat pemberangkatan dan pemberhentian kereta api.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 1)
+
+#### 4.1.15.II.1.1. Jumlah Stasiun Orang
+- Satuan : Unit
+- Definisi : Jumlah stasiun kereta api untuk keperluan naik turun penumpang.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 3)
+
+#### 4.1.15.II.1.2. Jumlah Stasiun Barang
+- Satuan : Unit
+- Definisi : Jumlah stasiun kereta api untuk keperluan bongkar muat barang.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 3)
+
+#### 4.1.15.II.1.3. Jumlah Stasiun Operasional (Depo)
+- Satuan : Unit
+- Definisi : Jumlah stasiun kereta api untuk keperluan pengoperasian kereta api.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 3)
+
+#### 4.1.15.II.2. Jumlah Barang Menggunakan Angkutan Kereta Api
+- Satuan : Ton
+- Definisi : Banyaknya barang yang diantar dari atau ke stasiun dengan menggunakan jasa kereta api dan pengguna jasa tersebut memiliki tanda bukti perjanjian pengangkutan barang berupa surat angkutan barang.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 1)
+
+#### 4.1.15.II.3. Jumlah Penumpang Kereta Api
+- Satuan : Orang
+- Definisi : Jumlah orang yang naik atau turun dari kereta api sebagai pengguna jasa kereta api dan memiliki karcis sebagai tanda bukti perjanjian angkutan orang.
+- Sumber : Peraturan Menteri Perhubungan Nomor: Pm. 33 Tahun 2011 Jenis, Kelas dan Kegiatan Stasiun Kereta Api (Pasal 1)
+
+#### 4.1.15.II.4. Jumlah Perlintasan Sebidang Kereta Api**
+- Satuan : Lintasan
+- Definisi : Jumlah perpotongan sebidang antara jalur kereta api dengan jalan.
+- Sumber : Peraturan Menteri Perhubungan Nomor PM : 36 Tahun 2011 tentang Perpotongan Dan/Atau Persinggungan Antara Jalur Kereta Api Dengan Bangunan lain (pasal 3)
+
+#### 4.1.15.II.4.1. Jumlah Perlintasan Sebidang Berpalang
+- Satuan : Lintasan
+- Definisi : Jumlah perpotongan sebidang antara jalur kereta api dengan jalan dan dilengkapi dengan palang.
+- Sumber :
+
+#### 4.1.15.II.4.2. Jumlah Perlintasan Sebidang Tidak Berpalang
+- Satuan : Lintasan
+- Definisi : Jumlah perpotongan sebidang antara jalur kereta api dengan jalan tanpa dilengkapi palang.
+- Sumber :
+
+#### 4.1.15.II.5. Jumlah Badan Usaha Penunjang Perkeretaapian
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+### 4.1.15.III. Transportasi Laut*			
+#### 4.1.15.III.1. Jumlah Moda Angkutan Laut**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.1. Jumlah Kapal Penumpang**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.1.1. Jumlah Kapal Penumpang Regional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.1.2. Jumlah Kapal Penumpang Lokal
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.2. Jumlah Kapal Barang**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.2.1. Jumlah Kapal Barang Regional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.1.2.2. Jumlah Kapal Barang Lokal
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.2. Jumlah Badan Usaha Angkutan Laut**
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.2.1.  Jumlah Badan Usaha Angkutan Laut Regional
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.2.2.  Jumlah Badan Usaha Angkutan Laut Lokal
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.3. Jumlah Terminal Peti Kemas
+- Satuan : Unit
+- Definisi : terminal untuk bagian dari alat angkut yang berbentuk kotak serta terbuat dari bahan yang memenuhi syarat, bersifat permanen dan dapat dipakai berulang-ulang, yang memiliki pasangan sudut serta dirancang secara khusus untuk memudahkan angkutan barang dengan satu atau lebih moda transportasi, tanpa harus dilakukan pemuatan kembali.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 51 Tahun 2002 Tentang Perkapalan
+
+#### 4.1.15.III.4. Jumlah Perusahaan Angkutan Laut**
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.4.1. Perusahaan Milik Pemerintah
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.4.2. Perusahaan Milik Swasta
+- Satuan : Perusahaan
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.5. Jumlah Penumpang Melalui Pelabuhan Perintis**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.5.1. Jumlah Penumpang Keluar
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.5.2. Jumlah Penumpang Masuk
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.6. Jumlah Penumpang Melalui Pelabuhan Penumpang**
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.6.1. Jumlah Penumpang Keluar
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.6.2. Jumlah Penumpang Masuk
+- Satuan : Orang
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.7. Penumpang/Barang Melalui Pelabuhan Pengumpan** 			
+#### 4.1.15.III.7.1. Jumlah Penumpang**
+- Satuan : Orang
+- Definisi : Jumlah penumpang di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.7.1.1.  Keluar
+- Satuan : Orang
+- Definisi : Jumlah penumpang yang keluar di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.7.1.2.  Masuk
+- Satuan : Orang
+- Definisi : Jumlah penumpang yang masuk di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.7.2. Jumlah Barang**
+- Satuan : Ton
+- Definisi : Jumlah barang di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.7.2.1.  Keluar
+- Satuan : Ton
+- Definisi : Jumlah barang yang keluar di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.7.2.2.  Masuk
+- Satuan : Ton
+- Definisi : Jumlah barang yang masuk di pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.8. Jumlah Barang Melalui Pelabuhan Peti Kemas**
+- Satuan : TEU
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.8.1. Jumlah Peti Kemas Keluar
+- Satuan : TEU
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.8.2. Jumlah Peti Kemas Masuk
+- Satuan : TEU
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.9. Jumlah Barang Melalui Pelabuhan Barang**
+- Satuan : Ton
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.9.1. Jumlah Barang Keluar
+- Satuan : Ton
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.9.2. Jumlah Barang Masuk
+- Satuan : Ton
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.10. Jenis Pelabuhan Laut* 			
+#### 4.1.15.III.10.1.  Jumlah Pelabuhan Perintis
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.10.2.  Jumlah Pelabuhan Penumpang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.III.10.3. Jumlah Pelabuhan Pengumpan**
+- Satuan : Unit
+- Definisi : Jumlah  pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut
+
+#### 4.1.15.III.10.3.1.  Jumlah Pelabuhan Pengumpan Regional
+- Satuan : Unit
+- Definisi : Jumlah  pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi yang melayani angkutan laut  antar kabupaten/kota  dalam propinsi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut, Keputusan menteri perhubungan nomor 53 tahun 2002 (diolah)
+
+#### 4.1.15.III.10.3.2.  Jumlah Pelabuhan Pengumpan Lokal
+- Satuan : Unit
+- Definisi : Jumlah  pelabuhan yang fungsi pokoknya melayani kegiatan angkutan laut dalam negeri, alih muat angkutan laut dalam negeri dalam jumlah terbatas, merupakan pengumpan bagi pelabuhan utama dan pelabuhan pengumpul, dan sebagai tempat asal tujuan penumpang dan/atau barang, serta angkutan penyebrangan dengan jangkauan pelayanan dalam provinsi sebagai tempat  pelayanan moda  transportasi laut untuk mendukung kehidupan masyarakat lokal yang biasanya terdapat didaerah yang terisolasi
+- Sumber : UU RI nomor 17 tahun 2006 tentang pelayaran, Peraturan menteri perhubungan Republik Indonesia Nomor : PM 51 Tahun 2015 tentang penyelenggaraan pelabuhan laut, Keputusan menteri perhubungan nomor 53 tahun 2002 (diolah)
+
+#### 4.1.15.III.10.4.  Jumlah Pelabuhan Peti Kemas
+- Satuan : Unit
+- Definisi : Pelabuhan untuk bagian dari alat angkut yang berbentuk kotak serta terbuat dari bahan yang memenuhi syarat, bersifat permanen dan dapat dipakai berulang-ulang, yang memiliki pasangan sudut serta dirancang secara khusus untuk memudahkan angkutan barang dengan satu atau lebih moda transportasi, tanpa harus dilakukan pemuatan kembali.
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 51 Tahun 2002 Tentang Perkapalan (diolah)
+
+#### 4.1.15.III.10.5.  Jumlah Pelabuhan Barang
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+### 4.1.15.IV. Transportasi Udara*			
+#### 4.1.15.IV.1. Jumlah Bandar Udara**
+- Satuan : Unit
+- Definisi : Jumlah kawasan di daratan dan/atau perairan dengan batas-batas tertentu yang digunakan sebagai tempat pesawat udara mendarat dan lepas landas, naik turun penumpang, bongkar muat barang, dan tempat perpindahan intra dan antarmoda transportasi, yang  dilengkapi dengan fasilitas keselamatan dan keamanan penerbangan, serta fasilitas pokok dan  fasilitas penunjang lainnya.
+- Sumber : Undang-Undang Republik Indonesia Nomor  1   Tahun  2009 Tentang Penerbangan (pasal 1)
+
+#### 4.1.15.IV.1.1. Jumlah Bandar Udara Internasional
+- Satuan : Unit
+- Definisi : Jumlah bandar udara yang ditetapkan sebagai bandar udara yang melayani rute penerbangan dalam negeri dan rute penerbangan dari dan ke luar negeri.
+- Sumber : Undang-Undang Republik Indonesia Nomor  1   Tahun  2009 Tentang Penerbangan (pasal 1)
+
+#### 4.1.15.IV.1.2. Jumlah Bandar Udara Domestik
+- Satuan : Unit
+- Definisi : Jumlah bandar udara yang ditetapkan sebagai bandar udara yang melayani rute penerbangan dalam negeri.
+- Sumber : Undang-Undang Republik Indonesia Nomor  1   Tahun  2009 Tentang Penerbangan (pasal 1)
+
+#### 4.1.15.IV.1.3. Jumlah Pelabuhan Udara Perintis
+- Satuan : Unit
+- Definisi :
+- Sumber :
+
+#### 4.1.15.IV.2. Jumlah Landasan Helikopter (Helipad)
+- Satuan : Unit
+- Definisi : biasanya disebut heliport yaitu bandar udara yang digunakan untuk pendaratan dan lepas landas helikopter didaratan, diatas gedung dan anjungan lepas pantai/kapal
+- Sumber : Peraturan Direktur Jenderal Perhubungan Udara Nomor : SKEP/41/III/2010 Tentang Persyaratan standar teknis dan operasional peraturan keselamatan penerbangan sipil bagial 139 Tempat Pendaratan dan lepas landas helikopter (heliport)
+
+#### 4.1.15.IV.3. Jumlah Penumpang Angkutan Udara
+- Satuan : Orang
+- Definisi : jumlah penumpang disetiap kegiatan dengan menggunakan pesawat udara untuk mengangkut penumpang, kargo dan pos untuk satu perjalanan atau lebih dari satu bandar udara kebandar udara yang lain atau beberapa bandar udara
+- Sumber : Peraturan Menteri Perhubungan Nomor KM 25 Tahun 2008 Tentang Penyelenggaraan Angkutan Udara (diolah)
+
+#### 4.1.15.IV.4. Jumlah Barang Menggunakan Angkutan Udara
+- Satuan : Ton
+- Definisi : jumlah berat barat dalam ton disetiap kegiatan dengan menggunakan pesawat udara untuk mengangkut penumpang, kargo dan pos untuk satu perjalanan atau lebih dari satu bandar udara kebandar udara yang lain atau beberapa bandar udara
+- Sumber : Peraturan Menteri Perhubungan Nomor KM 25 Tahun 2008 Tentang Penyelenggaraan Angkutan Udara (diolah)
+
+#### 4.1.15.IV.5. Jumlah Perusahaan Angkutan Udara**
+- Satuan : Perusahaan
+- Definisi : perusahaan yang mengoperasikan pesawat udara untuk digunakan mengangkut penumpang, kargo, dan pos dengan memungut pembayaran
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara
+
+#### 4.1.15.IV.5.1. Perusahaan Milik Pemerintah
+- Satuan : Perusahaan
+- Definisi : perusahaan milik pemerintah yang mengoperasikan pesawat udara untuk digunakan mengangkut penumpang, kargo, dan pos dengan memungut pembayaran
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara
+
+#### 4.1.15.IV.5.2. Perusahaan Milik Swasta
+- Satuan : Perusahaan
+- Definisi : perusahaan milik swasta  yang mengoperasikan pesawat udara untuk digunakan mengangkut penumpang, kargo, dan pos dengan memungut pembayaran milik
+- Sumber : Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara
+
+## 4.1.16. Telekomunikasi Dan Informatika
+### 4.1.16.I. Telekomunikasi*
+#### 4.1.16.I.1. Layanan Telepon Seluler*			
+#### 4.1.16.I.1.1. Jumlah Desa Terlayani**
+- Satuan : Desa
+- Definisi : Jumlah desa yang telah terlayani telepon selular/setiap alat perlengkapan yang digunakan dalam berkomunikasi jarak jauh dengan menggunakan jaringan seluler dan jaringan nirkabel lainnya.
+- Sumber : Peraturan Menteri Perdagangan RI Nomor 38/M-DAG/PER/8/2013 (Pasal 1) diolah
+           
+#### 4.1.16.I.1.2. Jumlah Desa Belum Terlanyani**
+- Satuan : Desa
+- Definisi : Jumlah desa yang belum terlayani telepon selular/setiap alat perlengkapan yang digunakan dalam berkomunikasi jarak jauh dengan menggunakan jaringan seluler dan jaringan nirkabel lainnya.
+- Sumber : Peraturan Menteri Perdagangan RI Nomor 38/M-DAG/PER/8/2013 (Pasal 1) diolah
+           
+#### 4.1.16.I.1.3. Jumlah BTS**
+- Satuan : Unit
+- Definisi : Jumlah infrastruktur telekomunikasi yang memfasilitasi komunikasi nirkabel antara piranti komunikasi dan jaringan operator.
+- Sumber : Jurnal hukum DOI: 10.18196/jmh.2015.0056.205-217 (Perlindungan Hukum Bagi Kreditor Dalam Penggunaan Base Transceifer Station (BTS) Sebagai Objek Jaminan Fidusia Dalam Perjanjian Kredit)
+
+#### 4.1.16.I.1.4. Jumlah Provider**
+- Satuan : Provider
+- Definisi : Penyelenggara jasa telekomunikasi yang menawarkan layanan akses internet ke publik.
+- Sumber : Peraturan Menteri Komunikasi Dan Informatika Republik Indonesia Nomor  6  Tahun  2017 Tentang Penyelenggaraan Layanan Televisi Protokol Internet (Internet Protocol Television) pasal 1
+           
+#### 4.1.16.I.2. Layanan Telepon Kabel*			
+#### 4.1.16.I.2.1. Jumlah Jaringan Telepon Tersedia**
+- Satuan : SS
+- Definisi : Jumlah jaringan telepon kabel yang tersedia
+- Sumber : 	
+           
+#### 4.1.16.I.2.2. Jumlah Jaringan Terpasang**
+- Satuan : SS
+- Definisi : total jumlah satuan sambungan yang terpasangan pada jaringan rumah tangga, perkantoran, swasta/dunia usaha,telepon umum koin, telepon umum kartu dan warung telepon.
+- Sumber :
+
+#### 4.1.16.I.2.2.1. Jumlah Sambungan Rumah Tangga**
+- Satuan : SS
+- Definisi : Jumlah satuan sambungan rumah tangga  yang terpasang jaringan telepon
+- Sumber : 	
+                     
+#### 4.1.16.I.2.2.2. Jumlah Sambungan Perkantoran**
+- Satuan : SS
+- Definisi : Jumlah satuan sambungan perkantoran  yang terpasang jaringan telepon
+- Sumber : 	
+                     
+#### 4.1.16.I.2.2.3. Jumlah Sambungan Swasta/Dunia Usaha**
+- Satuan : SS
+- Definisi : Jumlah satuan sambungan swasta/dunia usaha yang terpasang jaringan telepon
+- Sumber : 	
+                     
+#### 4.1.16.I.2.2.4. Jumlah Telepon Umum Koin**
+- Satuan : SS
+- Definisi : Jumlah fasilitas layanan telepon publik dengan cara pelayanan memasukan uang (pada umumnya koin) sebelum melakukan panggilan.
+- Sumber : 	
+                     
+#### 4.1.16.I.2.2.5. Jumlah Telepon Umum Kartu**
+- Satuan : SS
+- Definisi : Jumlah fasilitas layanan telepon publik dengan cara pelayanan memasukan kartu telepon sebelum melakukan panggilan.
+- Sumber : 	
+                     
+#### 4.1.16.I.2.2.6. Jumlah Warung Telepon**
+- Satuan : SS
+- Definisi : Jumlah satuan sambungan pada tempat yang disediakan untuk pelayanan jasa telekomunikasi untuk umum yang ditunggu baik bersifat sementara maupun tetap dan merupakan bagian dari telepon umum
+- Sumber : 	
+                     
+#### 4.1.16.I.3. Layanan Internet*			
+#### 4.1.16.I.3.1. Jumlah Desa Terlayani**
+- Satuan : Desa
+- Definisi : Jumlah desa yang telah terlayani layanan internet
+- Sumber : 	
+           
+#### 4.1.16.I.3.2. Jumlah Desa Belum Terlanyani**
+- Satuan : Desa
+- Definisi : Jumlah desa yang belum terlayani layanan internet
+- Sumber : 	
+           
+### 4.1.16.II. Pos*			
+#### 4.1.16.II.1. Jumlah Kantor Pos**
+- Satuan : Unit
+- Definisi : suatu unit usaha PT Pos Indonesia (Persero)yang berdiri sendiri dan membawahi satu atau beberapa kantor pos tambahan dan atau kantor pos pembantu.
+- Sumber : 	
+           
+#### 4.1.16.II.2. Jumlah Kantor Pos Pembantu**
+- Satuan : Unit
+- Definisi : unit usaha PT Pos Indonesia (Persero) di luar kota yang mempertanggungjawabkan penerimaan dan pengeluaran serta kepengurusan eksploitasinya kepada Kantor Pos dan Giro.
+- Sumber : 	
+           
+#### 4.1.16.II.3. Jumlah Desa Terlayani Pos Keliling**
+- Satuan : Desa
+- Definisi : unit layanan pos bergerak dipedesaan yang berfungsi seperti kantor pos atau kantor pos pembantu
+- Sumber : 	
+          
+### 4.1.16.III. Layanan Media Elektronik* 			
+#### 4.1.16.III.1. Radio*			
+#### 4.1.16.III.1.1. Jumlah Stasiun Radio**
+- Satuan : Stasiun
+- Definisi : Jumlah satu atau beberapa perangkat pemancar atau perangkat penerima atau gabungan dari perangkat pemancar dan penerima termasuk alat perlengkapan yang diperlukan di satu lokasi untuk menyelenggarakan komunikasi radio.
+- Sumber : Peraturan  Menteri Komunikasi Dan Informatika Nomor : 17/Per/M.Kominfo/9/2005 Tentang Tata Cara Perizinan Dan Ketentuan Operasional Penggunaan Spektrum Frekuensi Radio
+
+#### 4.1.16.III.1.1.1. Jumlah Stasiun Radio Pemerintah
+- Satuan : Stasiun
+- Definisi : Jumlah satu atau beberapa perangkat pemancar atau perangkat penerima atau gabungan dari perangkat pemancar dan penerima termasuk alat perlengkapan yang diperlukan di satu lokasi untuk menyelenggarakan komunikasi radio milik pemerintah.
+- Sumber : Peraturan  Menteri Komunikasi Dan Informatika Nomor : 17/Per/M.Kominfo/9/2005 Tentang Tata Cara Perizinan Dan Ketentuan Operasional Penggunaan Spektrum Frekuensi Radio (Diolah)
+
+#### 4.1.16.III.1.1.2. Jumlah Stasiun Radio Swasta
+- Satuan : Stasiun
+- Definisi : Jumlah satu atau beberapa perangkat pemancar atau perangkat penerima atau gabungan dari perangkat pemancar dan penerima termasuk alat perlengkapan yang diperlukan di satu lokasi untuk menyelenggarakan komunikasi radio milik swasta.
+- Sumber : Peraturan  Menteri Komunikasi Dan Informatika Nomor : 17/Per/M.Kominfo/9/2005 Tentang Tata Cara Perizinan Dan Ketentuan Operasional Penggunaan Spektrum Frekuensi Radio (Diolah)
+
+#### 4.1.16.III.1.2. Cakupan Layanan*			
+#### 4.1.16.III.1.2.1. Jumlah Kecamatan Terlayani
+- Satuan : Kecamatan
+- Definisi : Jumlah Kecamatan yang telah terlayani satu atau beberapa perangkat pemancar atau perangkat penerima atau gabungan dari perangkat pemancar dan penerima termasuk alat perlengkapan yang diperlukan di satu lokasi untuk menyelenggarakan komunikasi radio.
+- Sumber : Peraturan  Menteri Komunikasi Dan Informatika Nomor : 17/Per/M.Kominfo/9/2005 Tentang Tata Cara Perizinan Dan Ketentuan Operasional Penggunaan Spektrum Frekuensi Radio (Diolah)
+
+#### 4.1.16.III.1.2.2. Jumlah Kecamatan Belum Terlayani
+- Satuan : Kecamatan
+- Definisi : Jumlah Kecamatan yang belum terlayani satu atau beberapa perangkat pemancar atau perangkat penerima atau gabungan dari perangkat pemancar dan penerima termasuk alat perlengkapan yang diperlukan di satu lokasi untuk menyelenggarakan komunikasi radio.
+- Sumber : Peraturan  Menteri Komunikasi Dan Informatika Nomor : 17/Per/M.Kominfo/9/2005 Tentang Tata Cara Perizinan Dan Ketentuan Operasional Penggunaan Spektrum Frekuensi Radio (Diolah)
+
+#### 4.1.16.III.2. Televisi*			
+#### 4.1.16.III.2.1. Jumlah Stasiun Televisi**
+- Satuan : Stasiun
+- Definisi : bangunan yang dilengkapi dengan peralatan televisi, termasuk pemancar atau perlengkapan penerimaan siaran, serta peralatan-peralatan untuk menyelenggarakan rangkaian proses produksi siaran program acara televisi kepada masyarakat, baik yang dikelola oleh pemerintah maupun swasta.
+- Sumber : Stasiun Televisi Swasta Lokal diYogyakarta (kajian Ilmiah)
+
+#### 4.1.16.III.2.1.1. Jumlah Stasiun Televisi Pemerintah
+- Satuan : Stasiun
+- Definisi : bangunan yang dilengkapi dengan peralatan televisi, termasuk pemancar atau perlengkapan penerimaan siaran, serta peralatan-peralatan untuk menyelenggarakan rangkaian proses produksi siaran program acara televisi kepada masyarakat, baik yang dikelola oleh pemerintah
+- Sumber : Stasiun Televisi Swasta Lokal diYogyakarta (kajian Ilmiah)
+
+#### 4.1.16.III.2.1.2. Jumlah Stasiun Televisi Swasta
+- Satuan : Stasiun
+- Definisi : bangunan yang dilengkapi dengan peralatan televisi, termasuk pemancar atau perlengkapan penerimaan siaran, serta peralatan-peralatan untuk menyelenggarakan rangkaian proses produksi siaran program acara televisi kepada masyarakat, baik yang dikelola oleh swasta.
+- Sumber : Stasiun Televisi Swasta Lokal diYogyakarta (kajian Ilmiah)
+
+#### 4.1.16.III.2.2. Cakupan Layanan*			
+#### 4.1.16.III.2.2.1. Jumlah Kecamatan Terlayani
+- Satuan : Kecamatan
+- Definisi : Jumlah kecamatan yang terlayani bangunan yang dilengkapi dengan peralatan televisi, termasuk pemancar atau perlengkapan penerimaan siaran, serta peralatan-peralatan untuk menyelenggarakan rangkaian proses produksi siaran program acara televisi kepada masyarakat, baik yang dikelola oleh pemerintah maupun swasta.
+- Sumber : Stasiun Televisi Swasta Lokal diYogyakarta (kajian Ilmiah) diolah
+
+#### 4.1.16.III.2.2.2. Jumlah Kecamatan Belum Terlayani
+- Satuan : Kecamatan
+- Definisi : Jumlah kecamatan yang terlayani bangunan yang dilengkapi dengan peralatan televisi, termasuk pemancar atau perlengkapan penerimaan siaran, serta peralatan-peralatan untuk menyelenggarakan rangkaian proses produksi siaran program acara televisi kepada masyarakat, baik yang dikelola oleh pemerintah maupun swasta.
+- Sumber : Stasiun Televisi Swasta Lokal diYogyakarta (kajian Ilmiah) diolah
+
+### 4.1.16.IV. Media Cetak*			
+#### 4.1.16.IV.1. Surat Kabar Nasional*			
+#### 4.1.16.IV.1.1. Jumlah Kecamatan Terlayani
+- Satuan : Desa
+- Definisi : Jumlah kecamatan yang telah terlayani surat kabar yang beroplah besar dan memiliki peredaran luas secara nasional, yang tercantum dalam daftar surat kabar nasional yang ditetapkan oleh Menteri Komunikasi dan Informatika.
+- Sumber : Peraturan Presiden Republik Indonesia Nomor 8 Tahun 2006 tentang Perubahan Keempat Atas Keputusan Presiden Nomor 80 Tahun 2003 Tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah
+
+#### 4.1.16.IV.1.2. Jumlah Kecamatan Belum Terlanyani
+- Satuan : Desa
+- Definisi : Jumlah kecamatan yang belum terlayani surat kabar yang beroplah besar dan memiliki peredaran luas secara nasional, yang tercantum dalam daftar surat kabar nasional yang ditetapkan oleh Menteri Komunikasi dan Informatika.
+- Sumber : Peraturan Presiden Republik Indonesia Nomor 8 Tahun 2006 tentang Perubahan Keempat Atas Keputusan Presiden Nomor 80 Tahun 2003 Tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah
+
+#### 4.1.16.IV.2. Surat Kabar Lokal*			
+#### 4.1.16.IV.2.1. Jumlah Kecamatan Terlayani
+- Satuan : Desa
+- Definisi : Jumlah kecamatan yang telah terlayani surat kabar yang mempunyai peredaran di wilayah kedudukan lokal
+- Sumber : Peraturan Bank Indonesia Nomor: 8/20/Pbi/2006 Tentang Transparansi Kondisi Keuangan Bank Perkreditan Rakyat (diolah)
+#### 4.1.16.IV.2.2. Jumlah Kecamatan Belum Terlanyani
+- Satuan : Desa
+- Definisi : Jumlah kecamatan yang belum terlayani surat kabar yang mempunyai peredaran di wilayah kedudukan lokal
+- Sumber : Peraturan Bank Indonesia Nomor: 8/20/Pbi/2006 Tentang Transparansi Kondisi Keuangan Bank Perkreditan Rakyat (diolah)
+
 ## 4.1.17. Koperasi, Usaha Kecil, Dan Menengah
 ### 4.1.17.I. UMKM Perbidang usaha
 - Satuan : Usaha
@@ -3313,8 +6512,7 @@ PDRB mempunyai pengaruh positif terhadap konsumsi rumah tangga, artinya apabila 
 #### 4.1.17.I.1.2. Jumlah Usaha Kecil **
 - Satuan : Usaha
 - Definisi : Jumlah usaha ekonomi produktif dibidang kuliner yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dari Usaha Menengah atau Usaha Besar yang memenuhi kriteria Usaha Kecil sebagaimana dimaksud dalam undang-undang.
-- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2008 tentang Usaha
-Mikro, Kecil, Dan Menengah (pasal 1) diolah
+- Sumber : Undang-Undang Republik Indonesia Nomor 20 Tahun 2008 tentang Usaha Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.17.I.1.3. Jumlah Usaha Menengah **
 - Satuan : Usaha
@@ -3686,8 +6884,8 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 ## 4.1.18. Penanaman Modal			
 ### 4.1.18.I. Jumlah Penanaman Modal Asing
 - Satuan : Rp/Juta
-- Definisi : "Kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal asing, baik yang menggunakan modal asing sepenuhnya maupun yang berpatungan dengan penanam modal dalam negeri.
-"
+- Definisi : Kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal asing, baik yang menggunakan modal asing sepenuhnya maupun yang berpatungan dengan penanam modal dalam negeri.
+
 - Sumber : Undang Undang Republik Indonesia Nomor  25  Tahun  2007 Tentang Penanaman Modal (pasal 1)
       
 #### 4.1.18.I.1. Jumlah Nilai Investasi**
@@ -3969,7 +7167,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 ### 4.1.18.II. Jumlah Penanaman Modal Dalam Negeri
 - Satuan : Rp/Juta
-- Definisi : "Kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal dalam negeri dengan menggunakan modal dalam negeri."
+- Definisi : Kegiatan menanam modal untuk melakukan usaha di wilayah negara Republik Indonesia yang dilakukan oleh penanam modal dalam negeri dengan menggunakan modal dalam negeri.
 - Sumber : Undang Undang Republik Indonesia Nomor  25  Tahun  2007 Tentang Penanaman Modal (pasal 1)
 
 #### 4.1.18.II.1. Jumlah Nilai Investasi**
@@ -4588,7 +7786,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.19.II.1.5. Jumlah Stadion Sepak Bola**
 - Satuan : Unit
-- Definisi : bangunan untuk kegiatan olahraga sepakbola, termasuk fasilitas untuk penonton, baik pertandingan/perlombaan maupun untuk latihan
+- Definisi : bangunann untuk kegiatan olahraga sepakbola, termasuk fasilitas untuk penonton, baik pertandingan/perlombaan maupun untuk latihan
 - Sumber : Peraturan Sekretaris Kementerian Pemuda dan Olahraga Nomor 145 Tahun 2016 tentang Petunjuk Teknis Bantuan Pemerintah Berupa Prasarana Olahraga Prestasi yang akan diserahkan kepada Masyarakat/Pemerintah Daerah
 
 #### 4.1.19.II.1.5.1. Tipe A
@@ -4608,7 +7806,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.19.II.1.6. Jumlah Stadion Atletik**
 - Satuan : Unit
-- Definisi : bangunan untuk kegiatan olahraga atletik, termasuk fasilitas untuk penonton, baik pertandingan/perlombaan maupun untuk latihan
+- Definisi : bangunann untuk kegiatan olahraga atletik, termasuk fasilitas untuk penonton, baik pertandingan/perlombaan maupun untuk latihan
 - Sumber : Peraturan Sekretaris Kementerian Pemuda dan Olahraga Nomor 145 Tahun 2016 tentang Petunjuk Teknis Bantuan Pemerintah Berupa Prasarana Olahraga Prestasi yang akan diserahkan kepada Masyarakat/Pemerintah Daerah
              
 #### 4.1.19.II.1.6.1. Tipe A
@@ -4643,7 +7841,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.19.II.1.8. Jumlah Gedung Olahraga**
 - Satuan : Unit
-- Definisi : jumlah suatu bangunan gedung yang digunakan untuk kegiatan olahraga yang dilakukan di dalam ruangan (indoor).
+- Definisi : jumlah suatu bangunann gedung yang digunakan untuk kegiatan olahraga yang dilakukan di dalam ruangan (indoor).
 - Sumber : Peraturan Sekretaris Kementerian Pemuda dan Olahraga Nomor 145 Tahun 2016 tentang Petunjuk Teknis Bantuan Pemerintah Berupa Prasarana Olahraga Prestasi yang akan diserahkan kepada Masyarakat/Pemerintah Daerah
              
 #### 4.1.19.II.1.8.1. Tipe A
@@ -4663,7 +7861,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.19.II.1.9. Jumlah Kolam Renang
 - Satuan : Unit
-- Definisi : Jumlah prasarana kolam renang beserta bangunan fasilitas pendukungnya seperti ruang ganti, kolam pemanasan, pembilasan, dan sebagainya.
+- Definisi : Jumlah prasarana kolam renang beserta bangunann fasilitas pendukungnya seperti ruang ganti, kolam pemanasan, pembilasan, dan sebagainya.
 - Sumber : Peraturan Sekretaris Kementerian Pemuda dan Olahraga Nomor 145 Tahun 2016 tentang Petunjuk Teknis Bantuan Pemerintah Berupa Prasarana Olahraga Prestasi yang akan diserahkan kepada Masyarakat/Pemerintah Daerah
 
 #### 4.1.19.II.1.10. Jumlah Sasana Tinju/Beladiri
@@ -4674,7 +7872,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 #### 4.1.19.II.1.11. Jumlah Velodrome
 - Satuan : Unit
 - Definisi : jumlah tempat dengan kelengkapan yang digunakan untuk kegiatan olahraga balap sepeda trek yang terpisah
-- Sumber : Suryonindito, Andreas, Kajian Ilmiah "Landasan Konseptual Perencanaan dan Perancangan Arena Balap Sepeda Velodrom di Sleman, DIY" , Universitas Atma Jaya, Yogyakarta.
+- Sumber : Suryonindito, Andreas, Kajian Ilmiah Landasan Konseptual Perencanaan dan Perancangan Arena Balap Sepeda Velodrom di Sleman, DIY , Universitas Atma Jaya, Yogyakarta.
 
 #### 4.1.19.II.1.12. Jumlah Arena Bowling
 - Satuan : Unit
@@ -5232,14 +8430,14 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 - Definisi : Jumlah orang yang melakukan kunjungan ke benda cagar budaya.
 - Sumber : 
 
-#### 4.1.22.III.1.2. Jumlah Bangunan Cagar Budaya**
+#### 4.1.22.III.1.2. Jumlah Bangunann Cagar Budaya**
 - Satuan : Unit
 - Definisi : Jumlah susunan binaan yang terbuat dari benda alam atau benda buatan manusia untuk memenuhi kebutuhan ruang berdinding dan/atau tidak berdinding, dan beratap.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1)
 
 #### 4.1.22.III.1.2.1. Milik Pemerintah Daerah
 - Satuan: Unit
-- Definisi : Jumlah bangunan cagar budaya milik Pemerintah Daerah dalam hal ini gubernur, bupati, atau wali kota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.
+- Definisi : Jumlah bangunann cagar budaya milik Pemerintah Daerah dalam hal ini gubernur, bupati, atau wali kota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah 
 
 #### 4.1.22.III.1.2.2. Milik Swasta
@@ -5249,7 +8447,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.1.2.3. Jumlah Pengunjung
 - Satuan : Orang
-- Definisi : Jumlah orang yang melakukan kunjungan ke bangunan cagar budaya.
+- Definisi : Jumlah orang yang melakukan kunjungan ke bangunann cagar budaya.
 - Sumber :
 
 #### 4.1.22.III.1.3. Jumlah Struktur Cagar Budaya**
@@ -5274,7 +8472,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.1.4. Jumlah Situs Cagar Budaya**
 - Satuan : Unit
-- Definisi : Jumlah lokasi yang berada di darat dan/atau di air yang mengandung Benda Cagar Budaya, Bangunan Cagar Budaya, dan/atau Struktur Cagar Budaya sebagai hasil kegiatan manusia atau bukti kejadian pada masa lalu.
+- Definisi : Jumlah lokasi yang berada di darat dan/atau di air yang mengandung Benda Cagar Budaya, Bangunann Cagar Budaya, dan/atau Struktur Cagar Budaya sebagai hasil kegiatan manusia atau bukti kejadian pada masa lalu.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1)
 
 #### 4.1.22.III.1.4.1. Milik Pemerintah Daerah
@@ -5300,7 +8498,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.2.1.1. Sudah Ditetapkan
 - Satuan : Unit
-- Definisi : Jumlah cagar budaya milik Pemerintah Daerah dengan  pemberian status Cagar Budaya terhadap benda, bangunan, struktur, lokasi, atau satuan ruang geografis yang dilakukan oleh pemerintah kabupaten/kota berdasarkan rekomendasi Tim Ahli Cagar Budaya.
+- Definisi : Jumlah cagar budaya milik Pemerintah Daerah dengan  pemberian status Cagar Budaya terhadap benda, bangunann, struktur, lokasi, atau satuan ruang geografis yang dilakukan oleh pemerintah kabupaten/kota berdasarkan rekomendasi Tim Ahli Cagar Budaya.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.2.1.2. Belum Ditetapkan
@@ -5315,7 +8513,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.2.2.1. Sudah Ditetapkan
 - Satuan : Unit
-- Definisi : Jumlah cagar budaya milik swasta dengan  pemberian status Cagar Budaya terhadap benda, bangunan, struktur, lokasi, atau satuan ruang geografis yang dilakukan oleh pemerintah kabupaten/kota berdasarkan rekomendasi Tim Ahli Cagar Budaya.
+- Definisi : Jumlah cagar budaya milik swasta dengan  pemberian status Cagar Budaya terhadap benda, bangunann, struktur, lokasi, atau satuan ruang geografis yang dilakukan oleh pemerintah kabupaten/kota berdasarkan rekomendasi Tim Ahli Cagar Budaya.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.2.2.2. Belum Ditetapkan
@@ -5335,7 +8533,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.3.1.1. Jumlah Dipugar
 - Satuan : Unit
-- Definisi : Jumlah pelestarian cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunan Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh Pemerinta Daerah.
+- Definisi : Jumlah pelestarian cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunann Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh Pemerinta Daerah.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.3.1.2. Jumlah Belum Dipugar
@@ -5350,7 +8548,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.3.2.1. Jumlah Dipugar
 - Satuan : Unit
-- Definisi : Jumlah pelestarian cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunan Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh swasta.
+- Definisi : Jumlah pelestarian cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunann Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh swasta.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.3.2.2. Jumlah Belum Dipugar
@@ -5370,7 +8568,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.4.1.1. Jumlah Dipugar
 - Satuan : Unit
-- Definisi : Jumlah pemanfaatan cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunan Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh Pemerinta Daerah.
+- Definisi : Jumlah pemanfaatan cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunann Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh Pemerinta Daerah.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.4.1.2. Jumlah Belum Dipugar
@@ -5385,7 +8583,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.III.4.2.1. Jumlah Dipugar
 - Satuan : Unit
-- Definisi : Jumlah pemanfaatan cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunan Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh swasta.
+- Definisi : Jumlah pemanfaatan cagar budaya dalam upaya pengembalian kondisi fisik Benda Cagar Budaya, Bangunann Cagar Budaya, dan Struktur Cagar Budaya yang rusak sesuai dengan keaslian bahan, bentuk, tata letak, dan/atau teknik pengerjaan untuk memperpanjang usianya oleh swasta.
 - Sumber : Undang-Undang Republik Indonesia Nomor 11 Tahun  2010  tentang Cagar Budaya (pasal 1) diolah
 
 #### 4.1.22.III.4.2.2. Jumlah Belum Dipugar
@@ -5402,12 +8600,12 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.IV.1.1.1. Jumlah Museum Sudah Registrasi
 - Satuan : Unit
-- Definisi : Jumlah museum milik Pemerintah Daerah yang telah melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunan Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
+- Definisi : Jumlah museum milik Pemerintah Daerah yang telah melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunann Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2015 tentang Museum (pasal 1)
 
 #### 4.1.22.IV.1.1.2. Jumlah Museum Belum Registrasi
 - Satuan : Unit
-- Definisi : Jumlah museum milik Pemerintah Daerah tanpa melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunan Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
+- Definisi : Jumlah museum milik Pemerintah Daerah tanpa melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunann Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2015 tentang Museum (pasal 1) diolah
 
 #### 4.1.22.IV.1.2. Jumlah Museum  Milik Swasta**
@@ -5417,12 +8615,12 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.1.22.IV.1.2.1. Jumlah Museum Sudah Registrasi
 - Satuan : Unit
-- Definisi : Jumlah museum milik swasta yang telah melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunan Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
+- Definisi : Jumlah museum milik swasta yang telah melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunann Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2015 tentang Museum (pasal 1)
 
 #### 4.1.22.IV.1.2.2. Jumlah Museum Belum Registrasi
 - Satuan : Unit
-- Definisi : Jumlah museum milik Pemerintah Daerah tanpa melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunan Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
+- Definisi : Jumlah museum milik Pemerintah Daerah tanpa melalui proses pencatatan dan pendokumentasian Benda Cagar Budaya, Bangunann Cagar Budaya, dan/atau Struktur Cagar Budaya atau Bukan Cagar Budaya yang telah ditetapkan menjadi Koleksi.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 66 Tahun 2015 tentang Museum (pasal 1) diolah
 
 #### 4.1.22.IV.2. Jumlah Pengunjung Museum
@@ -7076,7 +10274,7 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 ### 4.2.26.V. Jenis Penginapan*			
 #### 4.2.26.V.1. Hotel*
 - Satuan :
-- Definisi : Bangunan yang khusus disediakan bagi orang untuk dapat menginap/istirahat, memperoleh pelayanan, dan/atau fasilitas lainnya dengan dipungut bayaran, termasuk bangunan lainnya yang menyatu, dikelola dan dimiliki oleh pihak yang sama, kecuali untuk pertokoan dan perkantoran.
+- Definisi : Bangunann yang khusus disediakan bagi orang untuk dapat menginap/istirahat, memperoleh pelayanan, dan/atau fasilitas lainnya dengan dipungut bayaran, termasuk bangunann lainnya yang menyatu, dikelola dan dimiliki oleh pihak yang sama, kecuali untuk pertokoan dan perkantoran.
 - Sumber : Peraturan Pemerintah Republik Indonesia Nomor 65 Tahun 2001 tentang Pajak Daerah
 
 #### 4.2.26.V.1.1. Jumlah Hotel Bintang Lima**
@@ -7172,17 +10370,17 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 #### 4.2.26.V.2. Penginapan Lainnya*			
 #### 4.2.26.V.2.1. Jumlah Motel**
 - Satuan : Unit
-- Definisi : Penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunan, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
+- Definisi : Penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunann, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
 - Sumber : Peraturan Menteri Pariwisata RI Nomor 25 tahun 2015 tentang standar usaha motel
 
 #### 4.2.26.V.2.1.1. Jumlah Kamar
 - Satuan : Kamar
-- Definisi : Jumlah Kamar di penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunan, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
+- Definisi : Jumlah Kamar di penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunann, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
 - Sumber : Peraturan Menteri Pariwisata RI Nomor 25 tahun 2015 tentang standar usaha motel (diolah)
 
 #### 4.2.26.V.2.1.2. Jumlah Tempat Tidur
 - Satuan : Unit
-- Definisi : Jumlah tempat tidur di penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunan, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
+- Definisi : Jumlah tempat tidur di penyediaan akomodasi secara harian dan atau sekurang-kurangnya 6 (enam) jam berupa kamar-kamar yang dilengkapi fasilitas parkir yang meyatu dengan bangunann, dilengkapi fasilitas makan dan mibum, dan berlokasi disepanjang jalan utama dengan tujuan memperoleh keuntungan
 - Sumber : Peraturan Menteri Pariwisata RI Nomor 25 tahun 2015 tentang standar usaha motel (diolah)
 
 #### 4.2.26.V.2.2. Jumlah Wisma Tamu**
@@ -7202,18 +10400,18 @@ Mikro, Kecil, Dan Menengah (pasal 1) diolah
 
 #### 4.2.26.V.2.3. Jumlah Kondotel**
 - Satuan : Unit
-- Definisi : Bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
-- Sumber : Peraturan walikota denpasar nomor 42 banguna condominium hotel (condotel)
+- Definisi : Bangunann gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
+- Sumber : Peraturan walikota denpasar nomor 42 bangunan condominium hotel (condotel)
 
 #### 4.2.26.V.2.3.1. Jumlah Kamar
 - Satuan : Kamar
-- Definisi : Jumlah kamar di bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
-- Sumber : Peraturan walikota denpasar nomor 42 banguna condominium hotel (condotel) diolah
+- Definisi : Jumlah kamar di bangunann gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
+- Sumber : Peraturan walikota denpasar nomor 42 bangunan condominium hotel (condotel) diolah
 
 #### 4.2.26.V.2.3.2. Jumlah Tempat Tidur
 - Satuan : Unit
-- Definisi : Jumlah tempat tidur di bangunan gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
-- Sumber : Peraturan walikota denpasar nomor 42 banguna condominium hotel (condotel) diolah
+- Definisi : Jumlah tempat tidur di bangunann gedung bertingkat yang dibangun dalam suatu lingkungan yang terbagi dalam bagian-bagian yang distrukturkan secara fungsional dalam arah horizontal maupun vertikal yang merupakan satuan-satuan yang masing-masing dapat dimiliki dan digunakan secara terpisah, yang dilengkapi dengan bagian bersama, benda bersama, tanah bersama dan difungsikan sebagai hotel berbintang.
+- Sumber : Peraturan walikota denpasar nomor 42 bangunan condominium hotel (condotel) diolah
 
 #### 4.2.26.V.2.4. Jumlah Bungalow**
 - Satuan : Unit
@@ -8262,7 +11460,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 
 #### 4.2.27.V.1.9.3. Jumlah Pestisida
 - Satuan : Liter
-- Definisi : Jumlah suatu zat kimia dan bahan lain serta jasad renik dan virus yang digunakan untuk: - Memberantas atau mencegah hama-hama dan penyakitpenyakit yang merusak tanaman, bagian-bagian tanaman atau hasil-hasil pertanian - Memberantas rerumputan - Mematikan daun dan mencegah pertumbuhan yang tidak diinginkan - Mengatur atau merangsang pertumbuhan tanaman atau bagian-bagian tanaman tidak termasuk pupuk - Memberantas atau mencegah hama-hama luar pada hewan-hewan piaraan dan ternak - Memberantas atau mencegah hama-hama air - Memberantas atau mencegah binatang-binatang dan jasad-jasad renik dalam rumah tangga, bangunan dan dalam alat-alat pengangkutan - Memberantas atau mencegah binatang-binatang yang dapat menyebabkan penyakit pada manusia atau binatang yang perlu dilindungi dengan penggunaan tanaman, tanah dan air.
+- Definisi : Jumlah suatu zat kimia dan bahan lain serta jasad renik dan virus yang digunakan untuk: - Memberantas atau mencegah hama-hama dan penyakitpenyakit yang merusak tanaman, bagian-bagian tanaman atau hasil-hasil pertanian - Memberantas rerumputan - Mematikan daun dan mencegah pertumbuhan yang tidak diinginkan - Mengatur atau merangsang pertumbuhan tanaman atau bagian-bagian tanaman tidak termasuk pupuk - Memberantas atau mencegah hama-hama luar pada hewan-hewan piaraan dan ternak - Memberantas atau mencegah hama-hama air - Memberantas atau mencegah binatang-binatang dan jasad-jasad renik dalam rumah tangga, bangunann dan dalam alat-alat pengangkutan - Memberantas atau mencegah binatang-binatang yang dapat menyebabkan penyakit pada manusia atau binatang yang perlu dilindungi dengan penggunaan tanaman, tanah dan air.
 - Sumber : Konsep dan definisi Baku Statistik Pertanian (2012)
 
 #### 4.2.27.V.1.10. Luas Areal Pengairan**
@@ -10424,17 +13622,17 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 - Definisi : Tempat yang disediakan dan /atau ditempatkan oleh pemerintah sebagai tempat berjualan umum atau sebagai tempat memperdagangkan barang dan/atau jasa.
 - Sumber : Peraturan Daerah Kota Bandung No. 19 Tahun 2001 Tentang Pengelolaan Pasar Di Kota Bandung (Diolah)
 
-#### 4.2.30.I.1.1.1. Jumlah Bangunan Permanen**
+#### 4.2.30.I.1.1.1. Jumlah Bangunann Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.1.2. Jumlah Bangunan Semi Permanen**
+#### 4.2.30.I.1.1.2. Jumlah Bangunann Semi Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.1.3. Jumlah Tanpa Bangunan/Tenda**
+#### 4.2.30.I.1.1.3. Jumlah Tanpa Bangunann/Tenda**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
@@ -10444,17 +13642,17 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 - Definisi : Tempat yang disediakan oleh perorangan atau Badan Hukum yang telah mendapatkan persetujuan dari Pemerintah sebagai tempat berjualan umum untuk memperdagangkan barang dan/atau jasa.
 - Sumber : Peraturan Daerah Kota Bandung No. 19 Tahun 2001 Tentang Pengelolaan Pasar Di Kota Bandung (Diolah)
 
-#### 4.2.30.I.1.2.1. Jumlah Bangunan Permanen**
+#### 4.2.30.I.1.2.1. Jumlah Bangunann Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.2.2. Jumlah Bangunan Semi Permanen**
+#### 4.2.30.I.1.2.2. Jumlah Bangunann Semi Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.2.3. Jumlah Tanpa Bangunan/Tenda **
+#### 4.2.30.I.1.2.3. Jumlah Tanpa Bangunann/Tenda **
 - Satuan : Unit
 - Definisi :
 - Sumber :		
@@ -10463,17 +13661,17 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 - Satuan : Unit
 - Definisi :
 - Sumber :		
-#### 4.2.30.I.1.3.1. Jumlah Bangunan Permanen**
+#### 4.2.30.I.1.3.1. Jumlah Bangunann Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.3.2. Jumlah Bangunan Semi Permanen**
+#### 4.2.30.I.1.3.2. Jumlah Bangunann Semi Permanen**
 - Satuan : Unit
 - Definisi :
 - Sumber :		
                 
-#### 4.2.30.I.1.3.3. Jumlah Tanpa Bangunan/Tenda **
+#### 4.2.30.I.1.3.3. Jumlah Tanpa Bangunann/Tenda **
 - Satuan : Unit
 - Definisi :
 - Sumber :	
@@ -10500,27 +13698,27 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
                 
 #### 4.2.30.I.3. Pertokoan
 - Satuan : Unit
-- Definisi : Beberapa bangunan gedung dengan fungsi usaha yang digunakan untuk menjual barang dan terdiri dari hanya satu penjual
+- Definisi : Beberapa bangunann gedung dengan fungsi usaha yang digunakan untuk menjual barang dan terdiri dari hanya satu penjual
 - Sumber : Peraturan Presiden Republik Indonesia Nomor 112 Tahun 2007
 
 #### 4.2.30.I.4. Jumlah Rumah Potong Hewan**
 - Satuan : Unit
-- Definisi : Biasa disebut dengan RPH adalah suatu bangunan atau kompleks bangunan dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan bagi konsumsi masyarakat umum
+- Definisi : Biasa disebut dengan RPH adalah suatu bangunann atau kompleks bangunann dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan bagi konsumsi masyarakat umum
 - Sumber : Peraturan Menteri Pertanian Nomor 13/PERMENTAN/OT.140/1/2010
 
 #### 4.2.30.I.4.1. Rumah Potong Hewan Sapi Dan Sejenisnya
 - Satuan : Unit
-- Definisi : Suatu bangunan atau kompleks bangunan dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan  sapi dan sejenisnya bagi konsumsi masyarakat umum
+- Definisi : Suatu bangunann atau kompleks bangunann dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan  sapi dan sejenisnya bagi konsumsi masyarakat umum
 - Sumber : Peraturan Menteri Pertanian Nomor 13/PERMENTAN/OT.140/1/2010 (diolah)
 
 #### 4.2.30.I.4.2. Rumah Potong Hewan Babi Dan Sejenisnya
 - Satuan : Unit
-- Definisi : Suatu bangunan atau kompleks bangunan dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan babi dan sejenisnya bagi konsumsi masyarakat umum
+- Definisi : Suatu bangunann atau kompleks bangunann dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan babi dan sejenisnya bagi konsumsi masyarakat umum
 - Sumber : Peraturan Menteri Pertanian Nomor 13/PERMENTAN/OT.140/1/2010 (diolah)
 
 #### 4.2.30.I.4.3. Rumah Potong Hewan Unggas Dan Sejenisnya
 - Satuan : Unit
-- Definisi : Suatu bangunan atau kompleks bangunan dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan unggas dan sejenisnya bagi konsumsi masyarakat umum
+- Definisi : Suatu bangunann atau kompleks bangunann dengan desain dan syarat tertentu yang digunakan sebagai tempat memotong hewan unggas dan sejenisnya bagi konsumsi masyarakat umum
 - Sumber : Peraturan Menteri Pertanian Nomor 13/PERMENTAN/OT.140/1/2010 (diolah)
 
 ### 4.2.30.II. Ekspor*			
@@ -10778,7 +13976,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.1. Industri Pengolahan Pangan* 			
 #### 4.2.31.I.1.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.1.2. Jumlah Tenaga Kerja
@@ -10799,7 +13997,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.2. Industri Tekstil* 			
 #### 4.2.31.I.2.1. Jumlah Unit Industri
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.2.2. Jumlah Tenaga Kerja
@@ -10820,7 +14018,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.3. Industri Barang Kulit* 			
 #### 4.2.31.I.3.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.3.2. Jumlah Tenaga Kerja
@@ -10841,7 +14039,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.4. Industri Pengolahan Kayu* 			
 #### 4.2.31.I.4.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih dan bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih dan bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.4.2. Jumlah Tenaga Kerja
@@ -10862,7 +14060,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.5. Industri Pengolahan Kertas*			
 #### 4.2.31.I.5.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.5.2. Jumlah Tenaga Kerja
@@ -10883,7 +14081,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.6. Industri Kimia Farmasi*			
 #### 4.2.31.I.6.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri kimia farmasi dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri kimia farmasi dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.6.2. Jumlah Tenaga Kerja
@@ -10904,7 +14102,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.7. Industri Pengolahan Karet*			
 #### 4.2.31.I.7.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.7.2. Jumlah Tenaga Kerja
@@ -10925,7 +14123,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.8. Industri Galian Bukan Logam* 			
 #### 4.2.31.I.8.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.8.2. Jumlah Tenaga Kerja
@@ -10946,7 +14144,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.9. Industri Baja/Pengolahan Logam* 			
 #### 4.2.31.I.9.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/ pengolahan logam dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/ pengolahan logam dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.9.2. Jumlah Tenaga Kerja
@@ -10967,7 +14165,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.10. Industri Peralatan*			
 #### 4.2.31.I.10.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.10.2. Jumlah Tenaga Kerja
@@ -10988,7 +14186,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.11. Industri Pertambangan* 			
 #### 4.2.31.I.11.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.11.2. Jumlah Tenaga Kerja
@@ -11009,7 +14207,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.I.12. Industri Pariwisata*			
 #### 4.2.31.I.12.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 5-19 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 5-19 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.I.12.2. Jumlah Tenaga Kerja
@@ -11041,7 +14239,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.1. Industri Pengolahan Pangan* 			
 #### 4.2.31.II.1.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.1.2. Jumlah Tenaga Kerja
@@ -11062,7 +14260,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.2. Industri Tekstil* 			
 #### 4.2.31.II.2.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan tekstil dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan tekstil dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.2.2. Jumlah Tenaga Kerja
@@ -11083,7 +14281,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.3. Industri Barang Kulit* 			
 #### 4.2.31.II.3.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.3.2. Jumlah Tenaga Kerja
@@ -11104,7 +14302,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.4. Industri Pengolahan Kayu* 			
 #### 4.2.31.II.4.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.4.2. Jumlah Tenaga Kerja
@@ -11125,7 +14323,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.5. Industri Pengolahan Kertas*			
 #### 4.2.31.II.5.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.5.2. Jumlah Tenaga Kerja
@@ -11146,7 +14344,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.6. Industri Kimia Farmasi*			
 #### 4.2.31.II.6.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri sedang kimia farmasi dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri sedang kimia farmasi dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.6.2. Jumlah Tenaga Kerja
@@ -11167,7 +14365,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.7. Industri Pengolahan Karet*			
 #### 4.2.31.II.7.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.7.2. Jumlah Tenaga Kerja
@@ -11188,7 +14386,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.8. Industri Galian Bukan Logam* 			
 #### 4.2.31.II.8.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.8.2. Jumlah Tenaga Kerja
@@ -11209,7 +14407,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.9. Industri Baja/Pengolahan Logam* 			
 #### 4.2.31.II.9.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/pengolahan logam dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/pengolahan logam dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.9.2. Jumlah Tenaga Kerja
@@ -11230,7 +14428,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.10. Industri Peralatan*			
 #### 4.2.31.II.10.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.10.2. Jumlah Tenaga Kerja
@@ -11251,7 +14449,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.11. Industri Pertambangan* 			
 #### 4.2.31.II.11.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.11.2. Jumlah Tenaga Kerja
@@ -11272,7 +14470,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.II.12. Industri Pariwisata*			
 #### 4.2.31.II.12.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 20-99 orang.
+- Definisi : Suatu unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 20-99 orang.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.II.12.2. Jumlah Tenaga Kerja
@@ -11308,7 +14506,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.1. Industri Pengolahan Pangan* 			
 #### 4.2.31.III.1.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.1.2. Jumlah Tenaga Kerja
@@ -11329,7 +14527,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.2. Industri Tekstil*			
 #### 4.2.31.III.2.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.2.2. Jumlah Tenaga Kerja
@@ -11350,7 +14548,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.3. Industri Barang Kulit* 			
 #### 4.2.31.III.3.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.3.2. Jumlah Tenaga Kerja
@@ -11371,7 +14569,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.4. Industri Pengolahan Kayu* 			
 #### 4.2.31.III.4.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih dan bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih dan bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.4.2. Jumlah Tenaga Kerja
@@ -11392,7 +14590,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.5. Industri Pengolahan Kertas* 			
 #### 4.2.31.III.5.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.5.2. Jumlah Tenaga Kerja
@@ -11413,7 +14611,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.6. Industri Kimia Farmasi* 			
 #### 4.2.31.III.6.1. Jumlah Unit Industri
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri kimia farmasi dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri kimia farmasi dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.6.2. Jumlah Tenaga Kerja
@@ -11434,7 +14632,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.7. Industri Pengolahan Karet*			
 #### 4.2.31.III.7.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.7.2. Jumlah Tenaga Kerja
@@ -11455,7 +14653,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.8. Industri Galian Bukan Logam* 			
 #### 4.2.31.III.8.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.8.2. Jumlah Tenaga Kerja
@@ -11476,7 +14674,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.9. Industri Baja/Pengolahan Logam* 			
 #### 4.2.31.III.9.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/ pengolahan logam dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri baja/ pengolahan logam dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.9.2. Jumlah Tenaga Kerja
@@ -11497,7 +14695,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.10. Industri Peralatan*			
 #### 4.2.31.III.10.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.10.2. Jumlah Tenaga Kerja
@@ -11518,7 +14716,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.11. Industri Pertambangan* 			
 #### 4.2.31.III.11.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.11.2. Jumlah Tenaga Kerja
@@ -11539,7 +14737,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.III.12. Industri Pariwisata*			
 #### 4.2.31.III.12.1. Jumlah Unit Industri (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 100 orang atau lebih.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 100 orang atau lebih.
 - Sumber : Badan Pusat Statistik (2016)
 
 #### 4.2.31.III.12.2. Jumlah Tenaga Kerja
@@ -11577,7 +14775,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.1. Industri Pengolahan Pangan* 			
 #### 4.2.31.IV.1.1.1. Jumlah Unit Industri/perusahaan/usaha industri**
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan pangan dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.1.2. Jumlah Tenaga Kerja**
@@ -11593,7 +14791,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.2. Industri Tekstil*			
 #### 4.2.31.IV.1.2.1. Jumlah Unit Industri(perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri tekstil dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.2.2. Jumlah Tenaga Kerja**
@@ -11609,7 +14807,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.3. Industri Barang Kulit* 			
 #### 4.2.31.IV.1.3.1. Jumlah Unit Industri(perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri barang kulit dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.3.2. Jumlah Tenaga Kerja**
@@ -11625,7 +14823,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.4. Industri Pengolahan Kayu* 			
 #### 4.2.31.IV.1.4.1. Jumlah Unit Industri(perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kayu dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.4.2. Jumlah Tenaga Kerja**
@@ -11641,7 +14839,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.5. Industri Pengolahan Kertas* 			
 #### 4.2.31.IV.1.5.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan kertas dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.5.2. Jumlah Tenaga Kerja**
@@ -11657,7 +14855,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.6. Industri Kimia Farmasi*			
 #### 4.2.31.IV.1.6.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan industri kimia farmasi dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan industri kimia farmasi dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.6.2. Jumlah Tenaga Kerja**
@@ -11673,7 +14871,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.7. Industri Pengolahan Karet*			
 #### 4.2.31.IV.1.7.1. Jumlah Unit Industri**  (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pengolahan karet dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.7.2. Jumlah Tenaga Kerja**
@@ -11689,7 +14887,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.8. Industri Galian Bukan Logam* 			
 #### 4.2.31.IV.1.8.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri galian bukan logam dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.8.2. Jumlah Tenaga Kerja**
@@ -11705,7 +14903,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.9. Industri Baja/Pengolahan Logam* 			
 #### 4.2.31.IV.1.9.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri industri baja/pengolahan logam dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri industri baja/pengolahan logam dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.9.2. Jumlah Tenaga Kerja**
@@ -11721,7 +14919,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.10. Industri Peralatan*			
 #### 4.2.31.IV.1.10.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri peralatan dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.10.2. Jumlah Tenaga Kerja**
@@ -11737,7 +14935,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.11. Industri Pertambangan* 			
 #### 4.2.31.IV.1.11.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pertambangan dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.11.2. Jumlah Tenaga Kerja**
@@ -11753,7 +14951,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.31.IV.1.12. Industri Pariwisata*			
 #### 4.2.31.IV.1.12.1. Jumlah Unit Industri** (perusahaan/usaha industri)
 - Satuan : Unit
-- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunan atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 1-4 orang.
+- Definisi : Jumlah unit (kesatuan) usaha yang melakukan kegiatan ekonomi, bertujuan menghasilkan barang atau jasa, terletak pada suatu bangunann atau lokasi tertentu, dan mempunyai catatan administrasi tersendiri mengenai produksi dan struktur biaya serta ada seorang atau lebih yang bertanggung jawab atas usaha tersebut. Yang dimaksud dalam hal ini unit industri pariwisata dengan jumlah tenaga kerja 1-4 orang.
 - Sumber : Badan Pusat Statistik (2016)
                  
 #### 4.2.31.IV.1.12.2. Jumlah Tenaga Kerja**
@@ -11803,12 +15001,12 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 #### 4.2.32.I.4.2. Rumah Transmigrasi dan Jamban Keluarga*			
 #### 4.2.32.I.4.2.1. Jumlah Rumah Memiliki Jamban**
 - Satuan : Unit
-- Definisi : Jumlah rumah transmigrasi yang memiliki jamban yaitu suatu bangunan yang digunakan untuk membuang dan mengumpulkan kotoran manusia dalam suatu tempat tertentu, sehingga kotoran tersebut tidak menjadi penyebab penyakit dan mengotori lingkungan pemukiman.
+- Definisi : Jumlah rumah transmigrasi yang memiliki jamban yaitu suatu bangunann yang digunakan untuk membuang dan mengumpulkan kotoran manusia dalam suatu tempat tertentu, sehingga kotoran tersebut tidak menjadi penyebab penyakit dan mengotori lingkungan pemukiman.
 - Sumber : Departemen kesehatan Republik Indonesia, 1995
                           
 #### 4.2.32.I.4.2.2. Jumlah Rumah Tidak Memiliki Jamban**
 - Satuan : Unit
-- Definisi : Jumlah rumah transmigrasi yang tidak memiliki bangunan yang digunakan untuk membuang dan mengumpulkan kotoran manusia dalam suatu tempat tertentu, sehingga kotoran tersebut tidak menjadi penyebab penyakit dan mengotori lingkungan pemukiman.
+- Definisi : Jumlah rumah transmigrasi yang tidak memiliki bangunann yang digunakan untuk membuang dan mengumpulkan kotoran manusia dalam suatu tempat tertentu, sehingga kotoran tersebut tidak menjadi penyebab penyakit dan mengotori lingkungan pemukiman.
 - Sumber : Departemen kesehatan Republik Indonesia, 1995 (diolah)
                           
 #### 4.2.32.I.4.3. Rumah dan Sumur Galian*			
@@ -11834,30 +15032,30 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 
 #### 4.2.32.I.4.5.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.5.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.6. Jumlah Rumah Ibadah**
 - Satuan : Unit
-- Definisi : Jumlah bangunan yang memiliki ciri-ciri tertentu yang khusus dipergunakan untuk beribadat bagi para pemeluk masing-masing agama secara permanen, tidak termasuk tempat ibadat keluarga.
+- Definisi : Jumlah bangunann yang memiliki ciri-ciri tertentu yang khusus dipergunakan untuk beribadat bagi para pemeluk masing-masing agama secara permanen, tidak termasuk tempat ibadat keluarga.
 - Sumber : Peraturan Bersama Menteri Agama Dan Menteri Dalam Negeri Nomor : 9 Tahun 2006 Dan Nomor : 8 Tahun 2006  Tentang  Pedoman Pelaksanaan Tugas Kepala Daerah/Wakil Kepala   Daerah Dalam Pemeliharaan Kerukunan Umat Beragama, Pemberdayaan Forum Kerukunan Umat Beragama, Dan Pendirian Rumah Ibadat
                
 #### 4.2.32.I.4.7. Jumlah Kantor Transmigrasi**
 - Satuan : Unit		
 #### 4.2.32.I.4.7.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.7.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.8. Jumlah Gudang**
 - Satuan : Unit
@@ -11866,28 +15064,28 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 
 #### 4.2.32.I.4.8.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.8.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.9. Jumlah Gedung SD**
 - Satuan : Unit
-- Definisi : Jumlah bangunan gedung yang digunakan untuk menjalankan fungsi sekolah/madrasah untuk pendidikan dasar.
+- Definisi : Jumlah bangunann gedung yang digunakan untuk menjalankan fungsi sekolah/madrasah untuk pendidikan dasar.
 - Sumber : Peraturan Menteri Pendidikan Nasional Nomor 24 Tahun 2007 (lampiran)
 
 #### 4.2.32.I.4.9.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.9.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : Kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.10. Jumlah Puskesmas Pembantu**
 - Satuan : Unit
@@ -11896,13 +15094,13 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 
 #### 4.2.32.I.4.10.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.10.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : Kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.11. Jumlah Balai Desa**
 - Satuan : Unit
@@ -11911,13 +15109,13 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 
 #### 4.2.32.I.4.11.1. Jumlah Kondisi Rusak**
 - Satuan : Unit
-- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunan, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Definisi : kerusakan pada sebagian atau sebagian besar komponen bangunann, baik struktural maupun non-struktural yang apabila setelah diperbaiki masih dapat berfungsi dengan baik sebagaimana mestinya
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.4.11.2. Jumlah Kondisi Baik**
 - Satuan : Unit
 - Definisi : Kerusakan terutama pada komponen nonstruktural, seperti penutup atap, langit-langit, penutup lantai, dan dinding pengisi.
-- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunan Gedung
+- Sumber : Peraturan Menteri Pekerjaan Umum Nomor : 24/PRT/M/2008 Tentang Pedoman Pemeliharaan dan Perawatan Bangunann Gedung
                           
 #### 4.2.32.I.5. Prasarana*			
 #### 4.2.32.I.5.1. Panjang Jalan Poros**
@@ -12267,6 +15465,7 @@ dari curah hujan. Tanah sawah tadah hujan memiliki kemampuan potensial menahan a
 - Satuan : Unit
 - Definisi : Kawasan transmigrasi yang pembangunan dan pengembangannya dirancang menjadi pusat pertumbuhan yang mempunyai fungsi perkotaan melalul pengelolaan sumber daya alam yang berkelanjutan dan telah dibentuk.
 - Sumber : Peraturan Menteri Tenaga Kerja Dan Transmigrasi Republik Indonesia Nomor Per.15/Men/Vi/2007 Tentang Penyiapan Permukiman Transmigrasi (pasal 4) diolah
+
 #### 4.2.32.IV.2. Jumlah KTM Direncanakan**
 - Satuan : Unit
 - Definisi : Kawasan transmigrasi yang pembangunan dan pengembangannya dirancang menjadi pusat pertumbuhan yang mempunyai fungsi perkotaan melalul pengelolaan sumber daya alam yang berkelanjutan dan masih dalam proses perencanaan.
